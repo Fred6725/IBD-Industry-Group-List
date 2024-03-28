@@ -1,0 +1,5299 @@
+TICKER,Industry Group
+A,Med-Resrch Eqp/Svc
+AA,Mining-Metal Ores
+AACG,Consumr Svc-Edcation
+AACI,Finance-Blank Check
+AACT,Finance-Blank Check
+AADI,Medical-Biomed/Bth
+AAIC,Fnce-Invsmnt Mgt
+AAL,Trnsprttin-Airlne
+AAMC,Fin-Mrtg&Rel Svc
+AAME,Insrnce-Prp/Cas/Titl
+AAN,Rtail-Hme Frnshngs
+AAOI,Telcom-Fibr Optcs
+AAON,Bldg-A/C & Heating P
+AAP,Retail/Wsl-Auto Prt
+AAPL,Telcom-Cons Prod
+AAT,Finance-Property Reit
+AAU,Mining-Metal Ores
+AB,Fnce-Invsmnt Mgt
+ABAT,Mining-Metal Ores
+ABBV,Medical-Ethical Drgs
+ABCB,Banks-Southeast
+ABCL,Medical-Biomed/Bth
+ABEO,Medical-Biomed/Bth
+ABEV,Beverages-Alcoholic
+ABG,Retail/Whlsle-Auto
+ABIO,Medical-Biomed/Bth
+ABL,Fnce-Invsmnt Mgt
+ABM,Bldg-Mntnance & S
+ABNB,Leisre-Trvl Bking
+ABOS,Medical-Biomed/Bth
+ABR,Finance-Mrtg-Reit
+ABSI,Medical-Generc Drgs
+ABT,Medical-Diversified
+ABUS,Medical-Biomed/Bth
+ABVC,Medical-Biomed/Bth
+AC,Fnce-Invsmnt Mgt
+ACA,Bldg-Cnstr Prds/Msc
+ACAB,Finance-Blank Check
+ACAC,Finance-Blank Check
+ACAD,Medical-Biomed/Bth
+ACB,Consumr Prod-Speci
+ACCD,Med-Managed Care
+ACCO,Office Supplies Mfg
+ACDC,Oil&Gas-Field Servic
+ACEL,Leisre-Gamng/Equip
+ACET,Medical-Biomed/Bth
+ACGL,Insrnce-Prp/Cas/Titl
+ACHC,Mdcal-Outpnt/Hm Cr
+ACHL,Medical-Biomed/Bth
+ACHR,Aerospace/Defense
+ACHV,Medical-Biomed/Bth
+ACI,Retail-Spr/Mini Mkts
+ACIC,Insrnce-Prp/Cas/Titl
+ACIU,Medical-Biomed/Bth
+ACIW,Comptr Sftwr-Fincl
+ACLS,Elec-Semicndctr Eqp
+ACLX,Medical-Biomed/Bth
+ACM,Bldg-Heavy Constr
+ACMR,Elec-Semicndctr Eqp
+ACN,Cmpter-Tech Srvcs
+ACNB,Banks-Northeast
+ACNT,Steel-Spclty Alloys
+ACON,Medical-Biomed/Bth
+ACOR,Medical-Biomed/Bth
+ACR,Finance-Mrtg-Reit
+ACRE,Finance-Mrtg-Reit
+ACRO,Finance-Blank Check
+ACRS,Medical-Generc Drgs
+ACRV,Medical-Biomed/Bth
+ACRX,Medical-Biomed/Bth
+ACST,Medical-Biomed/Bth
+ACT,Fin-Mrtg&Rel Svc
+ACTG,Elec-Misc Products
+ACU,Office Supplies Mfg
+ACV,Financ-Pbl Inv Fdeqt
+ACVA,Retail/Whlsle-Auto
+ACXP,Medical-Biomed/Bth
+ADAP,Medical-Biomed/Bth
+ADBE,Comptr Sftwr-Dsktp
+ADC,Finance-Property Reit
+ADCT,Medical-Biomed/Bth
+ADEA,Internet-Content
+ADES,Chemicals-Specialty
+ADEX,Finance-Blank Check
+ADI,Elec-Semicon Mfg
+ADIL,Medical-Biomed/Bth
+ADM,Food-Grain & Related
+ADMA,Medical-Biomed/Bth
+ADN,Energy-Alt/Other
+ADNT,Auto/Trck-Orgnl Eqp
+ADOC,Finance-Blank Check
+ADP,Comml Svc-Outsourci
+ADPT,Medical-Biomed/Bth
+ADSK,Compter Sftwr-Dsgn
+ADT,Security/Sfty
+ADTH,Coml Svcs-Advrtsng
+ADTN,Telcom-Cbl/Sat Eqp
+ADTX,Medical-Biomed/Bth
+ADUS,Mdcal-Outpnt/Hm Cr
+ADV,Cmml Svcs-Cnsltng
+ADVM,Medical-Biomed/Bth
+AE,Oil&Gas-Rfing/Mkt
+AEAE,Finance-Blank Check
+AEE,Utility-Diversified
+AEHR,Elec-Semicndctr Eqp
+AEI,Real State Dvlpmt/Ops
+AEIS,Elec-Semicndctr Eqp
+AEL,Insurance-Life
+AEM,Mining-Gld/Silvr/Gms
+AEMD,Medical-Products
+AENT,Retail-Internet
+AEO,Retail-Apprl/Shoes/Acc
+AEON,Medical-Biomed/Bth
+AEP,Utility-Elctric Pwr
+AER,Comml Svcs-Leasing
+AERT,Cmpter-Tech Srvcs
+AES,Utility-Elctric Pwr
+AESI,Oil&Gas-Field Servic
+AEVA,Auto/Trck-Orgnl Eqp
+AEY,Telcom-Cbl/Sat Eqp
+AEYE,Comptr Sftwr-Entr
+AEZS,Medical-Biomed/Bth
+AFBI,Banks-Southeast
+AFCG,Consumr Prod-Speci
+AFG,Insrnce-Prp/Cas/Titl
+AFIB,Medical-Products
+AFL,Insrnce-Acc & Heal
+AFMD,Medical-Biomed/Bth
+AFRM,Finance-Card/Pmtpr
+AFYA,Consumr Svc-Edcation
+AG,Mining-Gld/Silvr/Gms
+AGAE,Leisure-Services
+AGBA,Fnce-Invsmnt Mgt
+AGCO,Machinery-Farm
+AGD,Fin-Publ Inv Fd-Gl
+AGE,Medical-Biomed/Bth
+AGEN,Medical-Biomed/Bth
+AGFY,Agricultural Oprtions
+AGI,Mining-Gld/Silvr/Gms
+AGIO,Medical-Biomed/Bth
+AGL,Comml Svcs-Hlthcre
+AGLE,Medical-Biomed/Bth
+AGM,Fin-Mrtg&Rel Svc
+AGMA,Fin-Mrtg&Rel Svc
+AGNC,Finance-Mrtg-Reit
+AGO,Insrnce-Prp/Cas/Titl
+AGR,Utility-Diversified
+AGRO,Agricultural Oprtions
+AGRX,Medical-Products
+AGS,Leisre-Gamng/Equip
+AGTI,Medical-Services
+AGX,Bldg-Heavy Constr
+AGYS,Cmptr-Intgrtd Syst
+AHCO,Mdcal-Outpnt/Hm Cr
+AHH,Finance-Property Reit
+AHR,Finance-Property Reit
+AHT,Finance-Property Reit
+AI,Cmp Sftwr-Spc-Entr
+AIB,Finance-Blank Check
+AIG,Insrnce-Divrsified
+AIHS,Comptr Sftwr-Fincl
+AIM,Medical-Biomed/Bth
+AIMD,Medical-Biomed/Bth
+AIN,Paper & Paper Produc
+AINC,Financial Svc-Spec
+AIO,Financ-Pbl Inv Fdeqt
+AIP,Elec-Semicon Fblss
+AIR,Aerospace/Defense
+AIRC,Real State Dvlpmt/Ops
+AIRE,Real State Dvlpmt/Ops
+AIRG,Elec-Parts
+AIRI,Aerospace/Defense
+AIRJ,Finance-Blank Check
+AIRS,Medical-Systems/Eqp
+AIRT,Trnsprt-Air Freight
+AIT,Machnry-Tools & Re
+AIV,Finance-Property Reit
+AIZ,Insrnce-Divrsified
+AJG,Insurance-Brokers
+AJX,Finance-Property Reit
+AKA,Retail-Apprl/Shoes/Acc
+AKAM,Comptr Sftwr-Entr
+AKBA,Medical-Biomed/Bth
+AKLI,Medical-Biomed/Bth
+AKOA,Bev-Non-Alcoholic
+AKOB,Bev-Non-Alcoholic
+AKR,Finance-Property Reit
+AKRO,Medical-Biomed/Bth
+AKTS,Elec-Semicon Mfg
+AKYA,Medical-Systems/Eqp
+AL,Comml Svcs-Leasing
+ALAR,Comptr Sftwr-Scrity
+ALB,Chemicals-Specialty
+ALBT,Medical-Services
+ALC,Medical-Products
+ALCO,Agricultural Oprtions
+ALDX,Medical-Biomed/Bth
+ALE,Utility-Diversified
+ALEC,Medical-Biomed/Bth
+ALEX,Real State Dvlpmt/Ops
+ALG,Machinery-Farm
+ALGM,Elec-Semicon Fblss
+ALGN,Medical-Products
+ALGS,Medical-Biomed/Bth
+ALGT,Trnsprttin-Airlne
+ALHC,Med-Managed Care
+ALIM,Medical-Biomed/Bth
+ALIT,Comptr Sftwr-Entr
+ALK,Trnsprttin-Airlne
+ALKS,Medical-Biomed/Bth
+ALKT,Comptr Sftwr-Fincl
+ALL,Insrnce-Prp/Cas/Titl
+ALLE,Security/Sfty
+ALLG,Energy-Alt/Other
+ALLK,Medical-Biomed/Bth
+ALLO,Medical-Biomed/Bth
+ALLR,Medical-Biomed/Bth
+ALLT,Compter-Netwrking
+ALLY,Financial Svc-Spec
+ALNT,Electrical Power/Eqpmt
+ALNY,Medical-Biomed/Bth
+ALOT,Elec-Misc Products
+ALPN,Medical-Biomed/Bth
+ALRM,Security/Sfty
+ALRS,Banks-Midwest
+ALSN,Auto/Trck-Orgnl Eqp
+ALT,Medical-Biomed/Bth
+ALTG,Comml Svcs-Leasing
+ALTI,Fnce-Invsmnt Mgt
+ALTO,Energy-Alt/Other
+ALTR,Compter Sftwr-Dsgn
+ALUR,Medical-Systems/Eqp
+ALV,Auto/Trck-Orgnl Eqp
+ALVO,Medical-Biomed/Bth
+ALVR,Medical-Biomed/Bth
+ALX,Finance-Property Reit
+ALXO,Medical-Biomed/Bth
+ALYA,Cmpter-Tech Srvcs
+ALZN,Medical-Biomed/Bth
+AM,Oil&Gas Integrated
+AMAL,Banks-Northeast
+AMAM,Medical-Biomed/Bth
+AMAT,Elec-Semicndctr Eqp
+AMBA,Elec-Semicon Fblss
+AMBC,Financial Svc-Spec
+AMBP,Food-Packaged
+AMC,Leisre-Mvies & Rel
+AMCR,Containers/Packaging
+AMCX,Media-Radio/Tv
+AMD,Elec-Semicon Fblss
+AME,Electrical Power/Eqpmt
+AMED,Mdcal-Outpnt/Hm Cr
+AMEH,Med-Managed Care
+AMG,Fnce-Invsmnt Mgt
+AMGN,Medical-Biomed/Bth
+AMH,Finance-Property Reit
+AMIX,Medical-Products
+AMK,Fnce-Invsmnt Mgt
+AMKR,Elec-Semicon Mfg
+AMLI,Mining-Metal Ores
+AMLX,Medical-Biomed/Bth
+AMN,Comml Svcs-Stffng
+AMP,Fin-Invest Bnk/Bkrs
+AMPE,Medical-Ethical Drgs
+AMPG,Elec-Semicon Mfg
+AMPH,Medical-Biomed/Bth
+AMPL,Comptr Sftwr-Entr
+AMPS,Utility-Elctric Pwr
+AMPX,Energy-Alt/Other
+AMPY,Oil&Gas-U S Expl Pro
+AMR,Energy Coal
+AMRC,Energy-Alt/Other
+AMRK,Financial Svc-Spec
+AMRN,Medical-Biomed/Bth
+AMRX,Medical-Generc Drgs
+AMS,Medical-Services
+AMSC,Electrical Power/Eqpmt
+AMSF,Insrnce-Prp/Cas/Titl
+AMST,Cmptr Sftwr-Edu
+AMT,Finance-Property Reit
+AMTB,Banks-Southeast
+AMTD,Fnce-Invsmnt Mgt
+AMTI,Medical-Biomed/Bth
+AMTX,Energy-Alt/Other
+AMWD,Bldg-Cnstr Prds/Msc
+AMWL,Comptr Sftwr-Mdcl
+AMX,Telecom Svcs-Foreign
+AMZN,Retail-Internet
+AN,Retail/Whlsle-Auto
+ANAB,Medical-Biomed/Bth
+ANDE,Food-Grain & Related
+ANEB,Medical-Biomed/Bth
+ANET,Compter-Netwrking
+ANF,Retail-Apprl/Shoes/Acc
+ANGH,Cmptr Sftwr-Edu
+ANGI,Internet-Content
+ANGO,Medical-Products
+ANIK,Medical-Biomed/Bth
+ANIP,Medical-Generc Drgs
+ANIX,Medical-Biomed/Bth
+ANNX,Medical-Biomed/Bth
+ANRO,Medical-Biomed/Bth
+ANSS,Compter Sftwr-Dsgn
+ANTE,Coml Svcs-Advrtsng
+ANTX,Medical-Biomed/Bth
+ANVS,Medical-Biomed/Bth
+ANY,Cmp Sftwr-Spc-Entr
+AOD,Fin-Publ Inv Fd-Gl
+AOGO,Finance-Blank Check
+AOMR,Finance-Mrtg-Reit
+AON,Insurance-Brokers
+AONC,Medical-Services
+AORT,Medical-Products
+AOS,Bldg-A/C & Heating P
+AOSL,Elec-Semicon Fblss
+AOUT,Leisure-Products
+AP,Steel-Producers
+APA,Oil&Gas-Intl Expl Pr
+APAC,Finance-Blank Check
+APAM,Fnce-Invsmnt Mgt
+APCX,Comptr Sftwr-Fincl
+APD,Chemicals-Specialty
+APDN,Med-Resrch Eqp/Svc
+APEI,Consumr Svc-Edcation
+APG,Security/Sfty
+APGB,Finance-Blank Check
+APGE,Medical-Biomed/Bth
+APH,Elec-Parts
+API,Comptr Sftwr-Entr
+APLD,Financial Svc-Spec
+APLE,Finance-Property Reit
+APLS,Medical-Biomed/Bth
+APLT,Medical-Biomed/Bth
+APM,Medical-Biomed/Bth
+APO,Fnce-Invsmnt Mgt
+APOG,Bldg-Cnstr Prds/Msc
+APP,Cmp Sftwr-Spc-Entr
+APPF,Cmp Sftwr-Spc-Entr
+APPN,Compter Sftwr-Dsgn
+APPS,Comptr Sftwr-Entr
+APRE,Medical-Biomed/Bth
+APRN,Food-Misc Prep
+APT,Bldg-Cnstr Prds/Msc
+APTO,Medical-Biomed/Bth
+APTV,Auto/Trck-Orgnl Eqp
+APVO,Medical-Biomed/Bth
+APWC,Electrical Power/Eqpmt
+APYX,Medical-Products
+AQMS,Chemicals-Specialty
+AQST,Medical-Biomed/Bth
+AR,Oil&Gas-U S Expl Pro
+ARAV,Medical-Biomed/Bth
+ARAY,Medical-Systems/Eqp
+ARBE,Auto/Trck-Orgnl Eqp
+ARBK,Comptr Sftwr-Fincl
+ARC,Comml Svc-Doc Mgmt
+ARCB,Trnsportation-Trck
+ARCC,Fnce-Invsmnt Mgt
+ARCH,Energy Coal
+ARCO,Retail-Restaurants
+ARCT,Medical-Biomed/Bth
+ARDX,Medical-Biomed/Bth
+ARE,Finance-Property Reit
+AREB,Retail-Internet
+AREC,Energy Coal
+AREN,Internet-Content
+ARES,Fnce-Invsmnt Mgt
+ARGO,Insrnce-Prp/Cas/Titl
+ARGX,Medical-Biomed/Bth
+ARHS,Rtail-Hme Frnshngs
+ARI,Finance-Mrtg-Reit
+ARIS,Pollution Control
+ARIZ,Finance-Blank Check
+ARKO,Retail-Spr/Mini Mkts
+ARKR,Retail-Restaurants
+ARL,Real State Dvlpmt/Ops
+ARLO,Security/Sfty
+ARLP,Energy Coal
+ARM,Elec-Semicon Fblss
+ARMK,Comml Svc-Outsourci
+ARMN,Mining-Gld/Silvr/Gms
+ARMP,Medical-Generc Drgs
+ARNC,Metal Proc & Fabrica
+AROC,Oil&Gas-Mchnry/Eq
+AROW,Banks-Northeast
+ARQ,Pollution Control
+ARQT,Medical-Biomed/Bth
+ARR,Finance-Mrtg-Reit
+ARRW,Finance-Blank Check
+ARRY,Energy Solar
+ARTL,Medical-Biomed/Bth
+ARTNA,Utility-Water Supply
+ARVN,Medical-Biomed/Bth
+ARW,Elec-Parts
+ARWR,Medical-Biomed/Bth
+ARYD,Finance-Blank Check
+AS,Leisure-Products
+ASA,Fin-Publ Inv Fd-Gl
+ASAI,Retail-Dprtmnt Strs
+ASAN,Comptr Sftwr-Entr
+ASB,Banks-Midwest
+ASC,Oil&Gas-Trnsprt/Pip
+ASGN,Comml Svcs-Stffng
+ASH,Chemicals-Specialty
+ASIX,Chemicals-Plastics
+ASLE,Aerospace/Defense
+ASLN,Medical-Biomed/Bth
+ASM,Mining-Gld/Silvr/Gms
+ASMB,Medical-Biomed/Bth
+ASML,Elec-Semicndctr Eqp
+ASND,Medical-Biomed/Bth
+ASNS,Telcom-Svc-Cbl/Sat
+ASO,Retail-Leisure Prds
+ASPI,Chemicals-Specialty
+ASPN,Chemicals-Specialty
+ASPS,Financial Svc-Spec
+ASR,Real State Dvlpmt/Ops
+ASRT,Medical-Ethical Drgs
+ASRV,Banks-Northeast
+ASTC,Mchnry-Gen Indstrl
+ASTE,Mchinry-Cnstr/Mng
+ASTH,Med-Managed Care
+ASTI,Energy Solar
+ASTL,Steel-Producers
+ASTS,Telcom-Svc-Cbl/Sat
+ASUR,Comptr Sftwr-Entr
+ASX,Elec-Semicon Mfg
+ASXC,Medical-Systems/Eqp
+ASYS,Elec-Semicndctr Eqp
+ATAI,Medical-Biomed/Bth
+ATEC,Medical-Products
+ATEN,Comptr Sftwr-Entr
+ATER,Houshld-Applncs/Hw
+ATEX,Telcom Svc-Wirles
+ATGE,Consumr Svc-Edcation
+ATGL,Cmpter-Tech Srvcs
+ATHA,Medical-Biomed/Bth
+ATHE,Medical-Biomed/Bth
+ATHM,Internet-Content
+ATI,Steel-Spclty Alloys
+ATIF,Cmml Svcs-Cnsltng
+ATIP,Medical-Services
+ATKR,Bldg-Cnstr Prds/Msc
+ATLC,Finance-Cons Loan
+ATLO,Banks-Midwest
+ATMC,Finance-Blank Check
+ATMU,Auto/Trck-Orgnl Eqp
+ATMV,Finance-Blank Check
+ATNI,Telecom Svcs-Foreign
+ATNM,Medical-Biomed/Bth
+ATO,Utility-Gas Dstribtn
+ATOM,Elec-Semicndctr Eqp
+ATOS,Medical-Services
+ATPC,Cosmetics/Persnl Cre
+ATR,Containers/Packaging
+ATRC,Medical-Systems/Eqp
+ATRI,Medical-Products
+ATRO,Aerospace/Defense
+ATS,Mchnry-Gen Indstrl
+ATSG,Trnsprt-Air Freight
+ATUS,Telcom-Svc-Cbl/Sat
+ATXG,Dvrsified Oprtions
+ATXI,Medical-Biomed/Bth
+ATXS,Medical-Biomed/Bth
+AU,Mining-Gld/Silvr/Gms
+AUB,Banks-Southeast
+AUBN,Banks-Southeast
+AUDC,Comptr Sftwr-Entr
+AUGX,Medical-Services
+AUID,Security/Sfty
+AUMN,Mining-Gld/Silvr/Gms
+AUPH,Medical-Biomed/Bth
+AUR,Auto/Trck-Orgnl Eqp
+AURA,Medical-Biomed/Bth
+AUST,Mining-Gld/Silvr/Gms
+AUTL,Medical-Biomed/Bth
+AUUD,Media-Radio/Tv
+AVA,Utility-Diversified
+AVAH,Mdcal-Outpnt/Hm Cr
+AVAL,Banks-Foreign
+AVAV,Aerospace/Defense
+AVB,Finance-Property Reit
+AVD,Chemicals-Ag
+AVDL,Medical-Biomed/Bth
+AVDX,Comptr Sftwr-Fincl
+AVGO,Elec-Semicon Fblss
+AVGR,Medical-Products
+AVHI,Finance-Blank Check
+AVIR,Medical-Biomed/Bth
+AVK,Fince-Pub Inv Fd-Bl
+AVNS,Medical Supplies
+AVNT,Chemicals-Plastics
+AVNW,Telcom-Infrastr
+AVO,Agricultural Oprtions
+AVPT,Cmp Sftwr-Dbase
+AVRO,Medical-Biomed/Bth
+AVT,Elec-Parts
+AVTA,Comptr Sftwr-Fincl
+AVTE,Medical-Biomed/Bth
+AVTR,Med-Resrch Eqp/Svc
+AVTX,Medical-Biomed/Bth
+AVXL,Medical-Biomed/Bth
+AVY,Office Supplies Mfg
+AWH,Medical-Products
+AWI,Bldg-Cnstr Prds/Msc
+AWK,Utility-Water Supply
+AWP,Fin-Publ Inv Fd-Gl
+AWR,Utility-Water Supply
+AWRE,Telcom-Infrastr
+AWX,Pollution Control
+AX,Financ-Svings & Lo
+AXDX,Medical-Products
+AXGN,Medical-Products
+AXL,Auto/Trck-Orgnl Eqp
+AXNX,Medical-Systems/Eqp
+AXON,Security/Sfty
+AXP,Finance-Card/Pmtpr
+AXR,Real State Dvlpmt/Ops
+AXS,Insrnce-Prp/Cas/Titl
+AXSM,Medical-Biomed/Bth
+AXTA,Chemicals-Paints
+AXTI,Elec-Semicon Mfg
+AY,Energy-Alt/Other
+AYI,Bldg-Cnstr Prds/Msc
+AYTU,Medical-Biomed/Bth
+AYX,Cmp Sftwr-Dbase
+AZ,Aerospace/Defense
+AZEK,Bldg-Cnstr Prds/Msc
+AZN,Medical-Diversified
+AZO,Retail/Wsl-Auto Prt
+AZPN,Comptr Sftwr-Entr
+AZTA,Medical-Biomed/Bth
+AZTR,Medical-Biomed/Bth
+AZUL,Trnsprttin-Airlne
+AZZ,Electrical Power/Eqpmt
+B,Metal Proc & Fabrica
+BA,Aerospace/Defense
+BABA,Retail-Internet
+BAC,Banks-Money Cntr
+BACA,Finance-Blank Check
+BAER,Aerospace/Defense
+BAFN,Banks-Southeast
+BAH,Cmml Svcs-Cnsltng
+BAK,Chemicals-Basic
+BALL,Containers/Packaging
+BALL,Containers/Packaging
+BALY,Leisre-Gamng/Equip
+BAM,Fnce-Invsmnt Mgt
+BANC,Financ-Svings & Lo
+BAND,Comptr Sftwr-Entr
+BANF,Banks-Wst/Sthwst
+BANR,Banks-Wst/Sthwst
+BAP,Banks-Foreign
+BARK,Retail-Specialty
+BASE,Cmp Sftwr-Dbase
+BATL,Oil&Gas-U S Expl Pro
+BATRA,Media-Diversified
+BATRK,Media-Diversified
+BAX,Medical-Products
+BB,Comptr Sftwr-Scrity
+BBAI,Comptr Sftwr-Entr
+BBAR,Banks-Foreign
+BBCP,Bldg-Cment/Cncrt
+BBD,Banks-Foreign
+BBDC,Fnce-Invsmnt Mgt
+BBDO,Banks-Foreign
+BBGI,Media-Radio/Tv
+BBIO,Medical-Biomed/Bth
+BBLG,Medical-Products
+BBSI,Comml Svcs-Stffng
+BBU,Bldg-Heavy Constr
+BBUC,Fnce-Invsmnt Mgt
+BBVA,Banks-Money Cntr
+BBW,Retail-Leisure Prds
+BBWI,Retail-Apprl/Shoes/Acc
+BBY,Retail-Cnsmr Elec
+BC,Leisure-Products
+BCAB,Medical-Biomed/Bth
+BCAL,Banks-Wst/Sthwst
+BCAN,Comptr Sftwr-Entr
+BCBP,Banks-Northeast
+BCC,Bldg-Wood Prds
+BCDA,Medical-Biomed/Bth
+BCE,Telecom Svcs-Foreign
+BCEL,Medical-Biomed/Bth
+BCH,Banks-Foreign
+BCLI,Medical-Biomed/Bth
+BCML,Banks-Wst/Sthwst
+BCO,Security/Sfty
+BCOV,Cmptr Sftwr-Edu
+BCOW,Banks-Midwest
+BCPC,Chemicals-Specialty
+BCRX,Medical-Biomed/Bth
+BCS,Banks-Money Cntr
+BCSF,Financial Svc-Spec
+BCTX,Medical-Biomed/Bth
+BCYC,Medical-Biomed/Bth
+BDC,Telcom-Cbl/Sat Eqp
+BDL,Retail-Restaurants
+BDN,Finance-Property Reit
+BDSX,Medical-Services
+BDTX,Medical-Biomed/Bth
+BDX,Medical Supplies
+BE,Energy-Alt/Other
+BEAM,Medical-Biomed/Bth
+BEAT,Med-Resrch Eqp/Svc
+BECN,Bldg-Cnstr Prds/Msc
+BEDU,Consumr Svc-Edcation
+BEEM,Electrical Power/Eqpmt
+BEKE,Real State Dvlpmt/Ops
+BELFA,Elec-Parts
+BELFB,Elec-Parts
+BEN,Fnce-Invsmnt Mgt
+BENF,Fnce-Invsmnt Mgt
+BEP,Energy-Alt/Other
+BEPC,Energy-Alt/Other
+BERY,Containers/Packaging
+BETR,Fin-Mrtg&Rel Svc
+BFA,Beverages-Alcoholic
+BFAM,Consumr Svc-Edcation
+BFB,Beverages-Alcoholic
+BFC,Banks-Midwest
+BFH,Finance-Card/Pmtpr
+BFI,Retail-Restaurants
+BFIN,Financ-Svings & Lo
+BFLY,Medical-Systems/Eqp
+BFRG,Medical-Biomed/Bth
+BFRI,Medical-Ethical Drgs
+BFS,Finance-Property Reit
+BFST,Financial Svc-Spec
+BFX,Leisure-Products
+BG,Agricultural Oprtions
+BGC,Fin-Invest Bnk/Bkrs
+BGFV,Retail-Leisure Prds
+BGI,Retail/Whlsle-Jwlry
+BGNE,Medical-Biomed/Bth
+BGS,Food-Packaged
+BGSF,Comml Svcs-Stffng
+BH,Retail-Restaurants
+BHA,Retail-Restaurants
+BHAT,Leisr-Tys/Gms/Hbby
+BHB,Banks-Northeast
+BHC,Medical-Ethical Drgs
+BHE,Elec-Contract Mfg
+BHF,Insurance-Life
+BHIL,Agricultural Oprtions
+BHLB,Financ-Svings & Lo
+BHM,Finance-Property Reit
+BHP,Mining-Metal Ores
+BHR,Finance-Property Reit
+BHRB,Banks-Southeast
+BHVN,Medical-Biomed/Bth
+BIAF,Medical-Services
+BIDU,Internet-Content
+BIG,Retail-Discnt&Vari
+BIGC,Comptr Sftwr-Entr
+BIIB,Medical-Biomed/Bth
+BILI,Internet-Content
+BILL,Comptr Sftwr-Fincl
+BIMI,Medical-Products
+BIO,Med-Resrch Eqp/Svc
+BIOB,Medical-Products
+BIOL,Medical-Systems/Eqp
+BIOR,Medical-Services
+BIP,Fnce-Invsmnt Mgt
+BIPC,Fnce-Invsmnt Mgt
+BIRD,Apparel-Shoes & Rel
+BIRK,Apparel-Shoes & Rel
+BITE,Finance-Blank Check
+BITF,Comptr Sftwr-Fincl
+BIVI,Medical-Biomed/Bth
+BJ,Retail-Discnt&Vari
+BJDX,Medical-Biomed/Bth
+BJRI,Retail-Restaurants
+BK,Banks-Money Cntr
+BKCC,Fnce-Invsmnt Mgt
+BKD,Med-Long-Trm Care
+BKE,Retail-Apprl/Shoes/Acc
+BKH,Utility-Diversified
+BKKT,Financial Svc-Spec
+BKNG,Leisre-Trvl Bking
+BKR,Oil&Gas-Mchnry/Eq
+BKSY,Telcom-Svc-Cbl/Sat
+BKTI,Telcom-Cons Prod
+BKU,Financ-Svings & Lo
+BL,Cmp Sftwr-Spc-Entr
+BLAC,Finance-Blank Check
+BLBD,Trnsprt-Eqp Mfg
+BLBX,Comptr Sftwr-Fincl
+BLCO,Medical-Systems/Eqp
+BLD,Bldg-Cnstr Prds/Msc
+BLDE,Trnsprttin-Airlne
+BLDP,Energy-Alt/Other
+BLDR,Bldg-Cnstr Prds/Msc
+BLEU,Finance-Blank Check
+BLFS,Medical-Products
+BLFY,Banks-Northeast
+BLIN,Intrnt-Netwk Sltns
+BLK,Fnce-Invsmnt Mgt
+BLKB,Comptr Sftwr-Entr
+BLMN,Retail-Restaurants
+BLND,Comptr Sftwr-Entr
+BLNK,Energy-Alt/Other
+BLTE,Medical-Biomed/Bth
+BLUE,Medical-Biomed/Bth
+BLZE,Comptr-Data Strge
+BMA,Banks-Foreign
+BMBL,Internet-Content
+BMEA,Medical-Biomed/Bth
+BMI,Mchnry-Gen Indstrl
+BMO,Banks-Money Cntr
+BMR,Cmpter-Tech Srvcs
+BMRA,Medical Supplies
+BMRC,Banks-Wst/Sthwst
+BMRN,Medical-Biomed/Bth
+BMY,Medical-Ethical Drgs
+BN,Fnce-Invsmnt Mgt
+BNED,Retail-Leisure Prds
+BNGO,Medical-Products
+BNL,Finance-Property Reit
+BNRE,Insrnce-Divrsified
+BNRG,Energy-Alt/Other
+BNS,Banks-Money Cntr
+BNTC,Medical-Biomed/Bth
+BNTX,Medical-Biomed/Bth
+BOC,Coml Svcs-Advrtsng
+BOCN,Finance-Blank Check
+BODI,Leisure-Services
+BODY,Leisure-Services
+BOH,Banks-Wst/Sthwst
+BOKF,Banks-Wst/Sthwst
+BOLT,Medical-Biomed/Bth
+BOOM,Metal Proc & Fabrica
+BOOT,Retail-Apprl/Shoes/Acc
+BORR,Oil&Gas-Drilling
+BOTJ,Banks-Southeast
+BOWL,Leisure-Services
+BOX,Cmp Sftwr-Dbase
+BOXL,Consumer Prod-Elec
+BP,Oil&Gas Integrated
+BPMC,Medical-Biomed/Bth
+BPOP,Banks-Southeast
+BPRN,Banks-Northeast
+BPT,Oil&Gas-Royalty Trust
+BPTH,Medical-Biomed/Bth
+BR,Financial Svc-Spec
+BRAC,Finance-Blank Check
+BRAG,Cmp Sftwr-Gaming
+BRBR,Cosmetics/Persnl Cre
+BRBS,Banks-Southeast
+BRC,Office Supplies Mfg
+BRCC,Retail-Restaurants
+BRD,Finance-Blank Check
+BRDG,Finance-Mrtg-Reit
+BREZ,Finance-Blank Check
+BRFH,Bev-Non-Alcoholic
+BRFS,Food-Meat Products
+BRID,Food-Packaged
+BRKA,Dvrsified Oprtions
+BRKB,Dvrsified Oprtions
+BRKH,Finance-Blank Check
+BRKL,Financ-Svings & Lo
+BRKR,Medical-Systems/Eqp
+BRLT,Retail/Whlsle-Jwlry
+BRN,Oil&Gascdn Expl Pro
+BRNS,Medical-Biomed/Bth
+BRO,Insurance-Brokers
+BROS,Retail-Restaurants
+BRP,Insurance-Brokers
+BRSP,Finance-Mrtg-Reit
+BRT,Finance-Property Reit
+BRTX,Medical-Biomed/Bth
+BRX,Finance-Property Reit
+BRY,Oil&Gas-U S Expl Pro
+BRZE,Comptr Sftwr-Entr
+BSAC,Banks-Foreign
+BSBK,Banks-Northeast
+BSBR,Banks-Foreign
+BSET,Hsholdoffic Furnitr
+BSGM,Medical-Products
+BSIG,Fnce-Invsmnt Mgt
+BSM,Oil&Gas-U S Expl Pro
+BSQR,Cmp Sftwr-Spc-Entr
+BSRR,Banks-Wst/Sthwst
+BSVN,Banks-Wst/Sthwst
+BSX,Medical-Products
+BSY,Compter Sftwr-Dsgn
+BTAI,Medical-Biomed/Bth
+BTBD,Retail-Restaurants
+BTBT,Comptr Sftwr-Fincl
+BTCM,Financial Svc-Spec
+BTCS,Financial Svc-Spec
+BTCY,Medical-Systems/Eqp
+BTDR,Comptr Sftwr-Fincl
+BTE,Oil&Gascdn Expl Pro
+BTG,Mining-Gld/Silvr/Gms
+BTI,Tobacco
+BTM,Fin-Invest Bnk/Bkrs
+BTMD,Medical-Ethical Drgs
+BTSG,Mdcal-Outpnt/Hm Cr
+BTTR,Retail-Specialty
+BTTX,Medical-Biomed/Bth
+BTU,Energy Coal
+BUD,Beverages-Alcoholic
+BUR,Fnce-Invsmnt Mgt
+BURL,Retail-Apprl/Shoes/Acc
+BURU,Mchnry-Gen Indstrl
+BUSE,Banks-Midwest
+BV,Bldg-Mntnance & S
+BVFL,Banks-Northeast
+BVH,Fnce-Invsmnt Mgt
+BVN,Mining-Gld/Silvr/Gms
+BVS,Medical-Products
+BW,Electrical Power/Eqpmt
+BWA,Auto/Trck-Orgnl Eqp
+BWAQ,Finance-Blank Check
+BWAY,Medical-Systems/Eqp
+BWB,Banks-Midwest
+BWEN,Energy-Alt/Other
+BWFG,Banks-Northeast
+BWG,Fin-Publ Inv Fd-Gl
+BWMN,Cmml Svcs-Cnsltng
+BWMX,Houshld-Applncs/Hw
+BWXT,Electrical Power/Eqpmt
+BX,Fnce-Invsmnt Mgt
+BXC,Retl Whsle Bldg Prds
+BXMT,Finance-Mrtg-Reit
+BXP,Finance-Property Reit
+BY,Banks-Midwest
+BYD,Leisre-Gamng/Equip
+BYND,Food-Meat Products
+BYON,Retail-Internet
+BYRN,Security/Sfty
+BYSI,Medical-Biomed/Bth
+BZ,Internet-Content
+BZFD,Internet-Content
+BZH,Bldg-Rsidnt/Comml
+BZUN,Comptr Sftwr-Entr
+C,Banks-Money Cntr
+CAAP,Real State Dvlpmt/Ops
+CAAS,Auto/Trck-Orgnl Eqp
+CABA,Medical-Biomed/Bth
+CABO,Telcom-Svc-Cbl/Sat
+CAC,Banks-Northeast
+CACC,Finance-Cons Loan
+CACI,Cmpter-Tech Srvcs
+CACO,Transportation-Ship
+CADE,Banks-Wst/Sthwst
+CADL,Medical-Biomed/Bth
+CAE,Aerospace/Defense
+CAG,Food-Packaged
+CAH,Mdcal-Whlsle Drg
+CAKE,Retail-Restaurants
+CAL,Retail-Apprl/Shoes/Acc
+CALB,Banks-Wst/Sthwst
+CALC,Medical-Biomed/Bth
+CALM,Food-Meat Products
+CALT,Medical-Biomed/Bth
+CALX,Compter-Netwrking
+CAMP,Compter-Netwrking
+CAMT,Elec-Scntific/Msrng
+CAN,Elec-Semicon Fblss
+CANG,Comptr Sftwr-Fincl
+CANO,Med-Long-Trm Care
+CAPL,Oil&Gas-Rfing/Mkt
+CAPR,Medical-Biomed/Bth
+CAR,Leisure-Services
+CARA,Medical-Biomed/Bth
+CARE,Banks-Southeast
+CARG,Internet-Content
+CARM,Medical-Biomed/Bth
+CARR,Bldg-A/C & Heating P
+CARS,Retail/Whlsle-Auto
+CART,Retail-Internet
+CARV,Financ-Svings & Lo
+CASA,Telcom-Infrastr
+CASH,Financ-Svings & Lo
+CASI,Medical-Biomed/Bth
+CASS,Finance-Card/Pmtpr
+CASY,Retail-Spr/Mini Mkts
+CAT,Mchinry-Cnstr/Mng
+CATC,Banks-Northeast
+CATO,Retail-Apprl/Shoes/Acc
+CATY,Banks-Wst/Sthwst
+CAUD,Finance-Blank Check
+CAVA,Retail-Restaurants
+CB,Insrnce-Prp/Cas/Titl
+CBAN,Banks-Southeast
+CBAT,Consumr Prod-Speci
+CBAY,Medical-Biomed/Bth
+CBD,Retail-Spr/Mini Mkts
+CBFV,Banks-Northeast
+CBIO,Medical-Biomed/Bth
+CBL,Finance-Property Reit
+CBNK,Banks-Northeast
+CBOE,Financial Svc-Spec
+CBRE,Real State Dvlpmt/Ops
+CBRG,Finance-Blank Check
+CBRL,Retail-Restaurants
+CBSH,Banks-Midwest
+CBT,Chemicals-Specialty
+CBU,Banks-Northeast
+CBUS,Agricultural Oprtions
+CBZ,Cmml Svcs-Cnsltng
+CC,Chemicals-Specialty
+CCAP,Fnce-Invsmnt Mgt
+CCB,Finance-Cmrcl Loan
+CCBG,Banks-Southeast
+CCCC,Medical-Biomed/Bth
+CCCS,Comptr Sftwr-Entr
+CCD,Financ-Pbl Inv Fdeqt
+CCEL,Medical-Services
+CCF,Chemicals-Specialty
+CCI,Finance-Property Reit
+CCJ,Mining-Metal Ores
+CCK,Containers/Packaging
+CCL,Leisure-Services
+CCLD,Comptr Sftwr-Mdcl
+CCLP,Oil&Gas-Field Servic
+CCNE,Banks-Northeast
+CCO,Coml Svcs-Advrtsng
+CCOI,Telcom-Svc-Cbl/Sat
+CCRD,Comptr Sftwr-Fincl
+CCRN,Comml Svcs-Stffng
+CCS,Bldg-Rsidnt/Comml
+CCSI,Comptr Sftwr-Entr
+CCTS,Finance-Blank Check
+CCU,Beverages-Alcoholic
+CCVI,Finance-Blank Check
+CDE,Mining-Gld/Silvr/Gms
+CDIO,Medical-Systems/Eqp
+CDLX,Comptr Sftwr-Entr
+CDMO,Med-Resrch Eqp/Svc
+CDNA,Medical-Products
+CDNS,Compter Sftwr-Dsgn
+CDP,Finance-Property Reit
+CDRE,Security/Sfty
+CDRO,Leisre-Gamng/Equip
+CDTX,Medical-Biomed/Bth
+CDW,Cmpter-Tech Srvcs
+CDXC,Chemicals-Specialty
+CDXS,Medical-Biomed/Bth
+CDZI,Utility-Water Supply
+CE,Chemicals-Basic
+CEAD,Agricultural Oprtions
+CECO,Pollution Control
+CEE,Fin-Publ Inv Fd-Gl
+CEG,Energy-Alt/Other
+CEI,Oil&Gas-U S Expl Pro
+CEIX,Energy Coal
+CELC,Medical-Biomed/Bth
+CELH,Bev-Non-Alcoholic
+CELU,Medical-Biomed/Bth
+CEM,Financ-Pbl Inv Fdeqt
+CENN,Auto Manufacturers
+CENT,Consumr Prod-Speci
+CENTA,Consumr Prod-Speci
+CENX,Metal Proc & Fabrica
+CEPU,Utility-Elctric Pwr
+CEQP,Oil&Gas-Rfing/Mkt
+CERE,Medical-Biomed/Bth
+CERS,Medical-Biomed/Bth
+CERT,Comptr Sftwr-Mdcl
+CETX,Elec-Misc Products
+CETY,Energy-Alt/Other
+CEVA,Elec-Semicon Fblss
+CF,Chemicals-Ag
+CFB,Banks-Midwest
+CFBK,Financ-Svings & Lo
+CFFE,Finance-Blank Check
+CFFI,Banks-Southeast
+CFFN,Financ-Svings & Lo
+CFFS,Finance-Blank Check
+CFG,Banks-Northeast
+CFIV,Finance-Blank Check
+CFLT,Cmp Sftwr-Dbase
+CFR,Banks-Wst/Sthwst
+CFSB,Banks-Northeast
+CG,Fnce-Invsmnt Mgt
+CGA,Chemicals-Ag
+CGAU,Mining-Gld/Silvr/Gms
+CGBD,Finance-Cmrcl Loan
+CGC,Consumr Prod-Speci
+CGEM,Medical-Biomed/Bth
+CGEN,Medical-Biomed/Bth
+CGNT,Comptr Sftwr-Scrity
+CGNX,Elec-Scntific/Msrng
+CGO,Fin-Publ Inv Fd-Gl
+CGTX,Medical-Biomed/Bth
+CHCI,Bldg-Rsidnt/Comml
+CHCO,Banks-Southeast
+CHCT,Finance-Property Reit
+CHD,Soap & Clng Preparat
+CHDN,Leisre-Gamng/Equip
+CHE,Dvrsified Oprtions
+CHEF,Food-Misc Prep
+CHGG,Consumr Svc-Edcation
+CHH,Leisure-Lodging
+CHK,Oil&Gas-U S Expl Pro
+CHKP,Comptr Sftwr-Scrity
+CHMG,Banks-Northeast
+CHMI,Finance-Mrtg-Reit
+CHN,Fin-Publ Inv Fd-Gl
+CHPT,Energy-Alt/Other
+CHR,Internet-Content
+CHRD,Oil&Gas-U S Expl Pro
+CHRS,Medical-Biomed/Bth
+CHRW,Transport-Logistics
+CHT,Telecom Svcs-Foreign
+CHTR,Telcom Svc-Integrtd
+CHUY,Retail-Restaurants
+CHW,Fin-Publ Inv Fd-Gl
+CHWY,Retail-Internet
+CHX,Oil&Gas-Drilling
+CI,Med-Managed Care
+CIA,Insurance-Life
+CIB,Banks-Foreign
+CIEN,Telcom-Fibr Optcs
+CIFR,Comptr Sftwr-Fincl
+CIGI,Real State Dvlpmt/Ops
+CIM,Finance-Mrtg-Reit
+CINF,Insrnce-Prp/Cas/Titl
+CING,Medical-Biomed/Bth
+CINT,Cmpter-Tech Srvcs
+CIO,Finance-Property Reit
+CION,Finance-Cmrcl Loan
+CISO,Comptr Sftwr-Scrity
+CISS,Transportation-Ship
+CIVB,Banks-Midwest
+CIVI,Oil&Gas-U S Expl Pro
+CIX,Hsholdoffic Furnitr
+CIZN,Banks-Southeast
+CKPT,Medical-Biomed/Bth
+CKX,Real State Dvlpmt/Ops
+CL,Cosmetics/Persnl Cre
+CLAR,Leisure-Products
+CLB,Oil&Gas-Field Servic
+CLBK,Banks-Northeast
+CLBT,Cmp Sftwr-Spc-Entr
+CLCO,Oil&Gas-Trnsprt/Pip
+CLDI,Medical-Biomed/Bth
+CLDT,Finance-Property Reit
+CLDX,Medical-Biomed/Bth
+CLF,Steel-Producers
+CLFD,Telcom-Fibr Optcs
+CLH,Pollution Control
+CLIN,Finance-Blank Check
+CLIR,Energy-Alt/Other
+CLLS,Medical-Biomed/Bth
+CLMB,Wholesale-Elect
+CLMT,Oil&Gas-Rfing/Mkt
+CLNE,Energy-Alt/Other
+CLNN,Medical-Biomed/Bth
+CLOE,Finance-Blank Check
+CLOV,Med-Managed Care
+CLPR,Finance-Property Reit
+CLPS,Comptr Sftwr-Fincl
+CLPT,Medical-Systems/Eqp
+CLRB,Medical-Biomed/Bth
+CLRO,Telcom-Infrastr
+CLS,Elec-Contract Mfg
+CLSD,Medical-Biomed/Bth
+CLSK,Comptr Sftwr-Fincl
+CLSK,Cmpter-Tech Srvcs
+CLST,Banks-Southeast
+CLVR,Consumr Prod-Speci
+CLVT,Cmp Sftwr-Spc-Entr
+CLW,Paper & Paper Produc
+CLWT,Pollution Control
+CLX,Soap & Clng Preparat
+CM,Banks-Foreign
+CMA,Banks-Supr Rgional
+CMAX,Med-Long-Trm Care
+CMBM,Telcom-Infrastr
+CMC,Metal Proc & Fabrica
+CMCA,Finance-Blank Check
+CMCL,Mining-Gld/Silvr/Gms
+CMCM,Comptr Sftwr-Scrity
+CMCO,Mchnry-Mtl Hdlg
+CMCSA,Telcom-Svc-Cbl/Sat
+CMCT,Finance-Property Reit
+CME,Financial Svc-Spec
+CMG,Retail-Restaurants
+CMI,Trucks & Parts-Hvy D
+CMLS,Media-Radio/Tv
+CMMB,Medical-Biomed/Bth
+CMP,Chemicals-Basic
+CMPO,Consumr Prod-Speci
+CMPR,Comml Svc-Doc Mgmt
+CMPS,Medical-Biomed/Bth
+CMPX,Medical-Biomed/Bth
+CMRA,Medical-Biomed/Bth
+CMRE,Transportation-Ship
+CMRX,Medical-Biomed/Bth
+CMS,Utility-Diversified
+CMT,Chemicals-Plastics
+CMTG,Finance-Mrtg-Reit
+CMTL,Telcom-Cbl/Sat Eqp
+CNA,Insrnce-Prp/Cas/Titl
+CNC,Med-Managed Care
+CNDA,Finance-Blank Check
+CNDB,Finance-Blank Check
+CNDT,Comml Svc-Outsourci
+CNFR,Insrnce-Prp/Cas/Titl
+CNHI,Mchinry-Cnstr/Mng
+CNI,Transportation-Rail
+CNK,Leisre-Mvies & Rel
+CNM,Bldg-Cnstr Prds/Msc
+CNMD,Medical-Products
+CNNE,Fnce-Invsmnt Mgt
+CNO,Insrnce-Acc & Heal
+CNOB,Banks-Northeast
+CNP,Utility-Diversified
+CNQ,Oil&Gascdn Expl Pro
+CNS,Fnce-Invsmnt Mgt
+CNSL,Telcom Svc-Integrtd
+CNSP,Medical-Biomed/Bth
+CNTA,Med-Resrch Eqp/Svc
+CNTX,Medical-Biomed/Bth
+CNTY,Leisre-Gamng/Equip
+CNVS,Leisre-Mvies & Rel
+CNX,Oil&Gas-U S Expl Pro
+CNXA,Leisure-Services
+CNXC,Comptr Sftwr-Entr
+CNXN,Wholesale-Elect
+COCO,Bev-Non-Alcoholic
+COCP,Medical-Biomed/Bth
+CODA,Aerospace/Defense
+CODI,Fnce-Invsmnt Mgt
+CODX,Medical-Biomed/Bth
+COE,Consumr Svc-Edcation
+COF,Finance-Cons Loan
+COFS,Banks-Midwest
+COGT,Medical-Biomed/Bth
+COHN,Fnce-Invsmnt Mgt
+COHR,Elec-Parts
+COHU,Elec-Semicndctr Eqp
+COIN,Comptr Sftwr-Fincl
+COKE,Bev-Non-Alcoholic
+COLB,Banks-Wst/Sthwst
+COLD,Finance-Property Reit
+COLL,Medical-Generc Drgs
+COLM,Apprel-Clthing Mfg
+COMM,Telcom-Infrastr
+COMP,Comptr Sftwr-Entr
+CONN,Retail-Cnsmr Elec
+CONX,Finance-Blank Check
+COO,Medical-Products
+COOK,Houshld-Applncs/Hw
+COOL,Finance-Blank Check
+COOP,Finance-Cons Loan
+COP,Oil&Gas-Intl Expl Pr
+COR,Mdcal-Whlsle Drg
+CORT,Medical-Biomed/Bth
+CORZ,Comptr Sftwr-Fincl
+COST,Retail-Mjr Dsc Chns
+COTY,Cosmetics/Persnl Cre
+COUR,Cmptr Sftwr-Edu
+COYA,Medical-Biomed/Bth
+CP,Transportation-Rail
+CPA,Trnsprttin-Airlne
+CPAC,Bldg-Cment/Cncrt
+CPB,Food-Packaged
+CPBI,Banks-Midwest
+CPE,Oil&Gas-U S Expl Pro
+CPF,Banks-Wst/Sthwst
+CPG,Oil&Gascdn Expl Pro
+CPHC,Leisre-Gamng/Equip
+CPHI,Medical-Generc Drgs
+CPIX,Medical-Ethical Drgs
+CPK,Utility-Diversified
+CPLP,Transportation-Ship
+CPNG,Retail-Internet
+CPOP,Internet-Content
+CPRI,Apprel-Clthing Mfg
+CPRT,Retail/Wsl-Auto Prt
+CPRX,Medical-Biomed/Bth
+CPS,Auto/Trck-Orgnl Eqp
+CPSH,Elec-Misc Products
+CPSI,Comptr Sftwr-Mdcl
+CPSS,Finance-Cons Loan
+CPT,Finance-Property Reit
+CPTN,Auto/Trck-Orgnl Eqp
+CPZ,Fince-Pub Inv Fd-Bl
+CQP,Oil&Gas-Trnsprt/Pip
+CR,Dvrsified Oprtions
+CRAI,Cmml Svcs-Cnsltng
+CRBG,Insurance-Life
+CRBP,Medical-Biomed/Bth
+CRBU,Medical-Biomed/Bth
+CRC,Oil&Gas-U S Expl Pro
+CRCT,Cmp-Hrdwre/Perip
+CRDA,Comml Svc-Outsourci
+CRDB,Comml Svc-Outsourci
+CRDF,Med-Resrch Eqp/Svc
+CRDL,Medical-Biomed/Bth
+CRDO,Intrnt-Netwk Sltns
+CREG,Energy-Alt/Other
+CRESY,Finance-Property Reit
+CREX,Coml Svcs-Advrtsng
+CRGE,Telcom-Infrastr
+CRGO,Trnsprt-Air Freight
+CRGX,Medical-Biomed/Bth
+CRGY,Oil&Gas-U S Expl Pro
+CRH,Bldg-Cment/Cncrt
+CRI,Apprel-Clthing Mfg
+CRIS,Medical-Biomed/Bth
+CRK,Oil&Gas-U S Expl Pro
+CRKN,Bldg-Cnstr Prds/Msc
+CRL,Med-Resrch Eqp/Svc
+CRM,Comptr Sftwr-Entr
+CRMD,Medical-Biomed/Bth
+CRMT,Retail/Whlsle-Auto
+CRNC,Comptr Sftwr-Dsktp
+CRNT,Telcom-Infrastr
+CRNX,Medical-Biomed/Bth
+CRON,Consumr Prod-Speci
+CROX,Apparel-Shoes & Rel
+CRS,Steel-Spclty Alloys
+CRSP,Medical-Biomed/Bth
+CRSR,Cmp-Hrdwre/Perip
+CRT,Oil&Gas-Royalty Trust
+CRTO,Coml Svcs-Advrtsng
+CRUS,Elec-Semicon Fblss
+CRVL,Comml Svcs-Hlthcre
+CRVO,Medical-Biomed/Bth
+CRVS,Medical-Biomed/Bth
+CRWD,Comptr Sftwr-Scrity
+CRWS,Consumr Prod-Speci
+CSAN,Oil&Gas-Rfing/Mkt
+CSBR,Med-Resrch Eqp/Svc
+CSCO,Compter-Netwrking
+CSGP,Cmml Svcs-Mrkt Rch
+CSGS,Comml Svc-Outsourci
+CSIQ,Energy Solar
+CSL,Dvrsified Oprtions
+CSLR,Energy Solar
+CSPI,Cmpter-Tech Srvcs
+CSQ,Fince-Pub Inv Fd-Bl
+CSR,Finance-Property Reit
+CSSE,Leisre-Mvies & Rel
+CSTA,Finance-Blank Check
+CSTE,Bldg-Cnstr Prds/Msc
+CSTL,Medical-Services
+CSTM,Steel-Spclty Alloys
+CSTR,Banks-Southeast
+CSV,Funeral Svcs & Rel
+CSWC,Fnce-Invsmnt Mgt
+CSWI,Bldg-A/C & Heating P
+CSX,Transportation-Rail
+CTAS,Comml Svc-Outsourci
+CTBI,Banks-Southeast
+CTG,Cmpter-Tech Srvcs
+CTGO,Mining-Gld/Silvr/Gms
+CTHR,Retail/Whlsle-Jwlry
+CTKB,Med-Resrch Eqp/Svc
+CTLP,Finance-Card/Pmtpr
+CTM,Cmpter-Tech Srvcs
+CTMX,Medical-Biomed/Bth
+CTNT,Transport-Logistics
+CTO,Real State Dvlpmt/Ops
+CTOS,Comml Svcs-Leasing
+CTR,Financ-Pbl Inv Fdeqt
+CTRA,Oil&Gas-U S Expl Pro
+CTRE,Finance-Property Reit
+CTRM,Transportation-Ship
+CTRN,Retail-Apprl/Shoes/Acc
+CTS,Elec-Parts
+CTSH,Cmpter-Tech Srvcs
+CTSO,Medical-Products
+CTV,Comptr Sftwr-Entr
+CTVA,Agricultural Oprtions
+CTXR,Medical-Biomed/Bth
+CUBE,Finance-Property Reit
+CUBI,Banks-Northeast
+CUE,Medical-Biomed/Bth
+CUK,Leisure-Services
+CULL,Banks-Southeast
+CULP,Apprel-Clthing Mfg
+CURI,Leisre-Mvies & Rel
+CURO,Finance-Cons Loan
+CURV,Retail-Apprl/Shoes/Acc
+CUTR,Medical-Systems/Eqp
+CUZ,Finance-Property Reit
+CVAC,Medical-Biomed/Bth
+CVBF,Banks-Wst/Sthwst
+CVCO,Bldg-Mbile/Mfg & Rv
+CVE,Oil&Gas Integrated
+CVEO,Oil&Gas-Field Servic
+CVGI,Trucks & Parts-Hvy D
+CVGW,Food-Misc Prep
+CVI,Oil&Gas-Rfing/Mkt
+CVII,Finance-Blank Check
+CVKD,Medical-Biomed/Bth
+CVLG,Trnsportation-Trck
+CVLT,Cmp Sftwr-Dbase
+CVLY,Banks-Northeast
+CVM,Medical-Biomed/Bth
+CVNA,Retail/Whlsle-Auto
+CVR,Auto/Trck-Orgnl Eqp
+CVRX,Medical-Systems/Eqp
+CVS,Med-Managed Care
+CVU,Aerospace/Defense
+CVV,Elec-Semicndctr Eqp
+CVX,Oil&Gas Integrated
+CW,Aerospace/Defense
+CWAN,Financial Svc-Spec
+CWBC,Banks-Wst/Sthwst
+CWCO,Utility-Water Supply
+CWD,Fnce-Invsmnt Mgt
+CWEN,Energy-Alt/Other
+CWENA,Energy-Alt/Other
+CWH,Retail/Whlsle-Auto
+CWK,Real State Dvlpmt/Ops
+CWST,Pollution Control
+CWT,Utility-Water Supply
+CX,Bldg-Cment/Cncrt
+CXAI,Cmp Sftwr-Spc-Entr
+CXDO,Intrnt-Netwk Sltns
+CXM,Comptr Sftwr-Entr
+CXT,Comptr Sftwr-Fincl
+CXW,Security/Sfty
+CYAN,Cosmetics/Persnl Cre
+CYBN,Medical-Biomed/Bth
+CYBR,Comptr Sftwr-Scrity
+CYCC,Medical-Biomed/Bth
+CYCN,Medical-Biomed/Bth
+CYD,Trucks & Parts-Hvy D
+CYH,Medcal-Hospitals
+CYN,Cmptr-Intgrtd Syst
+CYRX,Transport-Logistics
+CYT,Medical-Biomed/Bth
+CYTH,Medical-Biomed/Bth
+CYTK,Medical-Biomed/Bth
+CZFS,Banks-Northeast
+CZNC,Banks-Northeast
+CZOO,Retail/Whlsle-Auto
+CZR,Leisre-Gamng/Equip
+CZWI,Financ-Svings & Lo
+D,Utility-Diversified
+DAC,Transportation-Ship
+DADA,Retail-Internet
+DAIO,Elec-Semicon Mfg
+DAKT,Elec-Misc Products
+DAL,Trnsprttin-Airlne
+DALN,Media-Newspapers
+DAN,Auto/Trck-Orgnl Eqp
+DAO,Cmptr Sftwr-Edu
+DAR,Agricultural Oprtions
+DARE,Medical-Biomed/Bth
+DASH,Retail-Internet
+DATS,Internet-Content
+DAVA,Cmpter-Tech Srvcs
+DAVE,Cmpter-Tech Srvcs
+DAWN,Medical-Biomed/Bth
+DAY,Comptr Sftwr-Entr
+DB,Banks-Money Cntr
+DBD,Cmptr-Intgrtd Syst
+DBGI,Retail-Apprl/Shoes/Acc
+DBI,Retail-Apprl/Shoes/Acc
+DBRG,Finance-Mrtg-Reit
+DBVT,Medical-Biomed/Bth
+DBX,Cmp Sftwr-Dbase
+DCBO,Comptr Sftwr-Entr
+DCGO,Medical-Services
+DCI,Pollution Control
+DCO,Aerospace/Defense
+DCOM,Banks-Northeast
+DCPH,Medical-Biomed/Bth
+DCTH,Medical-Products
+DD,Chemicals-Basic
+DDD,Mchnry-Mtl Hdlg
+DDI,Cmp Sftwr-Gaming
+DDL,Food-Meat Products
+DDOG,Comptr Sftwr-Entr
+DDS,Retail-Dprtmnt Strs
+DE,Machinery-Farm
+DEA,Finance-Property Reit
+DEC,Oil&Gas-U S Expl Pro
+DECK,Apparel-Shoes & Rel
+DEI,Finance-Property Reit
+DELL,Cmp-Hrdwre/Perip
+DENN,Retail-Restaurants
+DEO,Beverages-Alcoholic
+DERM,Medical-Biomed/Bth
+DESP,Leisre-Trvl Bking
+DFH,Bldg-Rsidnt/Comml
+DFIN,Financial Svc-Spec
+DFLI,Electrical Power/Eqpmt
+DFP,Financ-Pbl Inv Fdeqt
+DFS,Finance-Card/Pmtpr
+DG,Retail-Discnt&Vari
+DGHI,Financial Svc-Spec
+DGICA,Insrnce-Prp/Cas/Titl
+DGICB,Insrnce-Prp/Cas/Titl
+DGII,Compter-Netwrking
+DGLY,Security/Sfty
+DGX,Medical-Services
+DH,Comptr Sftwr-Mdcl
+DHAI,Mchnry-Mtl Hdlg
+DHC,Finance-Property Reit
+DHCA,Finance-Blank Check
+DHI,Bldg-Rsidnt/Comml
+DHIL,Fnce-Invsmnt Mgt
+DHR,Medical-Diversified
+DHT,Oil&Gas-Trnsprt/Pip
+DHX,Internet-Content
+DIBS,Retail-Internet
+DIN,Retail-Restaurants
+DINO,Oil&Gas-Rfing/Mkt
+DIOD,Elec-Semicon Mfg
+DIS,Media-Diversified
+DISA,Finance-Blank Check
+DISH,Telcom-Svc-Cbl/Sat
+DIT,Wholesale-Food
+DJCO,Media-Newspapers
+DK,Oil&Gas-Rfing/Mkt
+DKL,Oil&Gas-Trnsprt/Pip
+DKNG,Leisre-Gamng/Equip
+DKS,Retail-Leisure Prds
+DLA,Apprel-Clthing Mfg
+DLB,Elec-Misc Products
+DLHC,Comml Svcs-Stffng
+DLNG,Oil&Gas-Trnsprt/Pip
+DLO,Finance-Card/Pmtpr
+DLPN,Leisre-Mvies & Rel
+DLR,Finance-Property Reit
+DLTH,Retail-Apprl/Shoes/Acc
+DLTR,Retail-Discnt&Vari
+DLX,Office Supplies Mfg
+DM,Mchnry-Mtl Hdlg
+DMAC,Medical-Biomed/Bth
+DMAQ,Finance-Blank Check
+DMK,Medical-Biomed/Bth
+DMLP,Oil&Gas-U S Expl Pro
+DMRC,Comptr Sftwr-Scrity
+DMTK,Medical-Biomed/Bth
+DMYY,Finance-Blank Check
+DNA,Medical-Biomed/Bth
+DNB,Cmml Svcs-Mrkt Rch
+DNLI,Medical-Biomed/Bth
+DNMR,Chemicals-Plastics
+DNN,Mining-Metal Ores
+DNOW,Oil&Gas-Mchnry/Eq
+DNP,Fince-Pub Inv Fd-Bl
+DNTH,Medical-Biomed/Bth
+DNUT,Retail-Restaurants
+DO,Oil&Gas-Drilling
+DOC,Finance-Property Reit
+DOCN,Comptr Sftwr-Entr
+DOCS,Comptr Sftwr-Mdcl
+DOCU,Comptr Sftwr-Entr
+DOGZ,Retail-Specialty
+DOLE,Food-Misc Prep
+DOMA,Cmp Sftwr-Spc-Entr
+DOMH,Medical-Biomed/Bth
+DOMO,Comptr Sftwr-Entr
+DOOO,Leisure-Products
+DOOR,Bldg-Cnstr Prds/Msc
+DORM,Auto/Trck-Rplc Prts
+DOUG,Finance-Property Reit
+DOV,Mchnry-Gen Indstrl
+DOW,Chemicals-Plastics
+DOX,Cmpter-Tech Srvcs
+DOYU,Internet-Content
+DPCS,Finance-Blank Check
+DPG,Fin-Publ Inv Fd-Gl
+DPRO,Aerospace/Defense
+DPSI,Comptr Sftwr-Entr
+DPZ,Retail-Restaurants
+DQ,Energy Solar
+DRCT,Internet-Content
+DRD,Mining-Gld/Silvr/Gms
+DRI,Retail-Restaurants
+DRIO,Medical-Products
+DRMA,Medical-Biomed/Bth
+DRQ,Oil&Gas-Mchnry/Eq
+DRRX,Medical-Biomed/Bth
+DRS,Aerospace/Defense
+DRTS,Medical-Biomed/Bth
+DRUG,Medical-Biomed/Bth
+DRVN,Retail/Wsl-Auto Prt
+DSAQ,Finance-Blank Check
+DSGN,Medical-Biomed/Bth
+DSGR,Machnry-Tools & Re
+DSGX,Cmp Sftwr-Spc-Entr
+DSKE,Transport-Logistics
+DSP,Coml Svcs-Advrtsng
+DSS,Security/Sfty
+DSX,Transportation-Ship
+DT,Comptr Sftwr-Entr
+DTC,Leisure-Products
+DTCK,Wholesale-Food
+DTE,Utility-Diversified
+DTI,Oil&Gas-Mchnry/Eq
+DTIL,Medical-Biomed/Bth
+DTM,Oil&Gas-Trnsprt/Pip
+DTSS,Compter-Netwrking
+DTST,Cmp Sftwr-Dbase
+DUK,Utility-Diversified
+DUNE,Finance-Blank Check
+DUOL,Cmptr Sftwr-Edu
+DUOT,Comptr Sftwr-Entr
+DV,Cmp Sftwr-Spc-Entr
+DVA,Mdcal-Outpnt/Hm Cr
+DVAX,Medical-Biomed/Bth
+DVN,Oil&Gas-U S Expl Pro
+DWSN,Oil&Gas-Field Servic
+DX,Finance-Mrtg-Reit
+DXC,Cmpter-Tech Srvcs
+DXCM,Medical-Products
+DXLG,Retail-Apprl/Shoes/Acc
+DXPE,Mchnry-Gen Indstrl
+DXR,Medical-Systems/Eqp
+DXYN,Rtail-Hme Frnshngs
+DY,Telcom-Infrastr
+DYAI,Medical-Biomed/Bth
+DYN,Medical-Biomed/Bth
+DYNT,Medical-Systems/Eqp
+E,Oil&Gas Integrated
+EA,Cmp Sftwr-Gaming
+EAC,Finance-Blank Check
+EAF,Steel-Spclty Alloys
+EAR,Medical-Products
+EARN,Finance-Mrtg-Reit
+EARN,Finance-Mrtg-Reit
+EAST,Beverages-Alcoholic
+EAT,Retail-Restaurants
+EB,Cmptr Sftwr-Edu
+EBAY,Retail-Internet
+EBC,Banks-Northeast
+EBF,Office Supplies Mfg
+EBIX,Comptr Sftwr-Entr
+EBMT,Banks-Wst/Sthwst
+EBR,Utility-Elctric Pwr
+EBRB,Utility-Elctric Pwr
+EBS,Medical-Biomed/Bth
+EBTC,Banks-Northeast
+EC,Oil&Gas Integrated
+ECBK,Banks-Northeast
+ECL,Soap & Clng Preparat
+ECO,Transportation-Ship
+ECOR,Medical-Biomed/Bth
+ECPG,Financial Svc-Spec
+ECVT,Chemicals-Basic
+ECX,Cmp Sftwr-Spc-Entr
+ED,Utility-Diversified
+EDAP,Medical-Systems/Eqp
+EDBL,Agricultural Oprtions
+EDD,Fin-Publ Inv Fd-Gl
+EDF,Fin-Publ Inv Fd-Gl
+EDIT,Medical-Biomed/Bth
+EDN,Utility-Elctric Pwr
+EDR,Leisure-Services
+EDRY,Transportation-Ship
+EDSA,Medical-Biomed/Bth
+EDU,Consumr Svc-Edcation
+EDUC,Media-Books
+EE,Utility-Gas Dstribtn
+EEFT,Finance-Card/Pmtpr
+EEX,Coml Svcs-Advrtsng
+EFC,Fnce-Invsmnt Mgt
+EFHT,Finance-Blank Check
+EFOI,Bldg-Cnstr Prds/Msc
+EFSC,Banks-Midwest
+EFSH,Dvrsified Oprtions
+EFTR,Medical-Biomed/Bth
+EFX,Financial Svc-Spec
+EFXT,Oil&Gas-Mchnry/Eq
+EG,Insrnce-Prp/Cas/Titl
+EGAN,Comptr Sftwr-Entr
+EGBN,Banks-Northeast
+EGHT,Comptr Sftwr-Entr
+EGIO,Intrnt-Netwk Sltns
+EGLE,Transportation-Ship
+EGO,Mining-Gld/Silvr/Gms
+EGP,Finance-Property Reit
+EGP,Finance-Property Reit
+EGY,Oil&Gas-Intl Expl Pr
+EH,Aerospace/Defense
+EHAB,Mdcal-Outpnt/Hm Cr
+EHC,Mdcal-Outpnt/Hm Cr
+EHTH,Insurance-Brokers
+EIG,Insrnce-Prp/Cas/Titl
+EIGR,Medical-Biomed/Bth
+EIX,Utility-Elctric Pwr
+EKSO,Medical-Products
+EL,Cosmetics/Persnl Cre
+ELA,Retail/Whlsle-Jwlry
+ELAN,Medical Supplies
+ELDN,Medical-Biomed/Bth
+ELEV,Medical-Biomed/Bth
+ELF,Cosmetics/Persnl Cre
+ELIQ,Utility-Elctric Pwr
+ELLO,Energy-Alt/Other
+ELMD,Medical-Systems/Eqp
+ELME,Finance-Property Reit
+ELP,Utility-Elctric Pwr
+ELS,Finance-Property Reit
+ELSE,Mchnry-Gen Indstrl
+ELTK,Elec-Contract Mfg
+ELTX,Medical-Biomed/Bth
+ELUT,Medical-Products
+ELV,Med-Managed Care
+ELVA,Auto/Trck-Orgnl Eqp
+ELVN,Medical-Biomed/Bth
+ELYM,Medical-Biomed/Bth
+EME,Bldg-Mntnance & S
+EMF,Fin-Publ Inv Fd-Gl
+EMKR,Elec-Misc Products
+EML,Security/Sfty
+EMLD,Finance-Blank Check
+EMN,Chemicals-Plastics
+EMO,Financ-Pbl Inv Fdeqt
+EMR,Dvrsified Oprtions
+ENB,Oil&Gas-Trnsprt/Pip
+ENER,Finance-Blank Check
+ENFN,Comptr Sftwr-Entr
+ENG,Bldg-Heavy Constr
+ENGN,Medical-Generc Drgs
+ENIC,Utility-Elctric Pwr
+ENLC,Oil&Gas-Trnsprt/Pip
+ENLT,Energy-Alt/Other
+ENOV,Medical-Products
+ENPH,Energy Solar
+ENR,Consumr Prod-Speci
+ENS,Electrical Power/Eqpmt
+ENSC,Medical-Biomed/Bth
+ENSG,Med-Long-Trm Care
+ENSV,Oil&Gas-Field Servic
+ENTA,Medical-Biomed/Bth
+ENTG,Elec-Semicndctr Eqp
+ENTX,Medical-Biomed/Bth
+ENV,Financial Svc-Spec
+ENVA,Finance-Cons Loan
+ENVB,Medical-Biomed/Bth
+ENVX,Electrical Power/Eqpmt
+ENZ,Med-Resrch Eqp/Svc
+EOD,Fin-Publ Inv Fd-Gl
+EOG,Oil&Gas-U S Expl Pro
+EOLS,Medical-Ethical Drgs
+EOSE,Electrical Power/Eqpmt
+EP,Oil&Gas-U S Expl Pro
+EPAC,Machnry-Tools & Re
+EPAM,Cmpter-Tech Srvcs
+EPC,Cosmetics/Persnl Cre
+EPD,Oil&Gas-Trnsprt/Pip
+EPIX,Medical-Biomed/Bth
+EPM,Oil&Gas-U S Expl Pro
+EPR,Finance-Property Reit
+EPRT,Finance-Property Reit
+EPSN,Oil&Gas-U S Expl Pro
+EQ,Medical-Biomed/Bth
+EQBK,Banks-Midwest
+EQC,Finance-Property Reit
+EQH,Fnce-Invsmnt Mgt
+EQIX,Finance-Property Reit
+EQNR,Oil&Gas Integrated
+EQR,Finance-Property Reit
+EQRX,Medical-Biomed/Bth
+EQS,Fnce-Invsmnt Mgt
+EQT,Oil&Gas Integrated
+EQX,Mining-Gld/Silvr/Gms
+ERAS,Medical-Biomed/Bth
+ERF,Oil&Gascdn Expl Pro
+ERH,Fince-Pub Inv Fd-Bl
+ERIC,Telcom-Infrastr
+ERIE,Insurance-Brokers
+ERII,Mchnry-Gen Indstrl
+ERJ,Aerospace/Defense
+ERNA,Medical-Biomed/Bth
+ERO,Mining-Metal Ores
+ES,Utility-Elctric Pwr
+ESAB,Mchnry-Gen Indstrl
+ESCA,Leisure-Products
+ESEA,Transportation-Ship
+ESGR,Insrnce-Prp/Cas/Titl
+ESI,Chemicals-Specialty
+ESMT,Comptr Sftwr-Entr
+ESNT,Fin-Mrtg&Rel Svc
+ESOA,Oil&Gas-Trnsprt/Pip
+ESP,Aerospace/Defense
+ESPR,Medical-Biomed/Bth
+ESQ,Finance-Cmrcl Loan
+ESRT,Finance-Property Reit
+ESS,Finance-Property Reit
+ESSA,Financ-Svings & Lo
+ESTA,Medical-Products
+ESTC,Cmp Sftwr-Dbase
+ET,Oil&Gas-Trnsprt/Pip
+ETD,Rtail-Hme Frnshngs
+ETG,Financ-Pbl Inv Fdeqt
+ETN,Dvrsified Oprtions
+ETNB,Medical-Biomed/Bth
+ETO,Fin-Publ Inv Fd-Gl
+ETON,Medical-Biomed/Bth
+ETR,Utility-Elctric Pwr
+ETRN,Oil&Gas-Trnsprt/Pip
+ETSY,Retail-Internet
+ETWO,Comptr Sftwr-Entr
+ETY,Financ-Pbl Inv Fdeqt
+EU,Mining-Metal Ores
+EURN,Oil&Gas-Trnsprt/Pip
+EVA,Energy-Alt/Other
+EVAX,Medical-Biomed/Bth
+EVBG,Comptr Sftwr-Entr
+EVBN,Banks-Northeast
+EVC,Media-Radio/Tv
+EVCM,Comptr Sftwr-Entr
+EVER,Insrnce-Divrsified
+EVEX,Aerospace/Defense
+EVG,Fin-Publ Inv Fd-Gl
+EVGN,Agricultural Oprtions
+EVGO,Electrical Power/Eqpmt
+EVH,Comptr Sftwr-Mdcl
+EVI,Mchnry-Gen Indstrl
+EVLO,Medical-Biomed/Bth
+EVLV,Security/Sfty
+EVO,Medical-Biomed/Bth
+EVOK,Medical-Biomed/Bth
+EVR,Fin-Invest Bnk/Bkrs
+EVRG,Utility-Elctric Pwr
+EVRI,Finance-Card/Pmtpr
+EVT,Financ-Pbl Inv Fdeqt
+EVTC,Finance-Card/Pmtpr
+EVTV,Auto Manufacturers
+EW,Medical-Products
+EWBC,Banks-Wst/Sthwst
+EWCZ,Cosmetics/Persnl Cre
+EWTX,Medical-Biomed/Bth
+EXAI,Medical-Biomed/Bth
+EXAS,Medical-Biomed/Bth
+EXC,Utility-Diversified
+EXEL,Medical-Biomed/Bth
+EXFY,Comptr Sftwr-Fincl
+EXG,Fin-Publ Inv Fd-Gl
+EXK,Mining-Gld/Silvr/Gms
+EXLS,Comml Svc-Outsourci
+EXP,Bldg-Cment/Cncrt
+EXPD,Transport-Logistics
+EXPE,Leisre-Trvl Bking
+EXPI,Real State Dvlpmt/Ops
+EXPO,Cmml Svcs-Cnsltng
+EXR,Finance-Property Reit
+EXTR,Compter-Netwrking
+EYE,Retail-Specialty
+EYEN,Medical-Biomed/Bth
+EYPT,Medical-Biomed/Bth
+EZFL,Oil&Gas-Trnsprt/Pip
+EZGO,Electrical Power/Eqpmt
+EZPW,Finance-Cons Loan
+F,Auto Manufacturers
+FA,Comml Svcs-Stffng
+FAF,Insrnce-Prp/Cas/Titl
+FANG,Oil&Gas-U S Expl Pro
+FANH,Insurance-Brokers
+FARM,Wholesale-Food
+FARO,Elec-Scntific/Msrng
+FAST,Machnry-Tools & Re
+FAT,Retail-Restaurants
+FATBB,Retail-Restaurants
+FATE,Medical-Biomed/Bth
+FATH,Retail-Internet
+FAX,Fin-Publ Inv Fd-Gl
+FAZE,Internet-Content
+FBIN,Bldg-Cnstr Prds/Msc
+FBIO,Medical-Biomed/Bth
+FBIZ,Banks-Midwest
+FBK,Banks-Southeast
+FBMS,Banks-Southeast
+FBNC,Banks-Southeast
+FBP,Banks-Southeast
+FBRT,Finance-Property Reit
+FBRX,Medical-Biomed/Bth
+FBYD,Leisure-Services
+FC,Consumr Svc-Edcation
+FCAP,Financ-Svings & Lo
+FCBC,Banks-Southeast
+FCCO,Banks-Southeast
+FCEL,Energy-Alt/Other
+FCF,Banks-Northeast
+FCFS,Finance-Cons Loan
+FCN,Cmml Svcs-Cnsltng
+FCNCA,Banks-Southeast
+FCO,Fin-Publ Inv Fd-Gl
+FCPT,Finance-Property Reit
+FCX,Mining-Metal Ores
+FDBC,Banks-Northeast
+FDMT,Medical-Biomed/Bth
+FDP,Food-Misc Prep
+FDS,Cmml Svcs-Mrkt Rch
+FDUS,Fnce-Invsmnt Mgt
+FDX,Trnsprt-Air Freight
+FE,Utility-Elctric Pwr
+FEAM,Mining-Metal Ores
+FEI,Financ-Pbl Inv Fdeqt
+FEIM,Telcom-Cbl/Sat Eqp
+FELE,Electrical Power/Eqpmt
+FEMY,Medical-Systems/Eqp
+FEN,Financ-Pbl Inv Fdeqt
+FENC,Medical-Biomed/Bth
+FENG,Internet-Content
+FERG,Bldg-Cnstr Prds/Msc
+FET,Oil&Gas-Mchnry/Eq
+FF,Chemicals-Specialty
+FFBC,Financ-Svings & Lo
+FFC,Financ-Pbl Inv Fdeqt
+FFIC,Banks-Northeast
+FFIE,Auto Manufacturers
+FFIN,Banks-Wst/Sthwst
+FFIV,Intrnt-Netwk Sltns
+FFNW,Financ-Svings & Lo
+FFWM,Banks-Wst/Sthwst
+FG,Insurance-Life
+FGB,Fin-Publ Inv Fd-Gl
+FGBI,Banks-Southeast
+FGEN,Medical-Biomed/Bth
+FGF,Insrnce-Divrsified
+FGH,Leisre-Mvies & Rel
+FGI,Rtail-Hme Frnshngs
+FHB,Banks-Wst/Sthwst
+FHI,Fnce-Invsmnt Mgt
+FHLT,Finance-Blank Check
+FHN,Banks-Southeast
+FHTX,Medical-Biomed/Bth
+FI,Financial Svc-Spec
+FIAC,Finance-Blank Check
+FIBK,Banks-Wst/Sthwst
+FICO,Comptr Sftwr-Fincl
+FIF,Financ-Pbl Inv Fdeqt
+FIGS,Apprel-Clthing Mfg
+FIHL,Insrnce-Prp/Cas/Titl
+FINS,Financ-Pbl Inv Fdeqt
+FINV,Financial Svc-Spec
+FINW,Banks-Wst/Sthwst
+FIP,Trnsprt-Eqp Mfg
+FIS,Financial Svc-Spec
+FISI,Banks-Northeast
+FITB,Banks-Supr Rgional
+FIVE,Retail-Discnt&Vari
+FIVN,Comptr Sftwr-Entr
+FIX,Bldg-A/C & Heating P
+FIXX,Medical-Generc Drgs
+FIZZ,Bev-Non-Alcoholic
+FKWL,Telcom-Cbl/Sat Eqp
+FL,Retail-Apprl/Shoes/Acc
+FLEX,Elec-Contract Mfg
+FLFV,Finance-Blank Check
+FLGC,Consumr Prod-Speci
+FLGT,Med-Resrch Eqp/Svc
+FLIC,Banks-Northeast
+FLL,Leisre-Gamng/Equip
+FLNC,Energy-Alt/Other
+FLNG,Oil&Gas-Trnsprt/Pip
+FLNT,Coml Svcs-Advrtsng
+FLO,Food-Packaged
+FLR,Bldg-Heavy Constr
+FLS,Mchnry-Gen Indstrl
+FLT,Financial Svc-Spec
+FLUX,Electrical Power/Eqpmt
+FLWS,Retail-Mail Order&Di
+FLXS,Hsholdoffic Furnitr
+FLYW,Finance-Card/Pmtpr
+FMAO,Banks-Midwest
+FMBH,Banks-Midwest
+FMC,Chemicals-Ag
+FMNB,Banks-Midwest
+FMS,Mdcal-Outpnt/Hm Cr
+FMX,Bev-Non-Alcoholic
+FMY,Fince-Pub Inv Fd-Bl
+FN,Elec-Contract Mfg
+FNA,Medical-Products
+FNB,Banks-Northeast
+FNCB,Banks-Northeast
+FNCH,Medical-Biomed/Bth
+FND,Retl Whsle Bldg Prds
+FNF,Insrnce-Prp/Cas/Titl
+FNGR,Telcom-Infrastr
+FNKO,Leisr-Tys/Gms/Hbby
+FNLC,Banks-Northeast
+FNV,Mining-Gld/Silvr/Gms
+FNWB,Banks-Wst/Sthwst
+FNWD,Banks-Midwest
+FOA,Fin-Mrtg&Rel Svc
+FOLD,Medical-Biomed/Bth
+FONR,Medical-Systems/Eqp
+FOR,Real State Dvlpmt/Ops
+FORA,Comptr Sftwr-Mdcl
+FORD,Containers/Packaging
+FORM,Elec-Semicndctr Eqp
+FORR,Cmml Svcs-Mrkt Rch
+FORTY,Cmpter-Tech Srvcs
+FOSL,Retail/Whlsle-Jwlry
+FOUR,Finance-Card/Pmtpr
+FOX,Media-Diversified
+FOXA,Media-Diversified
+FOXF,Leisure-Products
+FOXO,Med-Resrch Eqp/Svc
+FPAY,Retail-Internet
+FPF,Financ-Pbl Inv Fdeqt
+FPH,Real State Dvlpmt/Ops
+FPI,Finance-Property Reit
+FPL,Financ-Pbl Inv Fdeqt
+FR,Finance-Property Reit
+FRAF,Banks-Northeast
+FRBA,Banks-Northeast
+FRD,Metal Proc & Fabrica
+FREE,Food-Misc Prep
+FRES,Medical-Services
+FREY,Energy-Alt/Other
+FRGE,Fin-Invest Bnk/Bkrs
+FRHC,Fin-Invest Bnk/Bkrs
+FRLN,Medical-Biomed/Bth
+FRME,Banks-Midwest
+FRO,Oil&Gas-Trnsprt/Pip
+FROG,Comptr Sftwr-Entr
+FRPH,Real State Dvlpmt/Ops
+FRPT,Food-Packaged
+FRSH,Comptr Sftwr-Entr
+FRST,Banks-Southeast
+FRT,Finance-Property Reit
+FRTX,Medical-Biomed/Bth
+FRZA,Leisure-Products
+FSBC,Banks-Wst/Sthwst
+FSBW,Banks-Wst/Sthwst
+FSEA,Financ-Svings & Lo
+FSFG,Financ-Svings & Lo
+FSI,Chemicals-Specialty
+FSK,Fnce-Invsmnt Mgt
+FSLR,Energy Solar
+FSLY,Comptr Sftwr-Entr
+FSM,Mining-Gld/Silvr/Gms
+FSP,Finance-Property Reit
+FSR,Auto Manufacturers
+FSRX,Finance-Blank Check
+FSS,Security/Sfty
+FSTR,Metal Proc & Fabrica
+FSV,Real State Dvlpmt/Ops
+FT,Fince-Pub Inv Fd-Bl
+FTAI,Aerospace/Defense
+FTCI,Cmpter-Tech Srvcs
+FTDR,Bldg-Mntnance & S
+FTEK,Pollution Control
+FTEL,Leisure-Services
+FTHM,Real State Dvlpmt/Ops
+FTHY,Financ-Pbl Inv Fdeqt
+FTI,Oil&Gas-Mchnry/Eq
+FTK,Oil&Gas-Field Servic
+FTLF,Cosmetics/Persnl Cre
+FTNT,Comptr Sftwr-Scrity
+FTRE,Med-Resrch Eqp/Svc
+FTS,Utility-Diversified
+FTV,Mchnry-Gen Indstrl
+FUBO,Leisre-Mvies & Rel
+FUL,Chemicals-Specialty
+FULC,Medical-Biomed/Bth
+FULT,Banks-Supr Rgional
+FUN,Leisure-Services
+FUNC,Banks-Northeast
+FURY,Mining-Gld/Silvr/Gms
+FUSB,Banks-Southeast
+FUSN,Medical-Biomed/Bth
+FUTU,Fin-Invest Bnk/Bkrs
+FUV,Auto Manufacturers
+FVCB,Banks-Southeast
+FVRR,Retail-Internet
+FWBI,Medical-Biomed/Bth
+FWONA,Media-Diversified
+FWONK,Media-Diversified
+FWRD,Trnsportation-Trck
+FWRG,Retail-Restaurants
+FXNC,Banks-Southeast
+G,Comml Svc-Outsourci
+GABC,Banks-Midwest
+GAIA,Leisre-Mvies & Rel
+GAIN,Fnce-Invsmnt Mgt
+GALT,Medical-Biomed/Bth
+GAMB,Coml Svcs-Advrtsng
+GAMC,Finance-Blank Check
+GAN,Leisre-Gamng/Equip
+GANX,Medical-Biomed/Bth
+GASS,Oil&Gas-Trnsprt/Pip
+GATO,Mining-Gld/Silvr/Gms
+GATX,Comml Svcs-Leasing
+GAU,Mining-Gld/Silvr/Gms
+GBCI,Banks-Wst/Sthwst
+GBDC,Fnce-Invsmnt Mgt
+GBIO,Medical-Biomed/Bth
+GBLI,Insrnce-Prp/Cas/Titl
+GBNH,Medical-Biomed/Bth
+GBNY,Banks-Northeast
+GBR,Oil&Gas-U S Expl Pro
+GBTG,Leisre-Trvl Bking
+GBX,Trnsprt-Eqp Mfg
+GCBC,Financ-Svings & Lo
+GCI,Media-Newspapers
+GCMG,Fnce-Invsmnt Mgt
+GCO,Retail-Apprl/Shoes/Acc
+GCT,Cmpter-Tech Srvcs
+GCTK,Medical-Products
+GD,Aerospace/Defense
+GDDY,Comptr Sftwr-Entr
+GDEN,Leisre-Gamng/Equip
+GDEV,Cmp Sftwr-Gaming
+GDO,Fin-Publ Inv Fd-Gl
+GDOT,Finance-Card/Pmtpr
+GDRX,Comptr Sftwr-Mdcl
+GDST,Finance-Blank Check
+GDYN,Cmpter-Tech Srvcs
+GE,Dvrsified Oprtions
+GECC,Fnce-Invsmnt Mgt
+GEF,Containers/Packaging
+GEFB,Containers/Packaging
+GEG,Intrnt-Netwk Sltns
+GEHC,Medical-Systems/Eqp
+GEL,Oil&Gas-Rfing/Mkt
+GEN,Comptr Sftwr-Scrity
+GENC,Mchnry-Gen Indstrl
+GENI,Leisre-Gamng/Equip
+GENK,Retail-Restaurants
+GEO,Security/Sfty
+GEOS,Oil&Gas-Mchnry/Eq
+GERN,Medical-Biomed/Bth
+GES,Retail-Apprl/Shoes/Acc
+GETR,Leisure-Services
+GETY,Internet-Content
+GEVO,Chemicals-Specialty
+GFF,Bldg-Cnstr Prds/Msc
+GFI,Mining-Gld/Silvr/Gms
+GFL,Pollution Control
+GFR,Oil&Gascdn Expl Pro
+GFS,Elec-Semicon Mfg
+GGAL,Banks-Foreign
+GGB,Steel-Producers
+GGE,Bldg-Rsidnt/Comml
+GGG,Mchnry-Gen Indstrl
+GGR,Auto Manufacturers
+GH,Medical-Services
+GHC,Media-Diversified
+GHI,Fin-Mrtg&Rel Svc
+GHIX,Finance-Blank Check
+GHL,Fin-Invest Bnk/Bkrs
+GHLD,Fin-Mrtg&Rel Svc
+GHM,Mchnry-Gen Indstrl
+GHRS,Medical-Biomed/Bth
+GHSI,Med-Resrch Eqp/Svc
+GIA,Finance-Blank Check
+GIB,Cmpter-Tech Srvcs
+GIC,Retl Whsle Bldg Prds
+GIFI,Oil&Gas-Mchnry/Eq
+GIGM,Cmp Sftwr-Gaming
+GIII,Apprel-Clthing Mfg
+GIL,Apprel-Clthing Mfg
+GILD,Medical-Biomed/Bth
+GILT,Telcom-Cbl/Sat Eqp
+GIPR,Finance-Property Reit
+GIS,Food-Packaged
+GKOS,Medical-Products
+GL,Insurance-Life
+GLAD,Fnce-Invsmnt Mgt
+GLBE,Comptr Sftwr-Entr
+GLBS,Transportation-Ship
+GLBZ,Banks-Northeast
+GLDD,Bldg-Heavy Constr
+GLDG,Mining-Gld/Silvr/Gms
+GLO,Fince-Pub Inv Fd-Bl
+GLOB,Cmpter-Tech Srvcs
+GLP,Oil&Gas-Rfing/Mkt
+GLPG,Medical-Biomed/Bth
+GLPI,Finance-Property Reit
+GLQ,Financ-Pbl Inv Fdeqt
+GLRE,Insrnce-Prp/Cas/Titl
+GLST,Finance-Blank Check
+GLT,Paper & Paper Produc
+GLTO,Medical-Biomed/Bth
+GLUE,Medical-Biomed/Bth
+GLV,Financ-Pbl Inv Fdeqt
+GLW,Elec-Misc Products
+GLYC,Medical-Biomed/Bth
+GM,Auto Manufacturers
+GMAB,Medical-Biomed/Bth
+GMDA,Medical-Biomed/Bth
+GME,Retail-Cnsmr Elec
+GMED,Medical-Products
+GMGI,Cmp Sftwr-Gaming
+GMRE,Finance-Property Reit
+GMS,Bldg-Cnstr Prds/Msc
+GNE,Utility-Diversified
+GNK,Transportation-Ship
+GNL,Finance-Property Reit
+GNLN,Consumr Prod-Speci
+GNLX,Medical-Biomed/Bth
+GNPX,Medical-Biomed/Bth
+GNRC,Electrical Power/Eqpmt
+GNSS,Security/Sfty
+GNTX,Auto/Trck-Orgnl Eqp
+GNTY,Banks-Wst/Sthwst
+GNW,Insurance-Life
+GO,Retail-Discnt&Vari
+GOCO,Insurance-Brokers
+GODN,Finance-Blank Check
+GOEV,Auto Manufacturers
+GOGL,Transportation-Ship
+GOGO,Telcom-Infrastr
+GOL,Trnsprttin-Airlne
+GOLD,Mining-Gld/Silvr/Gms
+GOLF,Leisure-Products
+GOOD,Finance-Property Reit
+GOOG,Internet-Content
+GOOGL,Internet-Content
+GOOS,Apprel-Clthing Mfg
+GORO,Mining-Gld/Silvr/Gms
+GORV,Retail/Whlsle-Auto
+GOSS,Medical-Biomed/Bth
+GOTU,Consumr Svc-Edcation
+GOVX,Medical-Biomed/Bth
+GP,Auto Manufacturers
+GPAC,Finance-Blank Check
+GPC,Retail/Wsl-Auto Prt
+GPCR,Medical-Biomed/Bth
+GPI,Retail/Whlsle-Auto
+GPK,Paper & Paper Produc
+GPMT,Finance-Mrtg-Reit
+GPN,Finance-Card/Pmtpr
+GPOR,Oil&Gas-U S Expl Pro
+GPP,Oil&Gas-Trnsprt/Pip
+GPRE,Energy-Alt/Other
+GPRK,Oil&Gas-Intl Expl Pr
+GPRO,Consumer Prod-Elec
+GPS,Retail-Apprl/Shoes/Acc
+GRAB,Leisure-Services
+GRBK,Bldg-Rsidnt/Comml
+GRC,Mchnry-Gen Indstrl
+GRCL,Medical-Biomed/Bth
+GREE,Financial Svc-Spec
+GRFS,Medical-Ethical Drgs
+GRI,Medical-Biomed/Bth
+GRIN,Transportation-Ship
+GRMN,Consumer Prod-Elec
+GRND,Internet-Content
+GRNQ,Fnce-Invsmnt Mgt
+GRNT,Oil&Gas-Royalty Trust
+GROV,Retail-Specialty
+GROW,Fnce-Invsmnt Mgt
+GROY,Mining-Gld/Silvr/Gms
+GRPH,Medical-Biomed/Bth
+GRPN,Retail-Internet
+GRRR,Cmpter-Tech Srvcs
+GRTS,Medical-Biomed/Bth
+GRTX,Medical-Biomed/Bth
+GRVY,Cmp Sftwr-Gaming
+GRWG,Retail-Specialty
+GS,Banks-Money Cntr
+GSAT,Telcom Svc-Wirles
+GSBC,Banks-Midwest
+GSBD,Finance-Cmrcl Loan
+GSHD,Insrnce-Prp/Cas/Titl
+GSIT,Elec-Semicon Fblss
+GSK,Medical-Diversified
+GSL,Transportation-Ship
+GSM,Steel-Spclty Alloys
+GT,Auto/Trck-Tirs & M
+GTAC,Finance-Blank Check
+GTES,Electrical Power/Eqpmt
+GTHX,Medical-Biomed/Bth
+GTIM,Retail-Restaurants
+GTLB,Cmpter-Tech Srvcs
+GTLS,Oil&Gas-Mchnry/Eq
+GTN,Media-Radio/Tv
+GTNA,Media-Radio/Tv
+GTX,Auto/Trck-Orgnl Eqp
+GTY,Finance-Property Reit
+GUG,Fince-Pub Inv Fd-Bl
+GVA,Bldg-Heavy Constr
+GVP,Compter Sftwr-Dsgn
+GWAV,Pollution Control
+GWH,Electrical Power/Eqpmt
+GWRE,Comptr Sftwr-Fincl
+GWRS,Utility-Water Supply
+GWW,Machnry-Tools & Re
+GXO,Transport-Logistics
+H,Leisure-Lodging
+HA,Trnsprttin-Airlne
+HAE,Medical-Systems/Eqp
+HAFC,Banks-Wst/Sthwst
+HAIN,Food-Packaged
+HAL,Oil&Gas-Field Servic
+HALL,Insrnce-Prp/Cas/Titl
+HALO,Medical-Biomed/Bth
+HARP,Medical-Biomed/Bth
+HAS,Leisr-Tys/Gms/Hbby
+HASI,Finance-Mrtg-Reit
+HAYN,Metal Proc & Fabrica
+HAYW,Retail-Leisure Prds
+HBAN,Banks-Supr Rgional
+HBB,Houshld-Applncs/Hw
+HBCP,Financ-Svings & Lo
+HBI,Apprel-Clthing Mfg
+HBIO,Medical-Products
+HBM,Mining-Metal Ores
+HBNC,Banks-Midwest
+HBT,Banks-Midwest
+HCA,Medcal-Hospitals
+HCAT,Comptr Sftwr-Mdcl
+HCC,Energy Coal
+HCDI,Real State Dvlpmt/Ops
+HCI,Insrnce-Prp/Cas/Titl
+HCKT,Cmpter-Tech Srvcs
+HCM,Medical-Biomed/Bth
+HCMA,Finance-Blank Check
+HCP,Comptr Sftwr-Entr
+HCSG,Comml Svcs-Hlthcre
+HCTI,Comml Svcs-Hlthcre
+HCVI,Finance-Blank Check
+HCWB,Medical-Biomed/Bth
+HD,Retl Whsle Bldg Prds
+HDB,Banks-Foreign
+HDSN,Pollution Control
+HE,Utility-Elctric Pwr
+HEAR,Consumer Prod-Elec
+HEES,Comml Svcs-Leasing
+HEI,Aerospace/Defense
+HELE,Cosmetics/Persnl Cre
+HEP,Oil&Gas-Trnsprt/Pip
+HEPS,Retail-Internet
+HES,Oil&Gas-Intl Expl Pr
+HESM,Oil&Gas-Trnsprt/Pip
+HFBL,Financ-Svings & Lo
+HFFG,Wholesale-Food
+HFWA,Banks-Wst/Sthwst
+HG,Insrnce-Divrsified
+HGBL,Fnce-Invsmnt Mgt
+HGTY,Insrnce-Prp/Cas/Titl
+HGV,Leisure-Services
+HHH,Real State Dvlpmt/Ops
+HHS,Coml Svcs-Advrtsng
+HI,Mchnry-Gen Indstrl
+HIBB,Retail-Leisure Prds
+HIE,Financ-Pbl Inv Fdeqt
+HIFS,Banks-Northeast
+HIG,Insrnce-Divrsified
+HIHO,Metal Proc & Fabrica
+HII,Aerospace/Defense
+HIMS,Comptr Sftwr-Mdcl
+HIMX,Elec-Semicon Fblss
+HIPO,Insrnce-Prp/Cas/Titl
+HITI,Consumr Prod-Speci
+HIVE,Financial Svc-Spec
+HIW,Finance-Property Reit
+HL,Mining-Gld/Silvr/Gms
+HLF,Cosmetics/Persnl Cre
+HLI,Fin-Invest Bnk/Bkrs
+HLIO,Mchnry-Gen Indstrl
+HLIT,Telcom-Cbl/Sat Eqp
+HLLY,Auto/Trck-Orgnl Eqp
+HLMN,Retl Whsle Bldg Prds
+HLN,Medical-Generc Drgs
+HLNE,Fnce-Invsmnt Mgt
+HLT,Leisure-Lodging
+HLTH,Comptr Sftwr-Mdcl
+HLVX,Medical-Biomed/Bth
+HLX,Oil&Gas-Field Servic
+HMC,Auto Manufacturers
+HMN,Insrnce-Prp/Cas/Titl
+HMNF,Financ-Svings & Lo
+HMST,Banks-Wst/Sthwst
+HMY,Mining-Gld/Silvr/Gms
+HNI,Hsholdoffic Furnitr
+HNNA,Fnce-Invsmnt Mgt
+HNRA,Finance-Blank Check
+HNRG,Energy Coal
+HNST,Cosmetics/Persnl Cre
+HNVR,Banks-Northeast
+HOFT,Hsholdoffic Furnitr
+HOFV,Leisure-Services
+HOG,Leisure-Products
+HOLI,Mchnry-Mtl Hdlg
+HOLX,Medical-Systems/Eqp
+HOMB,Banks-Southeast
+HON,Dvrsified Oprtions
+HONE,Banks-Northeast
+HOOD,Fin-Invest Bnk/Bkrs
+HOOK,Medical-Biomed/Bth
+HOPE,Banks-Wst/Sthwst
+HOTH,Medical-Biomed/Bth
+HOUR,Retail-Mail Order&Di
+HOUS,Real State Dvlpmt/Ops
+HOV,Bldg-Rsidnt/Comml
+HOWL,Medical-Biomed/Bth
+HP,Oil&Gas-Drilling
+HPE,Cmpter-Tech Srvcs
+HPF,Financ-Pbl Inv Fdeqt
+HPI,Financ-Pbl Inv Fdeqt
+HPK,Oil&Gas-U S Expl Pro
+HPP,Finance-Property Reit
+HPQ,Cmp-Hrdwre/Perip
+HPS,Financ-Pbl Inv Fdeqt
+HQI,Comml Svcs-Stffng
+HQY,Comml Svc-Outsourci
+HR,Finance-Property Reit
+HRB,Financial Svc-Spec
+HRI,Comml Svcs-Leasing
+HRL,Food-Meat Products
+HRMY,Medical-Biomed/Bth
+HROW,Medical-Biomed/Bth
+HRT,Comptr Sftwr-Scrity
+HRTG,Insrnce-Prp/Cas/Titl
+HRTX,Medical-Biomed/Bth
+HRZN,Fnce-Invsmnt Mgt
+HSAI,Auto/Trck-Orgnl Eqp
+HSBC,Banks-Money Cntr
+HSCS,Medical-Products
+HSDT,Medical-Products
+HSIC,Medical Supplies
+HSII,Comml Svcs-Stffng
+HSON,Comml Svcs-Stffng
+HSPO,Finance-Blank Check
+HST,Finance-Property Reit
+HSTM,Comml Svcs-Hlthcre
+HSY,Food-Confectionery
+HT,Finance-Property Reit
+HTBI,Banks-Southeast
+HTBK,Banks-Wst/Sthwst
+HTCR,Comptr Sftwr-Entr
+HTD,Fince-Pub Inv Fd-Bl
+HTGC,Fnce-Invsmnt Mgt
+HTH,Banks-Wst/Sthwst
+HTHT,Leisure-Lodging
+HTLD,Trnsportation-Trck
+HTLF,Banks-Midwest
+HTY,Fin-Publ Inv Fd-Gl
+HTZ,Leisure-Services
+HUBB,Electrical Power/Eqpmt
+HUBG,Transport-Logistics
+HUBS,Cmp Sftwr-Spc-Entr
+HUDI,Steel-Producers
+HUGE,Consumr Prod-Speci
+HUIZ,Insurance-Life
+HUM,Med-Managed Care
+HUMA,Medical-Biomed/Bth
+HUN,Chemicals-Basic
+HURC,Mchnry-Mtl Hdlg
+HURN,Cmml Svcs-Cnsltng
+HUSA,Oil&Gas-Intl Expl Pr
+HUT,Financial Svc-Spec
+HUYA,Internet-Content
+HVT,Rtail-Hme Frnshngs
+HVTA,Rtail-Hme Frnshngs
+HWBK,Banks-Midwest
+HWC,Banks-Southeast
+HWH,Cmml Svcs-Mrkt Rch
+HWKN,Chemicals-Basic
+HWM,Aerospace/Defense
+HWM,Steel-Spclty Alloys
+HXL,Aerospace/Defense
+HY,Mchnry-Gen Indstrl
+HYFM,Mchnry-Gen Indstrl
+HYLN,Trnsprt-Eqp Mfg
+HYMC,Mining-Gld/Silvr/Gms
+HYPR,Medical-Systems/Eqp
+HYZN,Trucks & Parts-Hvy D
+HZO,Retail-Leisure Prds
+IAC,Internet-Content
+IAE,Fin-Publ Inv Fd-Gl
+IAF,Fin-Publ Inv Fd-Gl
+IAG,Mining-Gld/Silvr/Gms
+IART,Medical-Products
+IAS,Cmp Sftwr-Spc-Entr
+IAUX,Mining-Gld/Silvr/Gms
+IBCP,Banks-Midwest
+IBEX,Cmpter-Tech Srvcs
+IBIO,Medical-Biomed/Bth
+IBKR,Fin-Invest Bnk/Bkrs
+IBM,Cmpter-Tech Srvcs
+IBN,Banks-Foreign
+IBOC,Banks-Wst/Sthwst
+IBP,Bldg-Mntnance & S
+IBRX,Medical-Biomed/Bth
+IBTX,Banks-Wst/Sthwst
+ICAD,Medical-Systems/Eqp
+ICCC,Medical-Products
+ICCH,Insrnce-Prp/Cas/Titl
+ICCM,Medical-Systems/Eqp
+ICD,Oil&Gas-Drilling
+ICE,Financial Svc-Spec
+ICFI,Cmml Svcs-Cnsltng
+ICG,Elec-Semicon Fblss
+ICHR,Elec-Semicndctr Eqp
+ICL,Chemicals-Ag
+ICLR,Med-Resrch Eqp/Svc
+ICMB,Fnce-Invsmnt Mgt
+ICPT,Medical-Biomed/Bth
+ICU,Medical-Biomed/Bth
+ICUI,Medical-Products
+ICVX,Medical-Biomed/Bth
+ID,Coml Svcs-Advrtsng
+IDA,Utility-Elctric Pwr
+IDAI,Security/Sfty
+IDCC,Elec-Misc Products
+IDE,Financ-Pbl Inv Fdeqt
+IDN,Security/Sfty
+IDR,Mining-Gld/Silvr/Gms
+IDT,Telcom Svc-Integrtd
+IDXX,Medical-Systems/Eqp
+IDYA,Medical-Biomed/Bth
+IE,Mining-Metal Ores
+IEP,Dvrsified Oprtions
+IESC,Bldg-Mntnance & S
+IEX,Mchnry-Gen Indstrl
+IFF,Cosmetics/Persnl Cre
+IFRX,Medical-Biomed/Bth
+IFS,Banks-Foreign
+IGA,Financ-Pbl Inv Fdeqt
+IGC,Medical-Biomed/Bth
+IGD,Fin-Publ Inv Fd-Gl
+IGIC,Insrnce-Prp/Cas/Titl
+IGMS,Medical-Biomed/Bth
+IGT,Leisre-Gamng/Equip
+IGTA,Finance-Blank Check
+IH,Consumr Svc-Edcation
+IHD,Financ-Pbl Inv Fdeqt
+IHG,Leisure-Lodging
+IHRT,Media-Radio/Tv
+IHS,Telcom-Infrastr
+IHT,Finance-Property Reit
+III,Cmml Svcs-Cnsltng
+IIIN,Metal Proc & Fabrica
+IIIV,Finance-Card/Pmtpr
+IIPR,Finance-Property Reit
+IKNA,Medical-Biomed/Bth
+IKT,Medical-Biomed/Bth
+ILAG,Rtail-Hme Frnshngs
+ILMN,Med-Resrch Eqp/Svc
+ILPT,Finance-Property Reit
+IMAB,Medical-Biomed/Bth
+IMAX,Leisre-Mvies & Rel
+IMCC,Consumr Prod-Speci
+IMCR,Medical-Biomed/Bth
+IMGN,Medical-Biomed/Bth
+IMKTA,Retail-Spr/Mini Mkts
+IMMR,Elec-Misc Products
+IMMX,Medical-Biomed/Bth
+IMNM,Medical-Biomed/Bth
+IMNN,Medical-Biomed/Bth
+IMO,Oil&Gas Integrated
+IMOS,Elec-Semicon Mfg
+IMPL,Medical-Biomed/Bth
+IMPP,Oil&Gas-Trnsprt/Pip
+IMRX,Medical-Biomed/Bth
+IMTX,Medical-Biomed/Bth
+IMUX,Medical-Biomed/Bth
+IMVT,Medical-Biomed/Bth
+IMXI,Financial Svc-Spec
+INAB,Medical-Biomed/Bth
+INAQ,Finance-Blank Check
+INBK,Banks-Midwest
+INBS,Medical-Products
+INBX,Medical-Biomed/Bth
+INCY,Medical-Biomed/Bth
+INDB,Banks-Northeast
+INDI,Elec-Semicon Fblss
+INDP,Medical-Biomed/Bth
+INDV,Medical-Ethical Drgs
+INFA,Comptr Sftwr-Entr
+INFN,Telcom-Fibr Optcs
+INFU,Medical-Services
+INFY,Cmpter-Tech Srvcs
+ING,Banks-Foreign
+INGN,Medical-Products
+INGR,Food-Grain & Related
+INHD,Steel-Spclty Alloys
+INKT,Medical-Biomed/Bth
+INLX,Cmp Sftwr-Spc-Entr
+INM,Medical-Ethical Drgs
+INMB,Medical-Biomed/Bth
+INMD,Medical-Systems/Eqp
+INN,Finance-Property Reit
+INNV,Medical-Services
+INO,Medical-Biomed/Bth
+INOD,Cmpter-Tech Srvcs
+INPX,Comptr Sftwr-Entr
+INSE,Leisure-Services
+INSG,Telcom-Infrastr
+INSM,Medical-Biomed/Bth
+INSP,Medical-Products
+INST,Cmptr Sftwr-Edu
+INSW,Oil&Gas-Trnsprt/Pip
+INTA,Comptr Sftwr-Fincl
+INTC,Elec-Semicon Mfg
+INTG,Real State Dvlpmt/Ops
+INTR,Banks-Foreign
+INTS,Medical-Biomed/Bth
+INTT,Elec-Misc Products
+INTU,Comptr Sftwr-Fincl
+INTZ,Comptr Sftwr-Scrity
+INUV,Intrnt-Netwk Sltns
+INVA,Medical-Biomed/Bth
+INVE,Comptr Sftwr-Scrity
+INVH,Finance-Property Reit
+INVO,Medical-Services
+INVZ,Auto/Trck-Orgnl Eqp
+INZY,Medical-Biomed/Bth
+IOBT,Medical-Biomed/Bth
+IONM,Medical-Systems/Eqp
+IONQ,Cmp-Hrdwre/Perip
+IONS,Medical-Biomed/Bth
+IOR,Real State Dvlpmt/Ops
+IOSP,Chemicals-Specialty
+IOT,Comptr Sftwr-Entr
+IOVA,Medical-Biomed/Bth
+IP,Paper & Paper Produc
+IPA,Medical-Biomed/Bth
+IPAR,Cosmetics/Persnl Cre
+IPDN,Internet-Content
+IPG,Coml Svcs-Advrtsng
+IPGP,Elec-Scntific/Msrng
+IPHA,Medical-Biomed/Bth
+IPI,Chemicals-Ag
+IPSC,Medical-Biomed/Bth
+IPW,Retail-Internet
+IPWR,Electrical Power/Eqpmt
+IQ,Leisre-Mvies & Rel
+IQV,Med-Resrch Eqp/Svc
+IR,Mchnry-Gen Indstrl
+IRBT,Houshld-Applncs/Hw
+IRDM,Telcom Svc-Wirles
+IRIX,Medical-Systems/Eqp
+IRM,Comml Svc-Doc Mgmt
+IRMD,Medical-Systems/Eqp
+IRON,Medical-Biomed/Bth
+IROQ,Financ-Svings & Lo
+IRS,Real State Dvlpmt/Ops
+IRT,Finance-Property Reit
+IRTC,Medical-Services
+IRWD,Medical-Biomed/Bth
+ISD,Fin-Publ Inv Fd-Gl
+ISDR,Comptr Sftwr-Fincl
+ISPC,Med-Resrch Eqp/Svc
+ISPO,Leisre-Trvl Bking
+ISPR,Consumr Prod-Speci
+ISRG,Medical-Systems/Eqp
+ISRL,Finance-Blank Check
+ISSC,Aerospace/Defense
+ISTR,Banks-Southeast
+ISUN,Energy Solar
+IT,Cmml Svcs-Mrkt Rch
+ITCI,Medical-Biomed/Bth
+ITCL,Banks-Foreign
+ITGR,Medical-Products
+ITI,Elec-Misc Products
+ITIC,Insrnce-Prp/Cas/Titl
+ITOS,Medical-Biomed/Bth
+ITP,Paper & Paper Produc
+ITRG,Mining-Gld/Silvr/Gms
+ITRI,Elec-Scntific/Msrng
+ITRM,Medical-Biomed/Bth
+ITRN,Security/Sfty
+ITT,Mchnry-Gen Indstrl
+ITUB,Banks-Foreign
+ITW,Mchnry-Gen Indstrl
+IVAC,Elec-Semicndctr Eqp
+IVDA,Security/Sfty
+IVR,Finance-Mrtg-Reit
+IVT,Finance-Property Reit
+IVVD,Medical-Biomed/Bth
+IVZ,Fnce-Invsmnt Mgt
+IX,Finance-Cons Loan
+IZEA,Internet-Content
+J,Bldg-Heavy Constr
+JACK,Retail-Restaurants
+JAGX,Medical-Ethical Drgs
+JAKK,Leisr-Tys/Gms/Hbby
+JAMF,Cmp Sftwr-Spc-Entr
+JAN,Retail-Cnsmr Elec
+JANX,Medical-Biomed/Bth
+JAZZ,Medical-Ethical Drgs
+JBGS,Finance-Property Reit
+JBHT,Trnsportation-Trck
+JBI,Security/Sfty
+JBL,Elec-Contract Mfg
+JBLU,Trnsprttin-Airlne
+JBSS,Food-Misc Prep
+JBT,Mchnry-Gen Indstrl
+JCI,Dvrsified Oprtions
+JCTCF,Retl Whsle Bldg Prds
+JD,Retail-Internet
+JEF,Fin-Invest Bnk/Bkrs
+JELD,Bldg-Cnstr Prds/Msc
+JEQ,Fin-Publ Inv Fd-Gl
+JG,Cmp Sftwr-Dbase
+JHG,Fnce-Invsmnt Mgt
+JHX,Bldg-Cnstr Prds/Msc
+JILL,Retail-Apprl/Shoes/Acc
+JJSF,Food-Packaged
+JKHY,Comptr Sftwr-Fincl
+JKS,Energy Solar
+JLL,Real State Dvlpmt/Ops
+JMIA,Retail-Internet
+JMSB,Banks-Southeast
+JNJ,Medical-Diversified
+JNPR,Compter-Netwrking
+JNVR,Fin-Invest Bnk/Bkrs
+JOAN,Retail-Specialty
+JOB,Comml Svcs-Stffng
+JOBY,Aerospace/Defense
+JOE,Real State Dvlpmt/Ops
+JOF,Fin-Publ Inv Fd-Gl
+JOUT,Leisure-Products
+JPC,Fince-Pub Inv Fd-Bl
+JPI,Financ-Pbl Inv Fdeqt
+JPM,Banks-Money Cntr
+JPS,Financ-Pbl Inv Fdeqt
+JRSH,Apprel-Clthing Mfg
+JRVR,Insrnce-Prp/Cas/Titl
+JSPR,Medical-Biomed/Bth
+JVA,Wholesale-Food
+JWN,Retail-Dprtmnt Strs
+JWSM,Finance-Blank Check
+JXN,Insrnce-Divrsified
+JYNT,Medical-Services
+JZ,Consumr Svc-Edcation
+K,Food-Packaged
+KA,Medical-Biomed/Bth
+KAI,Mchnry-Gen Indstrl
+KALA,Medical-Biomed/Bth
+KALU,Metal Proc & Fabrica
+KALV,Medical-Biomed/Bth
+KAMN,Aerospace/Defense
+KAR,Retail/Whlsle-Auto
+KARO,Cmp Sftwr-Spc-Entr
+KAVL,Finance-Blank Check
+KB,Banks-Foreign
+KBH,Bldg-Rsidnt/Comml
+KBR,Cmml Svcs-Cnsltng
+KC,Comptr Sftwr-Entr
+KCGI,Finance-Blank Check
+KD,Comptr Sftwr-Entr
+KDP,Bev-Non-Alcoholic
+KE,Elec-Contract Mfg
+KELYA,Comml Svcs-Stffng
+KELYB,Comml Svcs-Stffng
+KEP,Utility-Elctric Pwr
+KEQU,Hsholdoffic Furnitr
+KERN,Comptr Sftwr-Entr
+KEX,Transportation-Ship
+KEY,Banks-Supr Rgional
+KEYS,Elec-Scntific/Msrng
+KFFB,Financ-Svings & Lo
+KFRC,Comml Svcs-Stffng
+KFS,Insrnce-Prp/Cas/Titl
+KFY,Comml Svcs-Stffng
+KGC,Mining-Gld/Silvr/Gms
+KGEI,Oil&Gas-U S Expl Pro
+KGS,Oil&Gas-Field Servic
+KHC,Food-Packaged
+KIDS,Medical-Products
+KIM,Finance-Property Reit
+KIND,Internet-Content
+KINS,Insurance-Brokers
+KIQ,Trnsprt-Eqp Mfg
+KIRK,Rtail-Hme Frnshngs
+KITT,Mchnry-Mtl Hdlg
+KKR,Fnce-Invsmnt Mgt
+KLAC,Elec-Semicndctr Eqp
+KLG,Food-Packaged
+KLIC,Elec-Semicndctr Eqp
+KLTR,Comptr Sftwr-Entr
+KLXE,Oil&Gas-Field Servic
+KMB,Cosmetics/Persnl Cre
+KMDA,Medical-Biomed/Bth
+KMI,Oil&Gas-Trnsprt/Pip
+KMPR,Insrnce-Prp/Cas/Titl
+KMT,Machnry-Tools & Re
+KMX,Retail/Whlsle-Auto
+KN,Elec-Misc Products
+KNDI,Auto Manufacturers
+KNF,Bldg-Cment/Cncrt
+KNOP,Oil&Gas-Trnsprt/Pip
+KNSA,Medical-Biomed/Bth
+KNSL,Insrnce-Prp/Cas/Titl
+KNSW,Finance-Blank Check
+KNTE,Medical-Biomed/Bth
+KNTK,Oil&Gas-Trnsprt/Pip
+KNW,Medical-Products
+KNX,Trnsportation-Trck
+KO,Bev-Non-Alcoholic
+KOD,Medical-Biomed/Bth
+KODK,Leisure-Products
+KOF,Bev-Non-Alcoholic
+KOP,Chemicals-Specialty
+KOPN,Elec-Semicndctr Eqp
+KORE,Comptr Sftwr-Entr
+KOS,Oil&Gas-Intl Expl Pr
+KOSS,Consumer Prod-Elec
+KPLT,Retail-Internet
+KPRX,Medical-Biomed/Bth
+KPTI,Medical-Biomed/Bth
+KR,Retail-Spr/Mini Mkts
+KRC,Finance-Property Reit
+KREF,Fin-Mrtg&Rel Svc
+KRG,Finance-Property Reit
+KRKR,Internet-Content
+KRMD,Medical-Products
+KRNL,Finance-Blank Check
+KRNT,Mchnry-Gen Indstrl
+KRNY,Financ-Svings & Lo
+KRO,Chemicals-Specialty
+KRON,Medical-Biomed/Bth
+KROS,Medical-Biomed/Bth
+KRP,Oil&Gas-U S Expl Pro
+KRRO,Medical-Biomed/Bth
+KRT,Containers/Packaging
+KRTX,Medical-Biomed/Bth
+KRUS,Retail-Restaurants
+KRYS,Medical-Biomed/Bth
+KSCP,Security/Sfty
+KSPI,Finance-Card/Pmtpr
+KSS,Retail-Dprtmnt Strs
+KT,Telecom Svcs-Foreign
+KTB,Apprel-Clthing Mfg
+KTCC,Elec-Contract Mfg
+KTOS,Aerospace/Defense
+KTRA,Medical-Biomed/Bth
+KTTA,Medical-Biomed/Bth
+KULR,Elec-Semicndctr Eqp
+KURA,Medical-Biomed/Bth
+KVHI,Telcom-Infrastr
+KVSA,Finance-Blank Check
+KVUE,Cosmetics/Persnl Cre
+KVYO,Comptr Sftwr-Entr
+KW,Real State Dvlpmt/Ops
+KWE,Aerospace/Defense
+KWR,Chemicals-Specialty
+KXIN,Retail/Whlsle-Auto
+KYCH,Finance-Blank Check
+KYMR,Medical-Biomed/Bth
+KYN,Financ-Pbl Inv Fdeqt
+KZR,Medical-Biomed/Bth
+L,Insrnce-Divrsified
+LAAC,Mining-Metal Ores
+LAB,Medical-Systems/Eqp
+LABP,Medical-Biomed/Bth
+LAC,Mining-Metal Ores
+LAD,Retail/Whlsle-Auto
+LADR,Finance-Mrtg-Reit
+LAES,Elec-Semicon Fblss
+LAKE,Security/Sfty
+LAMR,Coml Svcs-Advrtsng
+LANC,Food-Packaged
+LAND,Finance-Property Reit
+LARK,Banks-Midwest
+LASE,Mchnry-Gen Indstrl
+LASR,Elec-Parts
+LAUR,Consumr Svc-Edcation
+LAW,Comptr Sftwr-Entr
+LAZ,Fin-Invest Bnk/Bkrs
+LAZR,Auto/Trck-Orgnl Eqp
+LAZY,Retail/Whlsle-Auto
+LBAI,Banks-Northeast
+LBPH,Medical-Biomed/Bth
+LBRDA,Media-Diversified
+LBRDK,Media-Diversified
+LBRT,Oil&Gas-Field Servic
+LC,Financial Svc-Spec
+LCAA,Finance-Blank Check
+LCFY,Comptr Sftwr-Entr
+LCID,Auto Manufacturers
+LCII,Bldg-Mbile/Mfg & Rv
+LCNB,Banks-Midwest
+LCTX,Medical-Biomed/Bth
+LCUT,Houshld-Applncs/Hw
+LCW,Finance-Blank Check
+LDI,Fin-Mrtg&Rel Svc
+LDOS,Cmml Svcs-Cnsltng
+LDTC,Auto/Trck-Orgnl Eqp
+LDWY,Coml Svcs-Advrtsng
+LE,Retail-Apprl/Shoes/Acc
+LEA,Auto/Trck-Orgnl Eqp
+LECO,Machnry-Tools & Re
+LEDS,Elec-Semicon Mfg
+LEE,Media-Newspapers
+LEG,Hsholdoffic Furnitr
+LEGH,Finance-Property Reit
+LEGN,Medical-Biomed/Bth
+LEN,Bldg-Rsidnt/Comml
+LENB,Bldg-Rsidnt/Comml
+LESL,Retail-Leisure Prds
+LEU,Energy-Alt/Other
+LEV,Auto Manufacturers
+LEVI,Apprel-Clthing Mfg
+LEXX,Medical-Ethical Drgs
+LFLY,Consumr Prod-Speci
+LFMD,Medical-Products
+LFST,Medcal-Hospitals
+LFT,Finance-Mrtg-Reit
+LFUS,Elec-Parts
+LFVN,Cosmetics/Persnl Cre
+LFWD,Medical-Products
+LGFA,Leisre-Mvies & Rel
+LGFB,Leisre-Mvies & Rel
+LGHL,Fin-Invest Bnk/Bkrs
+LGIH,Bldg-Rsidnt/Comml
+LGL,Mchnry-Gen Indstrl
+LGMK,Security/Sfty
+LGND,Medical-Biomed/Bth
+LGO,Mining-Metal Ores
+LGST,Finance-Blank Check
+LGVN,Medical-Biomed/Bth
+LH,Medical-Services
+LHX,Aerospace/Defense
+LI,Auto Manufacturers
+LIAN,Medical-Biomed/Bth
+LICY,Pollution Control
+LIDR,Auto/Trck-Orgnl Eqp
+LIFE,Medical-Biomed/Bth
+LIFW,Comptr Sftwr-Mdcl
+LII,Bldg-A/C & Heating P
+LILA,Telecom Svcs-Foreign
+LILAK,Telecom Svcs-Foreign
+LIN,Chemicals-Specialty
+LINC,Consumr Svc-Edcation
+LIND,Leisure-Services
+LINK,Elec-Misc Products
+LIPO,Medical-Biomed/Bth
+LIQT,Pollution Control
+LITE,Telcom-Fibr Optcs
+LIVE,Retail-Internet
+LIVN,Medical-Products
+LIXT,Medical-Biomed/Bth
+LKFN,Banks-Midwest
+LKQ,Retail/Wsl-Auto Prt
+LL,Retl Whsle Bldg Prds
+LLAP,Aerospace/Defense
+LLY,Medical-Diversified
+LMAT,Medical-Products
+LMB,Bldg-A/C & Heating P
+LMFA,Financial Svc-Spec
+LMND,Insrnce-Prp/Cas/Titl
+LMNR,Agricultural Oprtions
+LMT,Aerospace/Defense
+LNC,Insurance-Life
+LND,Agricultural Oprtions
+LNG,Oil&Gas-Trnsprt/Pip
+LNKB,Banks-Northeast
+LNN,Machinery-Farm
+LNT,Utility-Diversified
+LNTH,Medical-Products
+LNW,Leisre-Gamng/Equip
+LNZA,Chemicals-Specialty
+LOAN,Finance-Mrtg-Reit
+LOB,Banks-Southeast
+LOCL,Agricultural Oprtions
+LOCO,Retail-Restaurants
+LODE,Mining-Gld/Silvr/Gms
+LOGI,Cmp-Hrdwre/Perip
+LOMA,Bldg-Cment/Cncrt
+LOOP,Chemicals-Plastics
+LOPE,Consumr Svc-Edcation
+LOVE,Rtail-Hme Frnshngs
+LOW,Retl Whsle Bldg Prds
+LPCN,Medical-Biomed/Bth
+LPG,Oil&Gas-Trnsprt/Pip
+LPL,Elec-Misc Products
+LPLA,Fin-Invest Bnk/Bkrs
+LPRO,Finance-Cmrcl Loan
+LPSN,Comptr Sftwr-Entr
+LPTH,Telcom-Fibr Optcs
+LPTV,Internet-Content
+LPTX,Medical-Biomed/Bth
+LPX,Bldg-Wood Prds
+LQDA,Medical-Biomed/Bth
+LQDT,Retail-Internet
+LRCX,Elec-Semicndctr Eqp
+LRFC,Fnce-Invsmnt Mgt
+LRMR,Medical-Generc Drgs
+LRN,Consumr Svc-Edcation
+LSAK,Finance-Card/Pmtpr
+LSBK,Financ-Svings & Lo
+LSCC,Elec-Semicon Fblss
+LSEA,Bldg-Rsidnt/Comml
+LSF,Food-Packaged
+LSPD,Cmp Sftwr-Spc-Entr
+LSTA,Medical-Biomed/Bth
+LSTR,Trnsportation-Trck
+LSXMA,Media-Diversified
+LSXMB,Media-Diversified
+LSXMK,Media-Diversified
+LTBR,Cmml Svcs-Cnsltng
+LTC,Finance-Property Reit
+LTH,Leisure-Services
+LTRN,Medical-Biomed/Bth
+LTRX,Compter-Netwrking
+LU,Financial Svc-Spec
+LUCD,Medical-Products
+LULU,Retail-Apprl/Shoes/Acc
+LUMN,Telcom Svc-Integrtd
+LUMO,Medical-Biomed/Bth
+LUNA,Elec-Scntific/Msrng
+LUNG,Medical-Products
+LUNR,Aerospace/Defense
+LUV,Trnsprttin-Airlne
+LUXH,Real State Dvlpmt/Ops
+LVO,Internet-Content
+LVOX,Comptr Sftwr-Entr
+LVRO,Chemicals-Ag
+LVS,Leisre-Gamng/Equip
+LVTX,Medical-Biomed/Bth
+LVWR,Auto Manufacturers
+LW,Food-Packaged
+LWAY,Food-Dairy Products
+LWLG,Elec-Contract Mfg
+LX,Finance-Cons Loan
+LXEO,Medical-Biomed/Bth
+LXFR,Chemicals-Specialty
+LXP,Finance-Property Reit
+LXRX,Medical-Biomed/Bth
+LXU,Chemicals-Ag
+LYB,Chemicals-Basic
+LYEL,Medical-Biomed/Bth
+LYFT,Leisure-Services
+LYG,Banks-Money Cntr
+LYRA,Medical-Biomed/Bth
+LYTS,Bldg-Cnstr Prds/Msc
+LYV,Leisure-Services
+LZ,Internet-Content
+LZB,Rtail-Hme Frnshngs
+M,Retail-Dprtmnt Strs
+MA,Finance-Card/Pmtpr
+MAA,Finance-Property Reit
+MAC,Finance-Property Reit
+MACA,Finance-Blank Check
+MACK,Medical-Biomed/Bth
+MAG,Mining-Gld/Silvr/Gms
+MAIA,Medical-Biomed/Bth
+MAIN,Fnce-Invsmnt Mgt
+MAMA,Food-Meat Products
+MAN,Comml Svcs-Stffng
+MANH,Comptr Sftwr-Entr
+MANU,Leisure-Services
+MAPS,Comptr Sftwr-Entr
+MAR,Leisure-Lodging
+MARA,Fnce-Invsmnt Mgt
+MARPS,Oil&Gas-Royalty Trust
+MARX,Finance-Blank Check
+MAS,Bldg-Cnstr Prds/Msc
+MASI,Medical-Systems/Eqp
+MASS,Med-Resrch Eqp/Svc
+MAT,Leisr-Tys/Gms/Hbby
+MATV,Paper & Paper Produc
+MATW,Funeral Svcs & Rel
+MATX,Transportation-Ship
+MAX,Coml Svcs-Advrtsng
+MAXN,Energy Solar
+MAYS,Real State Dvlpmt/Ops
+MBC,Houshld-Applncs/Hw
+MBCN,Banks-Midwest
+MBI,Insrnce-Prp/Cas/Titl
+MBIN,Banks-Midwest
+MBIO,Medical-Biomed/Bth
+MBLY,Elec-Semicon Fblss
+MBOT,Medical-Biomed/Bth
+MBRX,Medical-Biomed/Bth
+MBUU,Leisure-Products
+MBWM,Banks-Midwest
+MC,Fin-Invest Bnk/Bkrs
+MCAA,Finance-Blank Check
+MCAC,Finance-Blank Check
+MCB,Banks-Northeast
+MCBC,Banks-Midwest
+MCBS,Banks-Southeast
+MCD,Retail-Restaurants
+MCFT,Leisure-Products
+MCHP,Elec-Semicon Mfg
+MCHX,Coml Svcs-Advrtsng
+MCK,Mdcal-Whlsle Drg
+MCO,Cmml Svcs-Mrkt Rch
+MCOM,Leisure-Products
+MCRB,Medical-Biomed/Bth
+MCRI,Leisre-Gamng/Equip
+MCS,Leisre-Mvies & Rel
+MCW,Retail/Whlsle-Auto
+MCY,Insrnce-Prp/Cas/Titl
+MD,Mdcal-Outpnt/Hm Cr
+MDAI,Med-Resrch Eqp/Svc
+MDB,Cmp Sftwr-Dbase
+MDBH,Fnce-Invsmnt Mgt
+MDC,Bldg-Rsidnt/Comml
+MDGL,Medical-Biomed/Bth
+MDIA,Media-Radio/Tv
+MDLZ,Food-Confectionery
+MDRR,Finance-Property Reit
+MDT,Medical-Products
+MDU,Dvrsified Oprtions
+MDV,Finance-Property Reit
+MDWD,Medical-Biomed/Bth
+MDWT,Insurance-Life
+MDXG,Medical-Products
+MDXH,Medical-Biomed/Bth
+ME,Medical-Services
+MEC,Auto/Trck-Orgnl Eqp
+MED,Cosmetics/Persnl Cre
+MEDP,Med-Resrch Eqp/Svc
+MEDS,Mdcal-Whlsle Drg
+MEG,Pollution Control
+MEI,Elec-Parts
+MEIP,Medical-Biomed/Bth
+MELI,Retail-Internet
+MEOH,Chemicals-Specialty
+MERC,Paper & Paper Produc
+MESA,Trnsprttin-Airlne
+MESO,Medical-Biomed/Bth
+MET,Insurance-Life
+META,Internet-Content
+METC,Energy Coal
+METCB,Energy Coal
+MFA,Finance-Mrtg-Reit
+MFC,Insrnce-Divrsified
+MFD,Financ-Pbl Inv Fdeqt
+MFG,Banks-Money Cntr
+MFIN,Finance-Cmrcl Loan
+MG,Bldg-Mntnance & S
+MGA,Auto/Trck-Orgnl Eqp
+MGEE,Utility-Diversified
+MGIC,Cmpter-Tech Srvcs
+MGLD,Dvrsified Oprtions
+MGM,Leisre-Gamng/Equip
+MGNI,Comptr Sftwr-Entr
+MGNX,Medical-Biomed/Bth
+MGOL,Apprel-Clthing Mfg
+MGPI,Beverages-Alcoholic
+MGRC,Comml Svcs-Leasing
+MGRM,Medical-Systems/Eqp
+MGTX,Medical-Biomed/Bth
+MGY,Oil&Gas-U S Expl Pro
+MGYR,Financ-Svings & Lo
+MHH,Comml Svcs-Stffng
+MHK,Bldg-Cnstr Prds/Msc
+MHLD,Insrnce-Prp/Cas/Titl
+MHO,Bldg-Rsidnt/Comml
+MIDD,Houshld-Applncs/Hw
+MIGI,Financial Svc-Spec
+MIMO,Telcom-Infrastr
+MIND,Oil&Gas-Mchnry/Eq
+MINM,Compter-Netwrking
+MIO,Fin-Publ Inv Fd-Gl
+MIR,Mchnry-Gen Indstrl
+MIRM,Medical-Biomed/Bth
+MIRO,Medical-Biomed/Bth
+MIST,Medical-Ethical Drgs
+MITA,Finance-Blank Check
+MITK,Cmp Sftwr-Spc-Entr
+MITQ,Leisre-Mvies & Rel
+MITT,Finance-Mrtg-Reit
+MIXT,Comptr Sftwr-Entr
+MKC,Food-Misc Prep
+MKCV,Food-Misc Prep
+MKFG,Cmp-Hrdwre/Perip
+MKL,Insrnce-Prp/Cas/Titl
+MKSI,Elec-Semicndctr Eqp
+MKTW,Comptr Sftwr-Fincl
+MKTX,Fin-Invest Bnk/Bkrs
+ML,Comptr Sftwr-Fincl
+MLAB,Medical-Systems/Eqp
+MLCO,Leisre-Gamng/Equip
+MLEC,Medical-Biomed/Bth
+MLI,Metal Proc & Fabrica
+MLKN,Hsholdoffic Furnitr
+MLM,Bldg-Cment/Cncrt
+MLNK,Comptr Sftwr-Fincl
+MLP,Real State Dvlpmt/Ops
+MLR,Trucks & Parts-Hvy D
+MLSS,Medical-Products
+MLTX,Medical-Biomed/Bth
+MLYS,Medical-Biomed/Bth
+MMAT,Metal Proc & Fabrica
+MMC,Insurance-Brokers
+MMI,Real State Dvlpmt/Ops
+MMLP,Oil&Gas-Trnsprt/Pip
+MMM,Dvrsified Oprtions
+MMS,Cmml Svcs-Cnsltng
+MMSI,Medical-Products
+MMV,Internet-Content
+MMYT,Leisre-Trvl Bking
+MNDO,Comptr Sftwr-Entr
+MNDY,Comptr Sftwr-Entr
+MNKD,Medical-Biomed/Bth
+MNMD,Medical-Biomed/Bth
+MNOV,Medical-Biomed/Bth
+MNPR,Medical-Biomed/Bth
+MNRO,Retail/Wsl-Auto Prt
+MNSB,Banks-Southeast
+MNSO,Retail-Discnt&Vari
+MNST,Bev-Non-Alcoholic
+MNTK,Energy-Alt/Other
+MNTN,Finance-Blank Check
+MNTS,Aerospace/Defense
+MNTX,Mchnry-Gen Indstrl
+MNY,Finance-Cons Loan
+MO,Tobacco
+MOBV,Finance-Blank Check
+MOBX,Elec-Semicon Fblss
+MOD,Bldg-A/C & Heating P
+MODD,Medical-Products
+MODG,Leisure-Products
+MODN,Comptr Sftwr-Entr
+MODV,Comml Svcs-Hlthcre
+MOFG,Banks-Midwest
+MOGA,Aerospace/Defense
+MOGB,Aerospace/Defense
+MOGO,Finance-Cons Loan
+MOGU,Retail-Internet
+MOH,Med-Managed Care
+MOLN,Medical-Biomed/Bth
+MOMO,Internet-Content
+MOND,Leisre-Trvl Bking
+MOR,Medical-Biomed/Bth
+MORF,Medical-Biomed/Bth
+MORN,Cmml Svcs-Mrkt Rch
+MOS,Chemicals-Ag
+MOTS,Medical Supplies
+MOVE,Medical-Products
+MP,Mining-Metal Ores
+MPAA,Auto/Trck-Rplc Prts
+MPB,Banks-Northeast
+MPC,Oil&Gas-Rfing/Mkt
+MPLN,Comptr Sftwr-Mdcl
+MPLX,Oil&Gas-Trnsprt/Pip
+MPTI,Aerospace/Defense
+MPU,Comml Svcs-Leasing
+MPW,Finance-Property Reit
+MPWR,Elec-Semicon Fblss
+MPX,Leisure-Products
+MQ,Finance-Card/Pmtpr
+MRAI,Med-Managed Care
+MRAM,Elec-Semicon Mfg
+MRBK,Banks-Northeast
+MRC,Oil&Gas-Mchnry/Eq
+MRCC,Fnce-Invsmnt Mgt
+MRCY,Aerospace/Defense
+MRDB,Cmp Sftwr-Dbase
+MRIN,Comptr Sftwr-Entr
+MRK,Medical-Ethical Drgs
+MRKR,Medical-Biomed/Bth
+MRNA,Medical-Biomed/Bth
+MRNS,Medical-Biomed/Bth
+MRO,Oil&Gas Integrated
+MRSN,Medical-Biomed/Bth
+MRTN,Trnsportation-Trck
+MRTX,Medical-Biomed/Bth
+MRUS,Medical-Biomed/Bth
+MRVI,Medical-Biomed/Bth
+MRVL,Elec-Semicon Fblss
+MS,Banks-Money Cntr
+MSA,Security/Sfty
+MSB,Mining-Metal Ores
+MSBI,Banks-Midwest
+MSC,Leisre-Gamng/Equip
+MSCI,Financial Svc-Spec
+MSDL,Finance-Cmrcl Loan
+MSEX,Utility-Water Supply
+MSFT,Comptr Sftwr-Dsktp
+MSGE,Leisure-Services
+MSGM,Cmp Sftwr-Gaming
+MSGS,Leisure-Services
+MSI,Telcom-Cons Prod
+MSM,Machnry-Tools & Re
+MSN,Consumer Prod-Elec
+MSS,Retail-Specialty
+MSSA,Finance-Blank Check
+MSTR,Cmp Sftwr-Dbase
+MT,Steel-Producers
+MTA,Mining-Gld/Silvr/Gms
+MTB,Banks-Northeast
+MTC,Fnce-Invsmnt Mgt
+MTCH,Internet-Content
+MTD,Mchnry-Gen Indstrl
+MTDR,Oil&Gas-U S Expl Pro
+MTEK,Comptr Sftwr-Entr
+MTEM,Medical-Biomed/Bth
+MTG,Insrnce-Prp/Cas/Titl
+MTH,Bldg-Rsidnt/Comml
+MTLS,Mchnry-Mtl Hdlg
+MTN,Leisure-Services
+MTNB,Medical-Biomed/Bth
+MTR,Oil&Gas-Royalty Trust
+MTRN,Metal Proc & Fabrica
+MTRX,Oil&Gas-Field Servic
+MTSI,Elec-Semicon Mfg
+MTTR,Compter Sftwr-Dsgn
+MTUS,Steel-Spclty Alloys
+MTW,Mchinry-Cnstr/Mng
+MTX,Chemicals-Specialty
+MTZ,Bldg-Heavy Constr
+MU,Comptr-Data Strge
+MUFG,Banks-Money Cntr
+MULN,Auto Manufacturers
+MUR,Oil&Gas-Intl Expl Pr
+MUSA,Retail-Spr/Mini Mkts
+MUX,Mining-Gld/Silvr/Gms
+MVBF,Banks-Southeast
+MVIS,Elec-Misc Products
+MVO,Oil&Gas-Royalty Trust
+MVST,Electrical Power/Eqpmt
+MWA,Bldg-Cnstr Prds/Msc
+MWG,Mchnry-Mtl Hdlg
+MX,Elec-Semicon Mfg
+MXC,Oil&Gas-U S Expl Pro
+MXCT,Med-Resrch Eqp/Svc
+MXE,Fin-Publ Inv Fd-Gl
+MXF,Fin-Publ Inv Fd-Gl
+MXL,Elec-Semicon Fblss
+MYE,Containers/Packaging
+MYFW,Banks-Wst/Sthwst
+MYGN,Med-Resrch Eqp/Svc
+MYO,Medical-Systems/Eqp
+MYPS,Cmp Sftwr-Gaming
+MYRG,Bldg-Mntnance & S
+MYSZ,Retail-Internet
+MYTE,Retail-Internet
+NA,Elec-Semicon Fblss
+NAAS,Energy-Alt/Other
+NABL,Cmpter-Tech Srvcs
+NAII,Cosmetics/Persnl Cre
+NAK,Mining-Metal Ores
+NAMS,Medical-Biomed/Bth
+NAOV,Medical-Products
+NAPA,Beverages-Alcoholic
+NARI,Medical-Products
+NAT,Oil&Gas-Trnsprt/Pip
+NATH,Retail-Restaurants
+NATI,Cmptr-Intgrtd Syst
+NATL,Cmptr-Intgrtd Syst
+NATR,Cosmetics/Persnl Cre
+NAUT,Medical-Biomed/Bth
+NAVI,Financial Svc-Spec
+NB,Mining-Metal Ores
+NBBK,Banks-Northeast
+NBHC,Banks-Wst/Sthwst
+NBIX,Medical-Biomed/Bth
+NBN,Banks-Northeast
+NBR,Oil&Gas-Drilling
+NBTB,Banks-Northeast
+NBXG,Financ-Pbl Inv Fdeqt
+NBY,Medical-Biomed/Bth
+NC,Energy Coal
+NCDL,Fnce-Invsmnt Mgt
+NCLH,Leisure-Services
+NCMI,Coml Svcs-Advrtsng
+NCNA,Medical-Biomed/Bth
+NCNO,Comptr Sftwr-Fincl
+NCPL,Fnce-Invsmnt Mgt
+NCSM,Oil&Gas-Field Servic
+NCV,Fince-Pub Inv Fd-Bl
+NDAQ,Financial Svc-Spec
+NDLS,Retail-Restaurants
+NDP,Financ-Pbl Inv Fdeqt
+NDRA,Medical-Systems/Eqp
+NDSN,Mchnry-Gen Indstrl
+NECB,Financ-Svings & Lo
+NEE,Utility-Elctric Pwr
+NEGG,Retail-Internet
+NEM,Mining-Gld/Silvr/Gms
+NEN,Real State Dvlpmt/Ops
+NEO,Medical-Services
+NEOG,Medical-Products
+NEON,Elec-Misc Products
+NEOV,Energy Solar
+NEP,Energy-Alt/Other
+NEPH,Medical-Products
+NEPT,Consumr Prod-Speci
+NERV,Medical-Biomed/Bth
+NET,Comptr Sftwr-Entr
+NETC,Finance-Blank Check
+NETI,Energy-Alt/Other
+NEU,Chemicals-Specialty
+NEUE,Med-Managed Care
+NEWP,Mining-Gld/Silvr/Gms
+NEWR,Cmp Sftwr-Dbase
+NEWT,Fnce-Invsmnt Mgt
+NEX,Oil&Gas-Field Servic
+NEXA,Mining-Gld/Silvr/Gms
+NEXN,Comptr Sftwr-Entr
+NEXT,Utility-Gas Dstribtn
+NFBK,Financ-Svings & Lo
+NFE,Oil&Gas Integrated
+NFG,Utility-Gas Dstribtn
+NFGC,Mining-Gld/Silvr/Gms
+NFJ,Financ-Pbl Inv Fdeqt
+NFLX,Leisre-Mvies & Rel
+NG,Mining-Gld/Silvr/Gms
+NGD,Mining-Gld/Silvr/Gms
+NGG,Utility-Diversified
+NGL,Oil&Gas-Rfing/Mkt
+NGM,Medical-Biomed/Bth
+NGMS,Cmp Sftwr-Gaming
+NGNE,Medical-Biomed/Bth
+NGS,Oil&Gas-Mchnry/Eq
+NGVC,Retail-Spr/Mini Mkts
+NGVT,Chemicals-Specialty
+NHC,Med-Long-Trm Care
+NHI,Finance-Property Reit
+NHTC,Cosmetics/Persnl Cre
+NI,Utility-Diversified
+NIC,Banks-Midwest
+NICE,Comptr Sftwr-Scrity
+NICK,Finance-Cons Loan
+NIE,Fince-Pub Inv Fd-Bl
+NINE,Oil&Gas-Field Servic
+NIO,Auto Manufacturers
+NISN,Cmml Svcs-Cnsltng
+NIU,Leisure-Products
+NJR,Utility-Gas Dstribtn
+NKE,Apparel-Shoes & Rel
+NKGN,Medical-Biomed/Bth
+NKLA,Auto Manufacturers
+NKSH,Banks-Southeast
+NKTR,Medical-Biomed/Bth
+NKTX,Medical-Biomed/Bth
+NL,Hsholdoffic Furnitr
+NLTX,Medical-Biomed/Bth
+NLY,Finance-Mrtg-Reit
+NMFC,Fnce-Invsmnt Mgt
+NMG,Energy-Alt/Other
+NMIH,Fin-Mrtg&Rel Svc
+NML,Financ-Pbl Inv Fdeqt
+NMM,Transportation-Ship
+NMR,Fin-Invest Bnk/Bkrs
+NMRA,Medical-Biomed/Bth
+NMRD,Medical-Products
+NMRK,Real State Dvlpmt/Ops
+NMTC,Medical-Biomed/Bth
+NN,Consumer Prod-Elec
+NNBR,Metal Proc & Fabrica
+NNDM,Elec-Misc Products
+NNI,Finance-Cons Loan
+NNN,Finance-Property Reit
+NNVC,Medical-Biomed/Bth
+NOA,Oil&Gas-Field Servic
+NOAH,Fnce-Invsmnt Mgt
+NOC,Aerospace/Defense
+NODK,Insrnce-Divrsified
+NOG,Oil&Gas-U S Expl Pro
+NOK,Telcom-Infrastr
+NOMD,Food-Packaged
+NOTE,Comptr Sftwr-Entr
+NOTV,Med-Resrch Eqp/Svc
+NOV,Oil&Gas-Mchnry/Eq
+NOVA,Energy Solar
+NOVT,Elec-Scntific/Msrng
+NOVV,Finance-Blank Check
+NOW,Comptr Sftwr-Entr
+NPAB,Finance-Blank Check
+NPCE,Medical-Products
+NPFD,Financ-Pbl Inv Fdeqt
+NPO,Mchnry-Gen Indstrl
+NPWR,Energy-Alt/Other
+NR,Oil&Gas-Field Servic
+NRAC,Finance-Blank Check
+NRBO,Medical-Biomed/Bth
+NRC,Comml Svcs-Hlthcre
+NRDS,Financial Svc-Spec
+NRDY,Cmptr Sftwr-Edu
+NREF,Finance-Mrtg-Reit
+NRG,Utility-Diversified
+NRGV,Energy-Alt/Other
+NRIM,Banks-Wst/Sthwst
+NRIX,Medical-Biomed/Bth
+NRO,Financ-Pbl Inv Fdeqt
+NRP,Energy Coal
+NRT,Oil&Gas-Royalty Trust
+NRXP,Medical-Biomed/Bth
+NS,Oil&Gas-Rfing/Mkt
+NSA,Finance-Property Reit
+NSC,Transportation-Rail
+NSIT,Wholesale-Elect
+NSP,Comml Svc-Outsourci
+NSPR,Medical-Products
+NSSC,Security/Sfty
+NSTG,Med-Resrch Eqp/Svc
+NSTS,Banks-Midwest
+NSYS,Elec-Contract Mfg
+NTAP,Comptr-Data Strge
+NTB,Banks-Foreign
+NTBL,Medical-Biomed/Bth
+NTCO,Cosmetics/Persnl Cre
+NTCT,Cmp Sftwr-Dbase
+NTES,Cmp Sftwr-Gaming
+NTG,Financ-Pbl Inv Fdeqt
+NTGR,Compter-Netwrking
+NTIC,Chemicals-Basic
+NTIP,Elec-Misc Products
+NTLA,Medical-Biomed/Bth
+NTNX,Comptr Sftwr-Entr
+NTR,Chemicals-Ag
+NTRA,Med-Resrch Eqp/Svc
+NTRB,Medical-Biomed/Bth
+NTRS,Banks-Supr Rgional
+NTST,Finance-Property Reit
+NTWK,Comptr Sftwr-Fincl
+NU,Banks-Foreign
+NUE,Steel-Producers
+NURO,Medical-Products
+NUS,Cosmetics/Persnl Cre
+NUTX,Medcal-Hospitals
+NUVB,Medical-Biomed/Bth
+NUVL,Medical-Biomed/Bth
+NUWE,Medical-Products
+NUZE,Food-Packaged
+NVAC,Finance-Blank Check
+NVAX,Medical-Biomed/Bth
+NVCR,Medical-Products
+NVCT,Medical-Biomed/Bth
+NVDA,Elec-Semicon Fblss
+NVEC,Elec-Parts
+NVEE,Cmml Svcs-Cnsltng
+NVEI,Finance-Card/Pmtpr
+NVFY,Hsholdoffic Furnitr
+NVGS,Oil&Gas-Trnsprt/Pip
+NVIV,Medical-Biomed/Bth
+NVMI,Elec-Semicndctr Eqp
+NVNO,Medical-Products
+NVO,Medical-Ethical Drgs
+NVOS,Medical-Services
+NVR,Bldg-Rsidnt/Comml
+NVRI,Metal Proc & Fabrica
+NVRO,Medical-Systems/Eqp
+NVS,Medical-Ethical Drgs
+NVST,Medical-Systems/Eqp
+NVT,Electrical Power/Eqpmt
+NVTA,Medical-Services
+NVTS,Elec-Semicon Fblss
+NVVE,Cmp Sftwr-Spc-Entr
+NVX,Electrical Power/Eqpmt
+NWBI,Financ-Svings & Lo
+NWE,Utility-Diversified
+NWFL,Banks-Northeast
+NWG,Banks-Money Cntr
+NWL,Houshld-Applncs/Hw
+NWLI,Insurance-Life
+NWN,Utility-Gas Dstribtn
+NWPX,Metal Proc & Fabrica
+NWS,Media-Newspapers
+NWSA,Media-Newspapers
+NX,Bldg-Cnstr Prds/Msc
+NXE,Mining-Metal Ores
+NXG,Financ-Pbl Inv Fdeqt
+NXGL,Medical-Ethical Drgs
+NXL,Medical-Products
+NXPI,Elec-Semicon Mfg
+NXPL,Security/Sfty
+NXRT,Finance-Property Reit
+NXST,Media-Radio/Tv
+NXT,Energy Solar
+NXTC,Medical-Biomed/Bth
+NXU,Auto Manufacturers
+NYAX,Comptr Sftwr-Fincl
+NYC,Finance-Property Reit
+NYCB,Financ-Svings & Lo
+NYMT,Finance-Mrtg-Reit
+NYT,Media-Newspapers
+NYXH,Medical-Products
+O,Finance-Property Reit
+OABI,Medical-Biomed/Bth
+OAKU,Finance-Blank Check
+OB,Coml Svcs-Advrtsng
+OBDC,Fnce-Invsmnt Mgt
+OBE,Oil&Gascdn Expl Pro
+OBIO,Medical-Biomed/Bth
+OBK,Banks-Southeast
+OBLG,Intrnt-Netwk Sltns
+OBT,Banks-Northeast
+OC,Bldg-Cnstr Prds/Msc
+OCAX,Finance-Blank Check
+OCC,Telcom-Fibr Optcs
+OCCI,Fnce-Invsmnt Mgt
+OCFC,Financ-Svings & Lo
+OCFT,Comptr Sftwr-Fincl
+OCGN,Medical-Biomed/Bth
+OCN,Fin-Mrtg&Rel Svc
+OCS,Medical-Biomed/Bth
+OCSL,Fnce-Invsmnt Mgt
+OCTO,Dvrsified Oprtions
+OCUL,Medical-Biomed/Bth
+OCUP,Medical-Biomed/Bth
+OCX,Medical-Biomed/Bth
+ODC,Consumr Prod-Speci
+ODD,Cosmetics/Persnl Cre
+ODFL,Trnsportation-Trck
+ODP,Rtail Whlsle Offc Sup
+ODV,Mining-Gld/Silvr/Gms
+OEC,Chemicals-Specialty
+OESX,Electrical Power/Eqpmt
+OFC,Finance-Property Reit
+OFG,Banks-Southeast
+OFIX,Medical-Products
+OFLX,Metal Proc & Fabrica
+OFS,Fnce-Invsmnt Mgt
+OGE,Utility-Elctric Pwr
+OGEN,Medical-Biomed/Bth
+OGI,Consumr Prod-Speci
+OGN,Medical-Generc Drgs
+OGS,Utility-Gas Dstribtn
+OHI,Finance-Property Reit
+OI,Containers/Packaging
+OII,Oil&Gas-Field Servic
+OIS,Oil&Gas-Field Servic
+OKE,Oil&Gas-Trnsprt/Pip
+OKTA,Comptr Sftwr-Scrity
+OLB,Finance-Card/Pmtpr
+OLED,Elec-Misc Products
+OLK,Medical-Biomed/Bth
+OLLI,Retail-Discnt&Vari
+OLMA,Medical-Biomed/Bth
+OLN,Chemicals-Specialty
+OLO,Retail-Internet
+OLP,Finance-Property Reit
+OLPX,Cosmetics/Persnl Cre
+OM,Medical-Systems/Eqp
+OMAB,Real State Dvlpmt/Ops
+OMC,Coml Svcs-Advrtsng
+OMCL,Medical-Systems/Eqp
+OMER,Medical-Biomed/Bth
+OMF,Finance-Cons Loan
+OMGA,Medical-Biomed/Bth
+OMI,Mdcal-Whlsle Drg
+OMIC,Medical-Biomed/Bth
+OMQS,Cmptr-Intgrtd Syst
+ON,Elec-Semicon Mfg
+ONB,Banks-Midwest
+ONCT,Medical-Biomed/Bth
+ONCY,Medical-Biomed/Bth
+ONDS,Media-Radio/Tv
+ONEW,Retail-Leisure Prds
+ONFO,Cmpter-Tech Srvcs
+ONL,Finance-Property Reit
+ONON,Apparel-Shoes & Rel
+ONTF,Comptr Sftwr-Entr
+ONTO,Elec-Semicndctr Eqp
+ONTX,Medical-Biomed/Bth
+ONVO,Medical-Systems/Eqp
+OOMA,Telcom-Cons Prod
+OP,Transportation-Ship
+OPAD,Real State Dvlpmt/Ops
+OPAL,Energy-Alt/Other
+OPBK,Financial Svc-Spec
+OPCH,Medical-Services
+OPEN,Real State Dvlpmt/Ops
+OPFI,Comptr Sftwr-Fincl
+OPGN,Medical-Services
+OPHC,Banks-Southeast
+OPI,Finance-Property Reit
+OPK,Medical-Biomed/Bth
+OPOF,Banks-Southeast
+OPRA,Internet-Content
+OPRT,Finance-Cons Loan
+OPRX,Comptr Sftwr-Mdcl
+OPT,Medical-Biomed/Bth
+OPTN,Medical-Biomed/Bth
+OPTT,Energy-Alt/Other
+OPXS,Aerospace/Defense
+OPY,Fin-Invest Bnk/Bkrs
+OR,Mining-Gld/Silvr/Gms
+ORA,Energy-Alt/Other
+ORAN,Telecom Svcs-Foreign
+ORC,Finance-Mrtg-Reit
+ORCL,Cmp Sftwr-Dbase
+ORGN,Energy-Alt/Other
+ORGO,Medical-Products
+ORGS,Medical-Biomed/Bth
+ORI,Insrnce-Prp/Cas/Titl
+ORIC,Medical-Biomed/Bth
+ORLA,Mining-Gld/Silvr/Gms
+ORLY,Retail/Wsl-Auto Prt
+ORMP,Medical-Biomed/Bth
+ORN,Bldg-Heavy Constr
+ORRF,Banks-Northeast
+ORTX,Medical-Biomed/Bth
+OSA,Medical-Products
+OSBC,Banks-Midwest
+OSCR,Insrnce-Acc & Heal
+OSG,Oil&Gas-Trnsprt/Pip
+OSI,Finance-Blank Check
+OSIS,Aerospace/Defense
+OSK,Trucks & Parts-Hvy D
+OSPN,Comptr Sftwr-Scrity
+OSS,Cmp-Hrdwre/Perip
+OSTK,Retail-Internet
+OSUR,Medical-Products
+OSW,Leisure-Services
+OTEX,Cmp Sftwr-Dbase
+OTIS,Mchnry-Gen Indstrl
+OTLK,Medical-Biomed/Bth
+OTLY,Food-Dairy Products
+OTRK,Medical-Services
+OTTR,Dvrsified Oprtions
+OUST,Auto/Trck-Orgnl Eqp
+OUT,Finance-Property Reit
+OVBC,Banks-Midwest
+OVID,Medical-Biomed/Bth
+OVLY,Banks-Wst/Sthwst
+OVV,Oil&Gas-Intl Expl Pr
+OWL,Fnce-Invsmnt Mgt
+OWLT,Medical-Products
+OXBR,Insrnce-Prp/Cas/Titl
+OXM,Apprel-Clthing Mfg
+OXSQ,Fnce-Invsmnt Mgt
+OXY,Oil&Gas-Intl Expl Pr
+OZK,Banks-Southeast
+PAA,Oil&Gas-Trnsprt/Pip
+PAAS,Mining-Gld/Silvr/Gms
+PAC,Real State Dvlpmt/Ops
+PACB,Medical-Systems/Eqp
+PACK,Containers/Packaging
+PACW,Banks-Wst/Sthwst
+PAG,Retail/Whlsle-Auto
+PAGP,Oil&Gas-Trnsprt/Pip
+PAGS,Finance-Card/Pmtpr
+PAHC,Medical-Ethical Drgs
+PALI,Medical-Biomed/Bth
+PALT,Comptr Sftwr-Entr
+PAM,Utility-Elctric Pwr
+PANL,Transportation-Ship
+PANW,Comptr Sftwr-Scrity
+PAPL,Financial Svc-Spec
+PAR,Cmptr-Intgrtd Syst
+PARA,Media-Diversified
+PARAA,Media-Diversified
+PARR,Oil&Gas-Rfing/Mkt
+PASG,Medical-Biomed/Bth
+PATH,Comptr Sftwr-Entr
+PATI,Trnsportation-Trck
+PATK,Bldg-Mbile/Mfg & Rv
+PAVM,Medical-Products
+PAX,Fnce-Invsmnt Mgt
+PAY,Finance-Card/Pmtpr
+PAYC,Comptr Sftwr-Entr
+PAYO,Finance-Card/Pmtpr
+PAYS,Finance-Card/Pmtpr
+PAYX,Comml Svc-Outsourci
+PB,Banks-Wst/Sthwst
+PBA,Oil&Gas-Trnsprt/Pip
+PBAX,Finance-Blank Check
+PBBK,Banks-Northeast
+PBF,Oil&Gas-Rfing/Mkt
+PBFS,Banks-Northeast
+PBH,Cosmetics/Persnl Cre
+PBHC,Financ-Svings & Lo
+PBI,Comml Svc-Doc Mgmt
+PBLA,Medical-Biomed/Bth
+PBPB,Retail-Restaurants
+PBR,Oil&Gas Integrated
+PBRA,Oil&Gas Integrated
+PBT,Oil&Gas-Royalty Trust
+PBYI,Medical-Biomed/Bth
+PCAR,Trucks & Parts-Hvy D
+PCB,Banks-Wst/Sthwst
+PCG,Utility-Diversified
+PCH,Finance-Property Reit
+PCOR,Comptr Sftwr-Entr
+PCRX,Medical-Biomed/Bth
+PCSA,Medical-Ethical Drgs
+PCT,Chemicals-Plastics
+PCTI,Telcom-Cbl/Sat Eqp
+PCTY,Comptr Sftwr-Entr
+PCVX,Medical-Biomed/Bth
+PCYO,Utility-Water Supply
+PD,Comptr Sftwr-Dsktp
+PDCO,Medical Supplies
+PDD,Retail-Internet
+PDFS,Compter Sftwr-Dsgn
+PDLB,Banks-Northeast
+PDM,Finance-Property Reit
+PDS,Oil&Gas-Drilling
+PDSB,Medical-Biomed/Bth
+PDT,Financ-Pbl Inv Fdeqt
+PEAK,Finance-Property Reit
+PEB,Finance-Property Reit
+PEBK,Banks-Southeast
+PEBO,Banks-Midwest
+PED,Oil&Gas-U S Expl Pro
+PEG,Utility-Diversified
+PEGA,Comptr Sftwr-Fincl
+PEGY,Energy Solar
+PEN,Medical-Products
+PENN,Leisre-Gamng/Equip
+PEPG,Medical-Biomed/Bth
+PEPL,Finance-Blank Check
+PERF,Comptr Sftwr-Entr
+PERI,Coml Svcs-Advrtsng
+PESI,Pollution Control
+PET,Comptr Sftwr-Entr
+PETQ,Mdcal-Whlsle Drg
+PETS,Retail-Internet
+PETV,Medical-Biomed/Bth
+PEV,Auto/Trck-Orgnl Eqp
+PFBC,Banks-Wst/Sthwst
+PFC,Financ-Svings & Lo
+PFD,Financ-Pbl Inv Fdeqt
+PFE,Medical-Ethical Drgs
+PFG,Insrnce-Divrsified
+PFGC,Wholesale-Food
+PFIE,Oil&Gas-Mchnry/Eq
+PFIN,Bldg-Hand Tools
+PFIS,Banks-Northeast
+PFLT,Fnce-Invsmnt Mgt
+PFMT,Financial Svc-Spec
+PFO,Fince-Pub Inv Fd-Bl
+PFS,Banks-Northeast
+PFSI,Fin-Mrtg&Rel Svc
+PFX,Fnce-Invsmnt Mgt
+PG,Cosmetics/Persnl Cre
+PGC,Banks-Northeast
+PGEN,Medical-Biomed/Bth
+PGNY,Medical-Services
+PGR,Insrnce-Prp/Cas/Titl
+PGRE,Finance-Property Reit
+PGRU,Real State Dvlpmt/Ops
+PGSS,Finance-Blank Check
+PGTI,Bldg-Cnstr Prds/Msc
+PGY,Comptr Sftwr-Fincl
+PH,Mchnry-Gen Indstrl
+PHAR,Medical-Biomed/Bth
+PHAT,Medical-Biomed/Bth
+PHG,Dvrsified Oprtions
+PHGE,Medical-Biomed/Bth
+PHI,Telecom Svcs-Foreign
+PHIN,Auto/Trck-Orgnl Eqp
+PHIO,Medical-Biomed/Bth
+PHM,Bldg-Rsidnt/Comml
+PHR,Comptr Sftwr-Mdcl
+PHUN,Cmpter-Tech Srvcs
+PHVS,Medical-Biomed/Bth
+PHX,Oil&Gas-U S Expl Pro
+PHXM,Medical-Biomed/Bth
+PI,Elec-Semicon Fblss
+PII,Leisure-Products
+PIII,Mdcal-Outpnt/Hm Cr
+PIK,Retail-Internet
+PINC,Comml Svcs-Hlthcre
+PINS,Internet-Content
+PIPR,Fin-Invest Bnk/Bkrs
+PIRS,Medical-Biomed/Bth
+PIXY,Comml Svcs-Stffng
+PJT,Fnce-Invsmnt Mgt
+PK,Finance-Property Reit
+PKBK,Banks-Northeast
+PKE,Elec-Parts
+PKG,Paper & Paper Produc
+PKOH,Metal Prds-Distribtr
+PKST,Finance-Property Reit
+PKX,Steel-Producers
+PL,Telcom-Svc-Cbl/Sat
+PLAB,Elec-Semicndctr Eqp
+PLAG,Food-Misc Prep
+PLAY,Retail-Restaurants
+PLBC,Banks-Wst/Sthwst
+PLBY,Retail-Leisure Prds
+PLD,Finance-Property Reit
+PLG,Mining-Gld/Silvr/Gms
+PLL,Mining-Metal Ores
+PLMI,Finance-Blank Check
+PLMR,Insrnce-Divrsified
+PLNT,Leisure-Services
+PLOW,Auto/Trck-Tirs & M
+PLPC,Telcom-Cbl/Sat Eqp
+PLRX,Medical-Biomed/Bth
+PLSE,Medical-Systems/Eqp
+PLTK,Cmp Sftwr-Gaming
+PLTR,Comptr Sftwr-Entr
+PLUG,Energy-Alt/Other
+PLUR,Medical-Biomed/Bth
+PLUS,Cmpter-Tech Srvcs
+PLX,Medical-Biomed/Bth
+PLXS,Elec-Contract Mfg
+PLYA,Leisure-Lodging
+PLYM,Finance-Property Reit
+PM,Tobacco
+PMCB,Medical-Biomed/Bth
+PMD,Medical-Services
+PMN,Medical-Biomed/Bth
+PMT,Finance-Mrtg-Reit
+PMTS,Finance-Card/Pmtpr
+PMVP,Medical-Biomed/Bth
+PNBK,Banks-Northeast
+PNC,Banks-Supr Rgional
+PNFP,Banks-Southeast
+PNM,Utility-Elctric Pwr
+PNNT,Fnce-Invsmnt Mgt
+PNR,Mchnry-Gen Indstrl
+PNST,Retail-Restaurants
+PNT,Medical-Biomed/Bth
+PNTG,Med-Long-Trm Care
+PNW,Utility-Elctric Pwr
+POAI,Medical-Products
+POCI,Medical-Products
+PODC,Internet-Content
+PODD,Medical-Products
+POET,Elec-Semicon Mfg
+POLA,Electrical Power/Eqpmt
+POOL,Retail-Leisure Prds
+POR,Utility-Elctric Pwr
+PORT,Finance-Blank Check
+POST,Food-Packaged
+POWI,Elec-Semicon Fblss
+POWL,Electrical Power/Eqpmt
+POWW,Aerospace/Defense
+PPBI,Banks-Wst/Sthwst
+PPBT,Medical-Biomed/Bth
+PPC,Food-Meat Products
+PPG,Chemicals-Paints
+PPIH,Pollution Control
+PPL,Utility-Elctric Pwr
+PPSI,Electrical Power/Eqpmt
+PPTA,Mining-Gld/Silvr/Gms
+PPYA,Finance-Blank Check
+PR,Oil&Gas-U S Expl Pro
+PRA,Insrnce-Prp/Cas/Titl
+PRAA,Financial Svc-Spec
+PRAX,Medical-Biomed/Bth
+PRCH,Cmpter-Tech Srvcs
+PRCT,Medical-Systems/Eqp
+PRDO,Consumr Svc-Edcation
+PRFT,Cmpter-Tech Srvcs
+PRFX,Medical-Generc Drgs
+PRG,Rtail-Hme Frnshngs
+PRGO,Medical-Generc Drgs
+PRGS,Cmp Sftwr-Dbase
+PRI,Insurance-Life
+PRIM,Bldg-Heavy Constr
+PRK,Banks-Midwest
+PRKS,Leisure-Services
+PRLB,Mchnry-Mtl Hdlg
+PRLD,Medical-Biomed/Bth
+PRLH,Finance-Blank Check
+PRM,Chemicals-Specialty
+PRME,Medical-Biomed/Bth
+PRMW,Bev-Non-Alcoholic
+PRO,Comptr Sftwr-Entr
+PROC,Medical-Biomed/Bth
+PROF,Medical-Systems/Eqp
+PROK,Medical-Biomed/Bth
+PROP,Oil&Gas-U S Expl Pro
+PROV,Financ-Svings & Lo
+PRPH,Cosmetics/Persnl Cre
+PRPL,Hsholdoffic Furnitr
+PRPO,Medical-Services
+PRQR,Medical-Biomed/Bth
+PRSO,Elec-Semicon Fblss
+PRST,Mchnry-Mtl Hdlg
+PRT,Oil&Gas-Royalty Trust
+PRTA,Medical-Biomed/Bth
+PRTG,Medical-Biomed/Bth
+PRTH,Financial Svc-Spec
+PRTS,Retail/Wsl-Auto Prt
+PRU,Insurance-Life
+PRVA,Comptr Sftwr-Mdcl
+PRZO,Aerospace/Defense
+PSA,Finance-Property Reit
+PSBD,Fnce-Invsmnt Mgt
+PSEC,Fnce-Invsmnt Mgt
+PSFE,Finance-Card/Pmtpr
+PSHG,Transportation-Ship
+PSMT,Retail-Mjr Dsc Chns
+PSN,Comptr Sftwr-Entr
+PSNL,Medical-Services
+PSNY,Auto Manufacturers
+PSO,Media-Books
+PSQH,Internet-Content
+PSTG,Comptr-Data Strge
+PSTL,Finance-Property Reit
+PSTV,Medical-Biomed/Bth
+PSTX,Medical-Biomed/Bth
+PSX,Oil&Gas-Rfing/Mkt
+PT,Cmpter-Tech Srvcs
+PTC,Compter Sftwr-Dsgn
+PTCT,Medical-Biomed/Bth
+PTEN,Oil&Gas-Drilling
+PTGX,Medical-Ethical Drgs
+PTIX,Medical-Biomed/Bth
+PTLO,Retail-Restaurants
+PTMN,Fnce-Invsmnt Mgt
+PTN,Medical-Biomed/Bth
+PTON,Leisure-Services
+PTRS,Banks-Northeast
+PTSI,Trnsportation-Trck
+PTVE,Containers/Packaging
+PTWO,Finance-Blank Check
+PUBM,Coml Svcs-Advrtsng
+PUCK,Finance-Blank Check
+PUK,Insurance-Life
+PULM,Medical-Biomed/Bth
+PUMP,Oil&Gas-Field Servic
+PVBC,Banks-Northeast
+PVL,Oil&Gas-Royalty Trust
+PW,Finance-Property Reit
+PWFL,Security/Sfty
+PWOD,Banks-Northeast
+PWP,Fin-Invest Bnk/Bkrs
+PWR,Bldg-Heavy Constr
+PWSC,Consumr Svc-Edcation
+PWUP,Finance-Blank Check
+PX,Fnce-Invsmnt Mgt
+PXD,Oil&Gas-U S Expl Pro
+PXLW,Elec-Semicon Fblss
+PXMD,Medical-Biomed/Bth
+PXS,Transportation-Ship
+PYCR,Comptr Sftwr-Entr
+PYPD,Medical-Biomed/Bth
+PYPL,Finance-Card/Pmtpr
+PYR,Pollution Control
+PYXS,Medical-Biomed/Bth
+PZG,Mining-Gld/Silvr/Gms
+PZZA,Retail-Restaurants
+QBTS,Comptr Sftwr-Entr
+QCOM,Elec-Semicon Fblss
+QCRH,Banks-Midwest
+QD,Finance-Cons Loan
+QDEL,Medical-Products
+QFIN,Financial Svc-Spec
+QGEN,Medical-Products
+QIPT,Mdcal-Outpnt/Hm Cr
+QLGN,Medical-Biomed/Bth
+QLYS,Comptr Sftwr-Scrity
+QNCX,Medical-Biomed/Bth
+QNRX,Medical-Biomed/Bth
+QNST,Coml Svcs-Advrtsng
+QOMO,Finance-Blank Check
+QRHC,Pollution Control
+QRTEA,Retail-Mail Order&Di
+QRTEB,Retail-Mail Order&Di
+QRVO,Elec-Semicon Mfg
+QS,Auto/Trck-Orgnl Eqp
+QSG,Cmptr Sftwr-Edu
+QSI,Medical-Biomed/Bth
+QSR,Retail-Restaurants
+QTRX,Medical-Products
+QTWO,Comptr Sftwr-Fincl
+QUAD,Comml Svc-Doc Mgmt
+QUBT,Cmpter-Tech Srvcs
+QUIK,Elec-Semicon Fblss
+QURE,Medical-Biomed/Bth
+R,Comml Svcs-Leasing
+RACE,Auto Manufacturers
+RAIL,Trnsprt-Eqp Mfg
+RAIN,Medical-Biomed/Bth
+RAMP,Cmpter-Tech Srvcs
+RAND,Fnce-Invsmnt Mgt
+RANI,Medical-Biomed/Bth
+RAPT,Medical-Biomed/Bth
+RARE,Medical-Biomed/Bth
+RAVE,Retail-Restaurants
+RBA,Retail-Specialty
+RBB,Financ-Svings & Lo
+RBBN,Telcom-Infrastr
+RBC,Metal Proc & Fabrica
+RBCAA,Banks-Southeast
+RBKB,Finance-Cmrcl Loan
+RBLX,Cmp Sftwr-Gaming
+RBOT,Comptr Sftwr-Mdcl
+RBT,Cmp Sftwr-Spc-Entr
+RC,Finance-Mrtg-Reit
+RCAT,Cmp Sftwr-Spc-Entr
+RCEL,Medical-Products
+RCFA,Finance-Blank Check
+RCI,Telecom Svcs-Foreign
+RCKT,Medical-Biomed/Bth
+RCKY,Apparel-Shoes & Rel
+RCL,Leisure-Services
+RCM,Comml Svcs-Hlthcre
+RCMT,Cmpter-Tech Srvcs
+RCUS,Medical-Biomed/Bth
+RDCM,Intrnt-Netwk Sltns
+RDFN,Real State Dvlpmt/Ops
+RDI,Leisre-Mvies & Rel
+RDIB,Leisre-Mvies & Rel
+RDN,Fin-Mrtg&Rel Svc
+RDNT,Mdcal-Outpnt/Hm Cr
+RDUS,Metal Proc & Fabrica
+RDVT,Comml Svc-Outsourci
+RDW,Aerospace/Defense
+RDWR,Compter-Netwrking
+RDY,Medical-Generc Drgs
+RDZN,Insrnce-Prp/Cas/Titl
+REAL,Retail-Internet
+REAX,Real State Dvlpmt/Ops
+REBN,Bev-Non-Alcoholic
+REFI,Finance-Mrtg-Reit
+REFR,Elec-Misc Products
+REG,Finance-Property Reit
+REGN,Medical-Biomed/Bth
+REI,Oil&Gas-U S Expl Pro
+REKR,Cmml Svcs-Cnsltng
+RELI,Insrnce-Divrsified
+RELL,Elec-Misc Products
+RELX,Cmml Svcs-Mrkt Rch
+RELY,Financial Svc-Spec
+RENB,Medical-Biomed/Bth
+RENE,Finance-Blank Check
+RENT,Retail-Internet
+REPL,Medical-Biomed/Bth
+REPX,Oil&Gas-U S Expl Pro
+RERE,Retail-Cnsmr Elec
+RES,Oil&Gas-Field Servic
+REVB,Medical-Biomed/Bth
+REVG,Bldg-Mbile/Mfg & Rv
+REXR,Finance-Property Reit
+REYN,Containers/Packaging
+REZI,Security/Sfty
+RF,Banks-Supr Rgional
+RFIL,Telcom-Cbl/Sat Eqp
+RFL,Fnce-Invsmnt Mgt
+RGA,Insurance-Life
+RGCO,Utility-Gas Dstribtn
+RGEN,Medical-Products
+RGF,Food-Packaged
+RGLD,Mining-Gld/Silvr/Gms
+RGLS,Medical-Biomed/Bth
+RGNX,Medical-Biomed/Bth
+RGP,Cmml Svcs-Cnsltng
+RGR,Security/Sfty
+RGS,Retail-Specialty
+RGTI,Cmptr-Intgrtd Syst
+RH,Rtail-Hme Frnshngs
+RHI,Comml Svcs-Stffng
+RICK,Leisure-Services
+RIG,Oil&Gas-Drilling
+RIGL,Medical-Biomed/Bth
+RILY,Fin-Invest Bnk/Bkrs
+RIO,Mining-Metal Ores
+RIOT,Financial Svc-Spec
+RITM,Finance-Mrtg-Reit
+RIV,Financ-Pbl Inv Fdeqt
+RIVN,Auto Manufacturers
+RJF,Fin-Invest Bnk/Bkrs
+RKDA,Agricultural Oprtions
+RKLB,Aerospace/Defense
+RKT,Fin-Mrtg&Rel Svc
+RL,Apprel-Clthing Mfg
+RLAY,Medical-Biomed/Bth
+RLGT,Transport-Logistics
+RLI,Insrnce-Prp/Cas/Titl
+RLJ,Finance-Property Reit
+RLMD,Medical-Biomed/Bth
+RLX,Tobacco
+RLYB,Medical-Biomed/Bth
+RM,Finance-Cons Loan
+RMAX,Real State Dvlpmt/Ops
+RMBI,Financ-Svings & Lo
+RMBL,Retail-Internet
+RMBS,Elec-Semicon Fblss
+RMCF,Food-Confectionery
+RMD,Medical-Products
+RMNI,Cmpter-Tech Srvcs
+RMR,Real State Dvlpmt/Ops
+RMTI,Medical-Products
+RNA,Medical-Biomed/Bth
+RNAC,Medical-Biomed/Bth
+RNAZ,Medical-Biomed/Bth
+RNG,Comptr Sftwr-Entr
+RNGR,Oil&Gas-Field Servic
+RNLX,Medical-Services
+RNR,Insrnce-Prp/Cas/Titl
+RNST,Banks-Southeast
+RNW,Energy-Alt/Other
+RNXT,Medical-Biomed/Bth
+ROCK,Metal Proc & Fabrica
+ROG,Elec-Semicon Mfg
+ROI,Internet-Content
+ROIC,Finance-Property Reit
+ROIV,Medical-Biomed/Bth
+ROK,Electrical Power/Eqpmt
+ROKU,Leisre-Mvies & Rel
+ROL,Bldg-Mntnance & S
+ROOT,Insrnce-Prp/Cas/Titl
+ROP,Dvrsified Oprtions
+ROST,Retail-Apprl/Shoes/Acc
+ROVR,Internet-Content
+RPAY,Finance-Card/Pmtpr
+RPD,Comptr Sftwr-Scrity
+RPHM,Medical-Biomed/Bth
+RPID,Med-Resrch Eqp/Svc
+RPM,Chemicals-Paints
+RPRX,Medical-Biomed/Bth
+RPT,Finance-Property Reit
+RPTX,Medical-Biomed/Bth
+RR,Mchnry-Mtl Hdlg
+RRBI,Banks-Southeast
+RRC,Oil&Gas-U S Expl Pro
+RRGB,Retail-Restaurants
+RRR,Leisre-Gamng/Equip
+RRX,Electrical Power/Eqpmt
+RS,Metal Proc & Fabrica
+RSG,Pollution Control
+RSI,Leisre-Gamng/Equip
+RSKD,Comptr Sftwr-Entr
+RSLS,Medical-Products
+RSSS,Cmml Svcs-Mrkt Rch
+RSVR,Leisre-Mvies & Rel
+RTO,Comml Svc-Outsourci
+RTX,Aerospace/Defense
+RUM,Internet-Content
+RUN,Energy Solar
+RUSHA,Retail/Whlsle-Auto
+RUSHB,Retail/Whlsle-Auto
+RVLV,Retail-Apprl/Shoes/Acc
+RVMD,Medical-Biomed/Bth
+RVNC,Medical-Biomed/Bth
+RVP,Medical Supplies
+RVPH,Medical-Biomed/Bth
+RVSB,Financ-Svings & Lo
+RVYL,Finance-Card/Pmtpr
+RWAY,Finance-Cmrcl Loan
+RWLK,Medical-Products
+RWT,Finance-Property Reit
+RXO,Trnsportation-Trck
+RXRX,Medical-Biomed/Bth
+RXST,Medical-Products
+RXT,Comptr Sftwr-Entr
+RY,Banks-Money Cntr
+RYAAY,Trnsprttin-Airlne
+RYAM,Chemicals-Specialty
+RYAN,Insurance-Brokers
+RYI,Metal Prds-Distribtr
+RYN,Finance-Property Reit
+RYTM,Medical-Biomed/Bth
+RYZB,Medical-Biomed/Bth
+RZLT,Medical-Biomed/Bth
+S,Comptr Sftwr-Scrity
+SA,Mining-Gld/Silvr/Gms
+SABR,Leisre-Trvl Bking
+SABS,Medical-Biomed/Bth
+SACH,Finance-Mrtg-Reit
+SAFE,Finance-Mrtg-Reit
+SAFT,Insrnce-Prp/Cas/Titl
+SAGE,Medical-Biomed/Bth
+SAH,Retail/Whlsle-Auto
+SAI,Financial Svc-Spec
+SAIA,Trnsportation-Trck
+SAIC,Cmml Svcs-Cnsltng
+SAL,Banks-Northeast
+SALM,Media-Radio/Tv
+SAM,Beverages-Alcoholic
+SAMG,Fnce-Invsmnt Mgt
+SAN,Banks-Money Cntr
+SANA,Medical-Biomed/Bth
+SANG,Compter-Netwrking
+SANM,Elec-Contract Mfg
+SANW,Agricultural Oprtions
+SAP,Comptr Sftwr-Entr
+SAR,Fnce-Invsmnt Mgt
+SASI,Cmptr-Intgrtd Syst
+SASR,Banks-Northeast
+SATS,Telcom-Cbl/Sat Eqp
+SAVA,Medical-Biomed/Bth
+SAVE,Trnsprttin-Airlne
+SB,Transportation-Ship
+SBAC,Finance-Property Reit
+SBCF,Banks-Southeast
+SBET,Leisre-Gamng/Equip
+SBEV,Beverages-Alcoholic
+SBFG,Banks-Midwest
+SBFM,Medical-Biomed/Bth
+SBGI,Media-Radio/Tv
+SBH,Retail-Specialty
+SBLK,Transportation-Ship
+SBOW,Oil&Gas-U S Expl Pro
+SBR,Oil&Gas-Royalty Trust
+SBRA,Finance-Property Reit
+SBS,Utility-Water Supply
+SBSI,Banks-Wst/Sthwst
+SBSW,Mining-Gld/Silvr/Gms
+SBT,Financ-Svings & Lo
+SBUX,Retail-Restaurants
+SBXC,Finance-Blank Check
+SCCO,Mining-Metal Ores
+SCD,Fince-Pub Inv Fd-Bl
+SCHL,Media-Books
+SCHW,Fin-Invest Bnk/Bkrs
+SCI,Funeral Svcs & Rel
+SCKT,Cmp-Hrdwre/Perip
+SCL,Chemicals-Specialty
+SCLX,Medical-Biomed/Bth
+SCM,Fnce-Invsmnt Mgt
+SCNI,Medical-Biomed/Bth
+SCOR,Cmml Svcs-Mrkt Rch
+SCPH,Medical-Biomed/Bth
+SCRM,Finance-Blank Check
+SCS,Hsholdoffic Furnitr
+SCSC,Wholesale-Elect
+SCTL,Medical-Biomed/Bth
+SCU,Fnce-Invsmnt Mgt
+SCVL,Retail-Apprl/Shoes/Acc
+SCWO,Pollution Control
+SCWX,Comptr Sftwr-Scrity
+SCX,Bldg-Hand Tools
+SCYX,Medical-Biomed/Bth
+SD,Oil&Gas-U S Expl Pro
+SDGR,Med-Resrch Eqp/Svc
+SDHC,Bldg-Rsidnt/Comml
+SDHY,Fince-Pub Inv Fd-Bl
+SDIG,Financial Svc-Spec
+SDOT,Retail-Restaurants
+SDPI,Oil&Gas-Mchnry/Eq
+SDRL,Oil&Gas-Drilling
+SE,Retail-Internet
+SEAS,Leisure-Services
+SEAT,Leisre-Trvl Bking
+SEB,Dvrsified Oprtions
+SEDA,Finance-Blank Check
+SEDG,Energy Solar
+SEE,Containers/Packaging
+SEED,Agricultural Oprtions
+SEEL,Medical-Biomed/Bth
+SEER,Medical-Biomed/Bth
+SEIC,Fnce-Invsmnt Mgt
+SELF,Finance-Property Reit
+SEM,Medcal-Hospitals
+SEMR,Internet-Content
+SENEA,Food-Packaged
+SENEB,Food-Packaged
+SENS,Medical-Products
+SERA,Medical-Services
+SES,Electrical Power/Eqpmt
+SEVN,Finance-Mrtg-Reit
+SEZL,Financial Svc-Spec
+SF,Fin-Invest Bnk/Bkrs
+SFBC,Banks-Wst/Sthwst
+SFBS,Banks-Southeast
+SFE,Fnce-Invsmnt Mgt
+SFIX,Retail-Internet
+SFL,Oil&Gas-Trnsprt/Pip
+SFM,Retail-Spr/Mini Mkts
+SFNC,Banks-Southeast
+SG,Retail-Restaurants
+SGA,Media-Radio/Tv
+SGBX,Metal Proc & Fabrica
+SGC,Comml Svc-Outsourci
+SGE,Elec-Misc Products
+SGH,Comptr-Data Strge
+SGHC,Leisre-Gamng/Equip
+SGHT,Medical-Systems/Eqp
+SGII,Finance-Blank Check
+SGLY,Transport-Logistics
+SGMA,Elec-Contract Mfg
+SGML,Mining-Metal Ores
+SGMO,Medical-Biomed/Bth
+SGMT,Medical-Biomed/Bth
+SGRP,Coml Svcs-Advrtsng
+SGRY,Medcal-Hospitals
+SGU,Oil&Gas-Rfing/Mkt
+SHAK,Retail-Restaurants
+SHBI,Banks-Northeast
+SHC,Medical-Services
+SHCO,Leisure-Services
+SHCR,Comptr Sftwr-Mdcl
+SHEL,Oil&Gas Integrated
+SHEN,Telcom Svc-Wirles
+SHFS,Comml Svc-Outsourci
+SHG,Banks-Foreign
+SHIP,Transportation-Ship
+SHLS,Energy Solar
+SHOO,Apparel-Shoes & Rel
+SHOP,Comptr Sftwr-Entr
+SHPH,Medical-Biomed/Bth
+SHPW,Mchnry-Mtl Hdlg
+SHW,Chemicals-Paints
+SHYF,Trucks & Parts-Hvy D
+SIBN,Medical-Systems/Eqp
+SID,Steel-Producers
+SIDU,Telcom-Cbl/Sat Eqp
+SIEB,Fin-Invest Bnk/Bkrs
+SIEN,Medical-Products
+SIF,Aerospace/Defense
+SIFY,Telecom Svcs-Foreign
+SIG,Retail/Whlsle-Jwlry
+SIGA,Medical-Biomed/Bth
+SIGI,Insrnce-Prp/Cas/Titl
+SII,Fnce-Invsmnt Mgt
+SILC,Compter-Netwrking
+SILK,Medical-Products
+SILO,Medical-Biomed/Bth
+SILV,Mining-Gld/Silvr/Gms
+SIM,Steel-Producers
+SIMO,Comptr-Data Strge
+SINT,Medical-Products
+SIRI,Telcom-Svc-Cbl/Sat
+SISI,Medical-Biomed/Bth
+SITC,Finance-Property Reit
+SITE,Retl Whsle Bldg Prds
+SITM,Elec-Semicon Fblss
+SJ,Internet-Content
+SJM,Food-Packaged
+SJT,Oil&Gas-Royalty Trust
+SJW,Utility-Water Supply
+SKE,Mining-Gld/Silvr/Gms
+SKGR,Finance-Blank Check
+SKIL,Consumr Svc-Edcation
+SKIN,Cosmetics/Persnl Cre
+SKLZ,Leisre-Gamng/Equip
+SKM,Telecom Svcs-Foreign
+SKT,Finance-Property Reit
+SKWD,Insrnce-Prp/Cas/Titl
+SKX,Apparel-Shoes & Rel
+SKY,Bldg-Mbile/Mfg & Rv
+SKYH,Bldg-Heavy Constr
+SKYT,Elec-Semicon Mfg
+SKYW,Trnsprttin-Airlne
+SKYX,Electrical Power/Eqpmt
+SLAB,Elec-Semicon Fblss
+SLAC,Finance-Blank Check
+SLAM,Finance-Blank Check
+SLB,Oil&Gas-Field Servic
+SLCA,Chemicals-Specialty
+SLDB,Medical-Biomed/Bth
+SLDP,Electrical Power/Eqpmt
+SLE,Internet-Content
+SLF,Insurance-Life
+SLG,Finance-Property Reit
+SLGC,Medical-Systems/Eqp
+SLGL,Medical-Biomed/Bth
+SLGN,Containers/Packaging
+SLI,Mining-Metal Ores
+SLM,Finance-Cons Loan
+SLN,Medical-Biomed/Bth
+SLND,Bldg-Heavy Constr
+SLNG,Oil&Gas Integrated
+SLNH,Elec-Scntific/Msrng
+SLNO,Medical-Products
+SLP,Comptr Sftwr-Mdcl
+SLQT,Insurance-Brokers
+SLRC,Fnce-Invsmnt Mgt
+SLRN,Medical-Biomed/Bth
+SLRX,Medical-Biomed/Bth
+SLS,Medical-Biomed/Bth
+SLVM,Containers/Packaging
+SM,Oil&Gas-U S Expl Pro
+SMAR,Comptr Sftwr-Entr
+SMBC,Banks-Midwest
+SMBK,Banks-Southeast
+SMCI,Cmp-Hrdwre/Perip
+SMFG,Banks-Money Cntr
+SMG,Chemicals-Ag
+SMHI,Transportation-Ship
+SMID,Bldg-Cment/Cncrt
+SMLP,Oil&Gas-Trnsprt/Pip
+SMLR,Medical-Products
+SMMF,Banks-Southeast
+SMMT,Medical-Biomed/Bth
+SMP,Auto/Trck-Rplc Prts
+SMPL,Food-Confectionery
+SMR,Energy-Alt/Other
+SMRT,Security/Sfty
+SMSI,Intrnt-Netwk Sltns
+SMTC,Elec-Semicon Fblss
+SMTI,Medical-Products
+SMWB,Cmp Sftwr-Dbase
+SN,Houshld-Applncs/Hw
+SNA,Bldg-Hand Tools
+SNAL,Cmp Sftwr-Gaming
+SNAP,Internet-Content
+SNAX,Food-Packaged
+SNBR,Rtail-Hme Frnshngs
+SNCE,Med-Resrch Eqp/Svc
+SNCR,Comptr Sftwr-Entr
+SNCY,Trnsprttin-Airlne
+SND,Chemicals-Specialty
+SNDA,Med-Long-Trm Care
+SNDL,Consumr Prod-Speci
+SNDR,Transport-Logistics
+SNDX,Medical-Biomed/Bth
+SNES,Medical-Biomed/Bth
+SNEX,Fin-Invest Bnk/Bkrs
+SNFCA,Fin-Mrtg&Rel Svc
+SNGX,Medical-Biomed/Bth
+SNMP,Oil&Gas-U S Expl Pro
+SNN,Medical-Products
+SNOA,Medical-Products
+SNOW,Comptr Sftwr-Entr
+SNPO,Security/Sfty
+SNPS,Compter Sftwr-Dsgn
+SNPX,Medical-Biomed/Bth
+SNSE,Medical-Biomed/Bth
+SNT,Security/Sfty
+SNTG,Finance-Cons Loan
+SNTI,Medical-Biomed/Bth
+SNV,Banks-Southeast
+SNX,Wholesale-Elect
+SNY,Medical-Ethical Drgs
+SO,Utility-Elctric Pwr
+SOBR,Cmptr-Intgrtd Syst
+SOFI,Finance-Cons Loan
+SOHO,Finance-Property Reit
+SOHU,Cmp Sftwr-Gaming
+SOI,Chemicals-Specialty
+SOLO,Auto Manufacturers
+SON,Containers/Packaging
+SOND,Leisre-Trvl Bking
+SONM,Telcom-Cons Prod
+SONN,Medical-Biomed/Bth
+SONO,Consumer Prod-Elec
+SONX,Medical-Systems/Eqp
+SONY,Media-Diversified
+SOPA,Internet-Content
+SOPH,Medical-Biomed/Bth
+SOTK,Mchnry-Gen Indstrl
+SOUN,Cmpter-Tech Srvcs
+SOVO,Food-Packaged
+SP,Comml Svc-Outsourci
+SPB,Bldg-Cnstr Prds/Msc
+SPCB,Security/Sfty
+SPCE,Aerospace/Defense
+SPEC,Finance-Blank Check
+SPFI,Banks-Wst/Sthwst
+SPG,Finance-Property Reit
+SPGC,Leisure-Products
+SPGI,Cmml Svcs-Mrkt Rch
+SPH,Oil&Gas-Rfing/Mkt
+SPHR,Leisure-Services
+SPIR,Aerospace/Defense
+SPLK,Cmp Sftwr-Dbase
+SPLP,Fnce-Invsmnt Mgt
+SPNS,Cmpter-Tech Srvcs
+SPNT,Insrnce-Prp/Cas/Titl
+SPOK,Telcom Svc-Wirles
+SPOT,Cmptr Sftwr-Edu
+SPR,Aerospace/Defense
+SPRB,Medical-Biomed/Bth
+SPRO,Medical-Biomed/Bth
+SPRU,Energy Solar
+SPRY,Medical-Biomed/Bth
+SPSC,Cmp Sftwr-Spc-Entr
+SPT,Comptr Sftwr-Entr
+SPTN,Retail-Spr/Mini Mkts
+SPWH,Retail-Leisure Prds
+SPWR,Energy Solar
+SPXC,Mchnry-Gen Indstrl
+SQ,Finance-Card/Pmtpr
+SQFT,Finance-Property Reit
+SQM,Chemicals-Ag
+SQNS,Elec-Semicon Fblss
+SQSP,Comptr Sftwr-Entr
+SR,Utility-Gas Dstribtn
+SRAD,Leisre-Gamng/Equip
+SRBK,Banks-Northeast
+SRC,Finance-Property Reit
+SRCE,Banks-Midwest
+SRCL,Pollution Control
+SRDX,Medical-Products
+SRE,Utility-Diversified
+SRFM,Trnsprttin-Airlne
+SRG,Finance-Property Reit
+SRI,Auto/Trck-Orgnl Eqp
+SRL,Financial Svc-Spec
+SRM,Leisr-Tys/Gms/Hbby
+SRPT,Medical-Biomed/Bth
+SRRK,Medical-Biomed/Bth
+SRT,Comml Svc-Outsourci
+SRTS,Medical-Systems/Eqp
+SRV,Financ-Pbl Inv Fdeqt
+SRZN,Medical-Biomed/Bth
+SSB,Banks-Southeast
+SSBI,Financ-Svings & Lo
+SSBK,Banks-Southeast
+SSD,Bldg-Cnstr Prds/Msc
+SSKN,Medical-Systems/Eqp
+SSL,Oil&Gas-Rfing/Mkt
+SSNC,Comptr Sftwr-Fincl
+SSNT,Cmml Svcs-Cnsltng
+SSP,Media-Radio/Tv
+SSRM,Mining-Gld/Silvr/Gms
+SSSS,Fnce-Invsmnt Mgt
+SST,Coml Svcs-Advrtsng
+SSTI,Security/Sfty
+SSTK,Retail-Internet
+SSY,Medcal-Hospitals
+SSYS,Mchnry-Mtl Hdlg
+ST,Elec-Misc Products
+STAA,Medical-Products
+STAF,Comml Svcs-Stffng
+STAG,Finance-Property Reit
+STBA,Banks-Northeast
+STC,Insrnce-Prp/Cas/Titl
+STCN,Comptr Sftwr-Entr
+STE,Medical-Systems/Eqp
+STEL,Banks-Wst/Sthwst
+STEM,Cmp Sftwr-Spc-Entr
+STER,Comptr Sftwr-Scrity
+STEW,Financ-Pbl Inv Fdeqt
+STG,Consumr Svc-Edcation
+STGW,Coml Svcs-Advrtsng
+STHO,Finance-Property Reit
+STI,Energy-Alt/Other
+STIM,Medical-Biomed/Bth
+STIX,Comptr Sftwr-Entr
+STKL,Food-Packaged
+STKS,Retail-Restaurants
+STLA,Auto Manufacturers
+STLD,Steel-Producers
+STM,Elec-Semicon Mfg
+STN,Cmml Svcs-Cnsltng
+STNE,Finance-Card/Pmtpr
+STNG,Oil&Gas-Trnsprt/Pip
+STOK,Medical-Biomed/Bth
+STR,Oil&Gas-U S Expl Pro
+STRA,Consumr Svc-Edcation
+STRC,Elec-Misc Products
+STRL,Bldg-Heavy Constr
+STRM,Comptr Sftwr-Mdcl
+STRO,Medical-Biomed/Bth
+STRR,Medical-Systems/Eqp
+STRS,Real State Dvlpmt/Ops
+STRT,Auto/Trck-Orgnl Eqp
+STRW,Finance-Property Reit
+STSS,Medical Supplies
+STT,Fnce-Invsmnt Mgt
+STTK,Medical-Biomed/Bth
+STVN,Medical-Services
+STWD,Finance-Mrtg-Reit
+STX,Comptr-Data Strge
+STXS,Medical-Systems/Eqp
+STZ,Beverages-Alcoholic
+SU,Oil&Gas Integrated
+SUAC,Finance-Blank Check
+SUGP,Security/Sfty
+SUI,Finance-Property Reit
+SUM,Bldg-Cment/Cncrt
+SUN,Oil&Gas-Rfing/Mkt
+SUNW,Energy Solar
+SUP,Auto/Trck-Orgnl Eqp
+SUPN,Medical-Biomed/Bth
+SUPV,Banks-Foreign
+SURG,Comptr Sftwr-Entr
+SUZ,Paper & Paper Produc
+SVC,Finance-Property Reit
+SVFD,Chemicals-Ag
+SVM,Mining-Gld/Silvr/Gms
+SVRA,Medical-Biomed/Bth
+SVT,Aerospace/Defense
+SVV,Retail-Specialty
+SWAG,Coml Svcs-Advrtsng
+SWAV,Medical-Systems/Eqp
+SWBI,Security/Sfty
+SWI,Comptr Sftwr-Entr
+SWIM,Bldg-Cnstr Prds/Msc
+SWIN,Fin-Invest Bnk/Bkrs
+SWK,Bldg-Hand Tools
+SWKH,Cmml Svcs-Cnsltng
+SWKS,Elec-Semicon Mfg
+SWN,Oil&Gas-U S Expl Pro
+SWSS,Finance-Blank Check
+SWTX,Medical-Biomed/Bth
+SWVL,Comptr Sftwr-Entr
+SWX,Utility-Gas Dstribtn
+SXC,Energy Coal
+SXI,Mchnry-Gen Indstrl
+SY,Medical-Services
+SYBT,Banks-Southeast
+SYBX,Medical-Biomed/Bth
+SYF,Financ-Svings & Lo
+SYK,Medical-Products
+SYM,Mchnry-Gen Indstrl
+Symbol,Industry
+SYNA,Elec-Misc Products
+SYPR,Elec-Contract Mfg
+SYRE,Medical-Biomed/Bth
+SYRS,Medical-Biomed/Bth
+SYY,Wholesale-Food
+T,Telcom Svc-Integrtd
+TAC,Utility-Elctric Pwr
+TACT,Cmp-Hrdwre/Perip
+TAIT,Elec-Parts
+TAK,Medical-Ethical Drgs
+TAL,Consumr Svc-Edcation
+TALK,Medical-Services
+TALO,Oil&Gas-U S Expl Pro
+TAP,Beverages-Alcoholic
+TAPA,Beverages-Alcoholic
+TARA,Medical-Biomed/Bth
+TARO,Medical-Generc Drgs
+TARS,Medical-Biomed/Bth
+TASK,Cmpter-Tech Srvcs
+TAST,Retail-Restaurants
+TATT,Aerospace/Defense
+TAYD,Mchnry-Gen Indstrl
+TBBK,Banks-Northeast
+TBI,Comml Svcs-Stffng
+TBIO,Med-Resrch Eqp/Svc
+TBLA,Coml Svcs-Advrtsng
+TBLT,Bldg-Hand Tools
+TBNK,Financ-Svings & Lo
+TBPH,Medical-Biomed/Bth
+TCBI,Banks-Wst/Sthwst
+TCBK,Banks-Wst/Sthwst
+TCBS,Banks-Wst/Sthwst
+TCBX,Banks-Wst/Sthwst
+TCI,Real State Dvlpmt/Ops
+TCMD,Medical-Products
+TCN,Real State Dvlpmt/Ops
+TCOM,Leisre-Trvl Bking
+TCON,Medical-Biomed/Bth
+TCPC,Fnce-Invsmnt Mgt
+TCRT,Medical-Biomed/Bth
+TCRX,Medical-Biomed/Bth
+TCS,Rtail-Hme Frnshngs
+TCX,Intrnt-Netwk Sltns
+TD,Banks-Money Cntr
+TDC,Cmp Sftwr-Dbase
+TDCX,Comml Svc-Outsourci
+TDG,Aerospace/Defense
+TDOC,Comptr Sftwr-Mdcl
+TDS,Telcom Svc-Wirles
+TDUP,Retail-Internet
+TDW,Oil&Gas-Field Servic
+TDY,Aerospace/Defense
+TEAF,Financ-Pbl Inv Fdeqt
+TEAM,Cmp Sftwr-Spc-Entr
+TECH,Med-Resrch Eqp/Svc
+TECK,Mining-Metal Ores
+TEF,Telecom Svcs-Foreign
+TEL,Elec-Parts
+TELA,Medical-Products
+TELL,Oil&Gas-Intl Expl Pr
+TENB,Comptr Sftwr-Scrity
+TENX,Medical-Biomed/Bth
+TEO,Telecom Svcs-Foreign
+TER,Elec-Semicndctr Eqp
+TERN,Medical-Biomed/Bth
+TEVA,Medical-Generc Drgs
+TEX,Mchinry-Cnstr/Mng
+TFC,Banks-Supr Rgional
+TFFP,Medical-Biomed/Bth
+TFII,Trnsportation-Trck
+TFIN,Banks-Wst/Sthwst
+TFPM,Mining-Gld/Silvr/Gms
+TFSL,Financ-Svings & Lo
+TFX,Medical-Products
+TG,Chemicals-Plastics
+TGAN,Elec-Semicon Mfg
+TGB,Mining-Metal Ores
+TGH,Comml Svcs-Leasing
+TGI,Aerospace/Defense
+TGL,Comptr Sftwr-Entr
+TGLS,Bldg-Cnstr Prds/Msc
+TGNA,Media-Radio/Tv
+TGS,Oil&Gas-Trnsprt/Pip
+TGT,Retail-Mjr Dsc Chns
+TGTX,Medical-Biomed/Bth
+TGVC,Finance-Blank Check
+TH,Leisure-Lodging
+THAR,Medical-Biomed/Bth
+THC,Medcal-Hospitals
+THCH,Retail-Restaurants
+THCP,Finance-Blank Check
+THFF,Banks-Midwest
+THG,Insrnce-Prp/Cas/Titl
+THM,Mining-Gld/Silvr/Gms
+THMO,Medical-Systems/Eqp
+THO,Bldg-Mbile/Mfg & Rv
+THQ,Financ-Pbl Inv Fdeqt
+THR,Bldg-A/C & Heating P
+THRD,Medical-Biomed/Bth
+THRM,Auto/Trck-Orgnl Eqp
+THRY,Coml Svcs-Advrtsng
+THS,Food-Packaged
+THTX,Medical-Biomed/Bth
+THW,Financ-Pbl Inv Fdeqt
+TIGO,Telecom Svcs-Foreign
+TIGR,Fin-Invest Bnk/Bkrs
+TIL,Medical-Biomed/Bth
+TILE,Bldg-Cnstr Prds/Msc
+TIMB,Telecom Svcs-Foreign
+TIO,Financial Svc-Spec
+TIPT,Financial Svc-Spec
+TISI,Pollution Control
+TITN,Retl Whsle Bldg Prds
+TIVC,Medical-Biomed/Bth
+TIXT,Cmpter-Tech Srvcs
+TJX,Retail-Apprl/Shoes/Acc
+TK,Oil&Gas-Trnsprt/Pip
+TKC,Telecom Svcs-Foreign
+TKLF,Cosmetics/Persnl Cre
+TKNO,Med-Resrch Eqp/Svc
+TKO,Media-Diversified
+TKR,Metal Proc & Fabrica
+TLF,Retail-Apprl/Shoes/Acc
+TLGY,Finance-Blank Check
+TLIS,Med-Resrch Eqp/Svc
+TLK,Telecom Svcs-Foreign
+TLPH,Medical-Biomed/Bth
+TLRY,Consumr Prod-Speci
+TLS,Comptr Sftwr-Scrity
+TLSI,Medical-Biomed/Bth
+TLYS,Retail-Apprl/Shoes/Acc
+TM,Auto Manufacturers
+TMC,Mining-Metal Ores
+TMCI,Medical-Systems/Eqp
+TMDX,Medical-Products
+TME,Internet-Content
+TMHC,Bldg-Rsidnt/Comml
+TMO,Med-Resrch Eqp/Svc
+TMP,Banks-Northeast
+TMST,Steel-Spclty Alloys
+TMTC,Finance-Blank Check
+TMUS,Telcom Svc-Wirles
+TNC,Mchnry-Gen Indstrl
+TNDM,Medical-Products
+TNET,Comml Svc-Outsourci
+TNGX,Medical-Biomed/Bth
+TNK,Oil&Gas-Trnsprt/Pip
+TNL,Leisure-Services
+TNON,Medical-Products
+TNXP,Medical-Biomed/Bth
+TNYA,Medical-Biomed/Bth
+TOI,Medcal-Hospitals
+TOL,Bldg-Rsidnt/Comml
+TOMZ,Pollution Control
+TORO,Transportation-Ship
+TOST,Finance-Card/Pmtpr
+TOUR,Leisre-Trvl Bking
+TOVX,Medical-Biomed/Bth
+TOWN,Banks-Southeast
+TPB,Tobacco
+TPC,Bldg-Heavy Constr
+TPCS,Metal Proc & Fabrica
+TPET,Oil&Gas-U S Expl Pro
+TPG,Fnce-Invsmnt Mgt
+TPH,Bldg-Rsidnt/Comml
+TPHS,Real State Dvlpmt/Ops
+TPIC,Energy-Alt/Other
+TPL,Oil&Gas-Royalty Trust
+TPR,Apprel-Clthing Mfg
+TPST,Medical-Biomed/Bth
+TPVG,Fnce-Invsmnt Mgt
+TPX,Hsholdoffic Furnitr
+TPZ,Financ-Pbl Inv Fdeqt
+TR,Food-Confectionery
+TRAK,Cmp Sftwr-Spc-Entr
+TRC,Real State Dvlpmt/Ops
+TRDA,Medical-Biomed/Bth
+TREE,Fin-Mrtg&Rel Svc
+TREX,Bldg-Cnstr Prds/Msc
+TRGP,Oil&Gas-Rfing/Mkt
+TRI,Cmml Svcs-Mrkt Rch
+TRIB,Medical-Products
+TRIN,Fnce-Invsmnt Mgt
+TRIP,Leisre-Trvl Bking
+TRIS,Finance-Blank Check
+TRMB,Elec-Misc Products
+TRMD,Oil&Gas-Trnsprt/Pip
+TRMK,Banks-Southeast
+TRML,Medical-Biomed/Bth
+TRN,Trnsprt-Eqp Mfg
+TRNO,Finance-Property Reit
+TRNR,Leisure-Services
+TRNS,Elec-Parts
+TRON,Finance-Blank Check
+TROW,Fnce-Invsmnt Mgt
+TROX,Chemicals-Specialty
+TRP,Oil&Gas-Trnsprt/Pip
+TRS,Dvrsified Oprtions
+TRST,Financ-Svings & Lo
+TRT,Elec-Semicndctr Eqp
+TRTN,Comml Svcs-Leasing
+TRTX,Fin-Mrtg&Rel Svc
+TRU,Financial Svc-Spec
+TRUE,Internet-Content
+TRUG,Cmp Sftwr-Gaming
+TRUP,Insrnce-Acc & Heal
+TRV,Insrnce-Prp/Cas/Titl
+TRVG,Leisre-Trvl Bking
+TRVI,Medical-Biomed/Bth
+TRVN,Medical-Biomed/Bth
+TRX,Mining-Gld/Silvr/Gms
+TS,Steel-Producers
+TSAT,Telcom-Cbl/Sat Eqp
+TSBK,Banks-Wst/Sthwst
+TSBX,Medical-Biomed/Bth
+TSCO,Retl Whsle Bldg Prds
+TSE,Chemicals-Plastics
+TSEM,Elec-Semicon Mfg
+TSHA,Medical-Biomed/Bth
+TSLA,Auto Manufacturers
+TSLX,Finance-Cmrcl Loan
+TSM,Elec-Semicon Mfg
+TSN,Food-Meat Products
+TSP,Auto/Trck-Orgnl Eqp
+TSQ,Media-Radio/Tv
+TSRI,Cmpter-Tech Srvcs
+TSVT,Medical-Biomed/Bth
+TT,Bldg-A/C & Heating P
+TTC,Bldg-Hand Tools
+TTD,Coml Svcs-Advrtsng
+TTE,Oil&Gas Integrated
+TTEC,Comml Svc-Outsourci
+TTEK,Pollution Control
+TTGT,Comptr Sftwr-Entr
+TTI,Oil&Gas-Field Servic
+TTMI,Elec-Contract Mfg
+TTNP,Medical-Biomed/Bth
+TTP,Financ-Pbl Inv Fdeqt
+TTSH,Retl Whsle Bldg Prds
+TTWO,Cmp Sftwr-Gaming
+TU,Telecom Svcs-Foreign
+TURB,Electrical Power/Eqpmt
+TUSK,Oil&Gas-Field Servic
+TUYA,Comptr Sftwr-Entr
+TV,Media-Diversified
+TVTX,Medical-Biomed/Bth
+TW,Financial Svc-Spec
+TWI,Auto/Trck-Tirs & M
+TWIN,Trnsprt-Eqp Mfg
+TWKS,Cmpter-Tech Srvcs
+TWLO,Comptr Sftwr-Entr
+TWLV,Finance-Blank Check
+TWN,Fin-Publ Inv Fd-Gl
+TWNK,Food-Packaged
+TWO,Finance-Mrtg-Reit
+TWOA,Finance-Blank Check
+TWOU,Cmptr Sftwr-Edu
+TWST,Medical-Biomed/Bth
+TX,Steel-Producers
+TXG,Medical-Products
+TXMD,Medical-Ethical Drgs
+TXN,Elec-Semicon Mfg
+TXO,Oil&Gas-U S Expl Pro
+TXRH,Retail-Restaurants
+TXT,Aerospace/Defense
+TYG,Financ-Pbl Inv Fdeqt
+TYGO,Energy Solar
+TYL,Cmp Sftwr-Spc-Entr
+TYRA,Medical-Biomed/Bth
+TZOO,Leisre-Trvl Bking
+U,Compter Sftwr-Dsgn
+UA,Apprel-Clthing Mfg
+UAA,Apprel-Clthing Mfg
+UAL,Trnsprttin-Airlne
+UAMY,Mining-Metal Ores
+UAN,Chemicals-Ag
+UAVS,Machinery-Farm
+UBCP,Banks-Midwest
+UBER,Leisure-Services
+UBFO,Banks-Wst/Sthwst
+UBS,Banks-Money Cntr
+UBSI,Banks-Southeast
+UBX,Medical-Biomed/Bth
+UCBI,Banks-Southeast
+UCL,Telecom Svcs-Foreign
+UCTT,Elec-Semicndctr Eqp
+UDMY,Cmptr Sftwr-Edu
+UDR,Finance-Property Reit
+UE,Finance-Property Reit
+UEC,Mining-Metal Ores
+UEIC,Consumer Prod-Elec
+UFCS,Insrnce-Prp/Cas/Titl
+UFI,Apprel-Clthing Mfg
+UFPI,Bldg-Wood Prds
+UFPT,Containers/Packaging
+UG,Medical-Products
+UGI,Oil&Gas-Rfing/Mkt
+UGP,Oil&Gas-Rfing/Mkt
+UGRO,Agricultural Oprtions
+UHAL,Comml Svcs-Leasing
+UHALB,Comml Svcs-Leasing
+UHG,Bldg-Rsidnt/Comml
+UHS,Medcal-Hospitals
+UHT,Finance-Property Reit
+UI,Telcom-Infrastr
+UIS,Cmpter-Tech Srvcs
+UL,Food-Packaged
+ULBI,Consumr Prod-Speci
+ULCC,Trnsprttin-Airlne
+ULH,Trnsportation-Trck
+ULTA,Retail-Specialty
+ULY,Cmp Sftwr-Dbase
+UMBF,Banks-Midwest
+UMC,Elec-Semicon Mfg
+UMH,Finance-Property Reit
+UNB,Banks-Northeast
+UNCY,Medical-Biomed/Bth
+UNF,Comml Svc-Outsourci
+UNFI,Wholesale-Food
+UNH,Med-Managed Care
+UNIT,Finance-Property Reit
+UNM,Insrnce-Acc & Heal
+UNP,Transportation-Rail
+UNTY,Banks-Northeast
+UP,Leisure-Services
+UPBD,Comml Svcs-Leasing
+UPC,Medical-Biomed/Bth
+UPLD,Comptr Sftwr-Entr
+UPS,Trnsprt-Air Freight
+UPST,Finance-Cons Loan
+UPWK,Comml Svcs-Stffng
+UPXI,Consumr Prod-Speci
+URBN,Retail-Apprl/Shoes/Acc
+URG,Mining-Metal Ores
+URGN,Medical-Biomed/Bth
+URI,Comml Svcs-Leasing
+UROY,Oil&Gas-Royalty Trust
+USAC,Oil&Gas-Field Servic
+USAP,Steel-Spclty Alloys
+USAS,Mining-Gld/Silvr/Gms
+USAU,Mining-Gld/Silvr/Gms
+USB,Banks-Supr Rgional
+USCB,Banks-Southeast
+USCT,Finance-Blank Check
+USDP,Transportation-Rail
+USEA,Transportation-Ship
+USEG,Oil&Gas-U S Expl Pro
+USFD,Wholesale-Food
+USIO,Finance-Card/Pmtpr
+USLM,Bldg-Cment/Cncrt
+USM,Telcom Svc-Wirles
+USNA,Cosmetics/Persnl Cre
+USPH,Mdcal-Outpnt/Hm Cr
+UTG,Financ-Pbl Inv Fdeqt
+UTHR,Medical-Biomed/Bth
+UTI,Consumr Svc-Edcation
+UTL,Utility-Diversified
+UTMD,Medical-Products
+UTRS,Medical-Systems/Eqp
+UTSI,Telcom-Infrastr
+UTZ,Food-Packaged
+UUU,Security/Sfty
+UUUU,Mining-Metal Ores
+UVE,Insrnce-Prp/Cas/Titl
+UVSP,Banks-Northeast
+UVV,Tobacco
+UWMC,Fin-Mrtg&Rel Svc
+V,Finance-Card/Pmtpr
+VABK,Banks-Southeast
+VAC,Leisure-Services
+VAL,Oil&Gas-Drilling
+VALE,Mining-Metal Ores
+VALN,Medical-Biomed/Bth
+VALU,Media-Periodicals
+VANI,Medical-Products
+VAPO,Medical-Products
+VAQC,Finance-Blank Check
+VATE,Steel-Spclty Alloys
+VAXX,Medical-Biomed/Bth
+VBFC,Banks-Southeast
+VBIV,Medical-Biomed/Bth
+VBNK,Banks-Foreign
+VBTX,Banks-Wst/Sthwst
+VC,Auto/Trck-Orgnl Eqp
+VCEL,Medical-Biomed/Bth
+VCNX,Medical-Biomed/Bth
+VCSA,Leisre-Trvl Bking
+VCTR,Fnce-Invsmnt Mgt
+VCYT,Med-Resrch Eqp/Svc
+VECO,Elec-Semicndctr Eqp
+VEEE,Leisure-Products
+VEEV,Comptr Sftwr-Mdcl
+VEL,Fin-Mrtg&Rel Svc
+VEON,Telecom Svcs-Foreign
+VERA,Medical-Biomed/Bth
+VERB,Cmp Sftwr-Spc-Entr
+VERI,Cmp Sftwr-Spc-Entr
+VERO,Medical-Systems/Eqp
+VERU,Medical-Products
+VERV,Medical-Biomed/Bth
+VERX,Comptr Sftwr-Fincl
+VERY,Insurance-Life
+VET,Oil&Gascdn Expl Pro
+VEV,Trucks & Parts-Hvy D
+VFC,Apprel-Clthing Mfg
+VFF,Agricultural Oprtions
+VFS,Auto Manufacturers
+VGAS,Energy-Alt/Other
+VGI,Fin-Publ Inv Fd-Gl
+VGR,Tobacco
+VGZ,Mining-Gld/Silvr/Gms
+VHC,Elec-Misc Products
+VHI,Chemicals-Specialty
+VIA,Utility-Diversified
+VIAV,Telcom-Fibr Optcs
+VICI,Finance-Property Reit
+VICR,Elec-Parts
+VIEW,Bldg-Cnstr Prds/Msc
+VINC,Medical-Biomed/Bth
+VINE,Beverages-Alcoholic
+VINP,Fnce-Invsmnt Mgt
+VIPS,Retail-Internet
+VIR,Medical-Biomed/Bth
+VIRC,Hsholdoffic Furnitr
+VIRI,Medical-Biomed/Bth
+VIRT,Financial Svc-Spec
+VIRX,Medical-Biomed/Bth
+VISL,Elec-Misc Products
+VIST,Oil&Gas-Intl Expl Pr
+VITL,Food-Meat Products
+VIV,Telecom Svcs-Foreign
+VKTX,Medical-Biomed/Bth
+VLCN,Leisure-Products
+VLD,Mchnry-Mtl Hdlg
+VLGEA,Retail-Spr/Mini Mkts
+VLN,Elec-Semicon Fblss
+VLO,Oil&Gas-Rfing/Mkt
+VLRS,Trnsprttin-Airlne
+VLTO,Pollution Control
+VLY,Banks-Northeast
+VMAR,Leisure-Products
+VMC,Bldg-Cment/Cncrt
+VMD,Mdcal-Whlsle Drg
+VMEO,Cmptr Sftwr-Edu
+VMI,Metal Proc & Fabrica
+VNCE,Apprel-Clthing Mfg
+VNDA,Medical-Biomed/Bth
+VNET,Intrnt-Netwk Sltns
+VNO,Finance-Property Reit
+VNOM,Oil&Gas-U S Expl Pro
+VNRX,Medical-Products
+VNT,Mchnry-Gen Indstrl
+VOC,Oil&Gas-Royalty Trust
+VOD,Telecom Svcs-Foreign
+VOR,Medical-Biomed/Bth
+VOXR,Mining-Gld/Silvr/Gms
+VOXX,Telcom-Cons Prod
+VOYA,Insurance-Life
+VPG,Elec-Scntific/Msrng
+VRA,Apprel-Clthing Mfg
+VRAR,Cmp Sftwr-Spc-Entr
+VRCA,Medical-Biomed/Bth
+VRDN,Medical-Biomed/Bth
+VRE,Finance-Property Reit
+VREX,Medical-Systems/Eqp
+VRM,Retail/Whlsle-Auto
+VRME,Security/Sfty
+VRNA,Medical-Biomed/Bth
+VRNS,Cmp Sftwr-Dbase
+VRNT,Comptr Sftwr-Scrity
+VRPX,Medical-Biomed/Bth
+VRRM,Cmp Sftwr-Spc-Entr
+VRSK,Cmml Svcs-Mrkt Rch
+VRSN,Comptr Sftwr-Scrity
+VRT,Electrical Power/Eqpmt
+VRTS,Fnce-Invsmnt Mgt
+VRTX,Medical-Biomed/Bth
+VS,Comptr Sftwr-Dsktp
+VSAC,Finance-Blank Check
+VSAT,Telcom-Infrastr
+VSCO,Apprel-Clthing Mfg
+VSEC,Cmml Svcs-Cnsltng
+VSH,Elec-Parts
+VST,Utility-Elctric Pwr
+VSTA,Consumr Svc-Edcation
+VSTM,Medical-Biomed/Bth
+VSTO,Leisure-Products
+VSTS,Comml Svc-Outsourci
+VTAK,Medical-Systems/Eqp
+VTEX,Cmp Sftwr-Spc-Entr
+VTGN,Medical-Biomed/Bth
+VTLE,Oil&Gas-U S Expl Pro
+VTMX,Real State Dvlpmt/Ops
+VTNR,Oil&Gas-Rfing/Mkt
+VTR,Finance-Property Reit
+VTRS,Medical-Generc Drgs
+VTRU,Consumr Svc-Edcation
+VTS,Fnce-Invsmnt Mgt
+VTSI,Cmptr Sftwr-Edu
+VTVT,Medical-Biomed/Bth
+VTYX,Medical-Biomed/Bth
+VUZI,Consumr Prod-Speci
+VVI,Coml Svcs-Advrtsng
+VVOS,Medical-Biomed/Bth
+VVV,Retail/Wsl-Auto Prt
+VVX,Bldg-Mntnance & S
+VWE,Beverages-Alcoholic
+VXRT,Medical-Biomed/Bth
+VYGR,Medical-Biomed/Bth
+VYNE,Medical-Biomed/Bth
+VYX,Cmptr-Intgrtd Syst
+VZ,Telcom Svc-Integrtd
+VZIO,Consumer Prod-Elec
+VZLA,Mining-Gld/Silvr/Gms
+W,Retail-Internet
+WAB,Trnsprt-Eqp Mfg
+WABC,Banks-Wst/Sthwst
+WAFD,Banks-Wst/Sthwst
+WAL,Banks-Wst/Sthwst
+WALD,Cosmetics/Persnl Cre
+WASH,Banks-Northeast
+WAT,Medical-Systems/Eqp
+WATT,Elec-Misc Products
+WAVD,Cmpter-Tech Srvcs
+WAVE,Utility-Elctric Pwr
+WB,Internet-Content
+WBA,Retail-Drug Stores
+WBD,Media-Radio/Tv
+WBS,Banks-Northeast
+WBUY,Retail-Internet
+WCC,Elec-Parts
+WCN,Pollution Control
+WD,Finance-Cmrcl Loan
+WDAY,Comptr Sftwr-Entr
+WDC,Comptr-Data Strge
+WDFC,Chemicals-Specialty
+WDH,Insurance-Brokers
+WDS,Oil&Gas-Intl Expl Pr
+WEAV,Internet-Content
+WEC,Utility-Diversified
+WEL,Finance-Blank Check
+WELL,Finance-Property Reit
+WEN,Retail-Restaurants
+WERN,Trnsportation-Trck
+WES,Oil&Gas-Trnsprt/Pip
+WEST,Bev-Non-Alcoholic
+WEX,Finance-Card/Pmtpr
+WEYS,Apparel-Shoes & Rel
+WF,Banks-Foreign
+WFC,Banks-Money Cntr
+WFCF,Cmml Svcs-Cnsltng
+WFG,Bldg-Wood Prds
+WFRD,Oil&Gas-Mchnry/Eq
+WGO,Bldg-Mbile/Mfg & Rv
+WGS,Medical-Biomed/Bth
+WH,Leisure-Lodging
+WHD,Oil&Gas-Mchnry/Eq
+WHF,Fnce-Invsmnt Mgt
+WHG,Fnce-Invsmnt Mgt
+WHLM,Comml Svcs-Stffng
+WHLR,Finance-Property Reit
+WHR,Houshld-Applncs/Hw
+WILC,Wholesale-Food
+WINA,Retail-Leisure Prds
+WING,Retail-Restaurants
+WINT,Medical-Biomed/Bth
+WIRE,Electrical Power/Eqpmt
+WISA,Elec-Misc Products
+WISH,Retail-Internet
+WIT,Cmpter-Tech Srvcs
+WIW,Fince-Pub Inv Fd-Bl
+WIX,Comptr Sftwr-Entr
+WK,Cmp Sftwr-Dbase
+WKC,Oil&Gas-Rfing/Mkt
+WKHS,Auto/Trck-Orgnl Eqp
+WKME,Comptr Sftwr-Entr
+WKSP,Auto/Trck-Rplc Prts
+WLDN,Bldg-Heavy Constr
+WLDS,Consumer Prod-Elec
+WLFC,Comml Svcs-Leasing
+WLK,Chemicals-Basic
+WLKP,Chemicals-Basic
+WLY,Media-Books
+WLYB,Media-Books
+WM,Pollution Control
+WMB,Oil&Gas Integrated
+WMC,Finance-Mrtg-Reit
+WMG,Leisure-Services
+WMK,Retail-Spr/Mini Mkts
+WMPN,Banks-Northeast
+WMS,Bldg-Cnstr Prds/Msc
+WMT,Retail-Mjr Dsc Chns
+WNC,Trnsprt-Eqp Mfg
+WNEB,Financ-Svings & Lo
+WNNR,Finance-Blank Check
+WNS,Comml Svc-Outsourci
+WOLF,Elec-Semicon Mfg
+WOOF,Retail-Specialty
+WOR,Metal Proc & Fabrica
+WORX,Comptr Sftwr-Mdcl
+WOW,Telcom-Svc-Cbl/Sat
+WPC,Finance-Property Reit
+WPM,Mining-Gld/Silvr/Gms
+WPP,Coml Svcs-Advrtsng
+WPRT,Trucks & Parts-Hvy D
+WRAP,Security/Sfty
+WRB,Insrnce-Prp/Cas/Titl
+WRBY,Retail-Specialty
+WRK,Paper & Paper Produc
+WRLD,Finance-Cons Loan
+WRN,Mining-Metal Ores
+WRNT,Cmml Svcs-Mrkt Rch
+WS,Steel-Spclty Alloys
+WSBC,Banks-Southeast
+WSBF,Financ-Svings & Lo
+WSC,Comml Svcs-Leasing
+WSFS,Financ-Svings & Lo
+WSM,Rtail-Hme Frnshngs
+WSO,Bldg-A/C & Heating P
+WSR,Finance-Property Reit
+WST,Medical Supplies
+WT,Fnce-Invsmnt Mgt
+WTBA,Banks-Midwest
+WTFC,Banks-Midwest
+WTI,Oil&Gas-U S Expl Pro
+WTM,Insrnce-Prp/Cas/Titl
+WTRG,Utility-Water Supply
+WTS,Bldg-Cnstr Prds/Msc
+WTTR,Utility-Water Supply
+WTW,Insurance-Brokers
+WU,Financial Svc-Spec
+WULF,Chemicals-Specialty
+WVE,Medical-Biomed/Bth
+WVVI,Beverages-Alcoholic
+WW,Cosmetics/Persnl Cre
+WWD,Aerospace/Defense
+WWR,Mining-Metal Ores
+WWW,Apparel-Shoes & Rel
+WY,Finance-Property Reit
+WYNN,Leisre-Gamng/Equip
+WYY,Cmpter-Tech Srvcs
+X,Steel-Producers
+XAIR,Medical-Systems/Eqp
+XBIO,Medical-Biomed/Bth
+XBIT,Medical-Biomed/Bth
+XEL,Utility-Diversified
+XENE,Medical-Biomed/Bth
+XERS,Medical-Biomed/Bth
+XFOR,Medical-Biomed/Bth
+XGN,Med-Resrch Eqp/Svc
+XHR,Finance-Property Reit
+XLO,Medical-Biomed/Bth
+XMTR,Mchnry-Mtl Hdlg
+XNCR,Medical-Biomed/Bth
+XNET,Cmptr Sftwr-Edu
+XOM,Oil&Gas Integrated
+XOMA,Medical-Biomed/Bth
+XOS,Trucks & Parts-Hvy D
+XP,Fin-Invest Bnk/Bkrs
+XPDB,Finance-Blank Check
+XPEL,Auto/Trck-Rplc Prts
+XPER,Elec-Semicon Mfg
+XPEV,Auto Manufacturers
+XPL,Mining-Metal Ores
+XPO,Transport-Logistics
+XPOF,Leisure-Services
+XPON,Electrical Power/Eqpmt
+XPRO,Oil&Gas-Field Servic
+XRAY,Medical Supplies
+XRX,Cmp-Hrdwre/Perip
+XTNT,Medical-Products
+XWEL,Cosmetics/Persnl Cre
+XXII,Tobacco
+XYL,Machnry-Tools & Re
+YALA,Internet-Content
+YCBD,Consumr Prod-Speci
+YELP,Internet-Content
+YETI,Leisure-Products
+YEXT,Cmp Sftwr-Spc-Entr
+YGMZ,Trnsportation-Trck
+YHGJ,Consumr Prod-Speci
+YI,Retail-Drug Stores
+YJ,Retail-Internet
+YMAB,Medical-Biomed/Bth
+YMM,Internet-Content
+YNDX,Internet-Content
+YORW,Utility-Water Supply
+YOSH,Retail-Restaurants
+YOTA,Finance-Blank Check
+YOU,Security/Sfty
+YPF,Oil&Gas Integrated
+YQ,Consumr Svc-Edcation
+YRD,Comptr Sftwr-Fincl
+YS,Medical-Biomed/Bth
+YSG,Cosmetics/Persnl Cre
+YTEN,Agricultural Oprtions
+YTRA,Leisre-Trvl Bking
+YUM,Retail-Restaurants
+YUMC,Retail-Restaurants
+YY,Internet-Content
+Z,Internet-Content
+ZAPP,Auto Manufacturers
+ZBH,Medical-Products
+ZBRA,Elec-Misc Products
+ZD,Internet-Content
+ZDGE,Cmptr Sftwr-Edu
+ZEO,Energy Solar
+ZEPP,Consumer Prod-Elec
+ZETA,Cmp Sftwr-Dbase
+ZEUS,Metal Prds-Distribtr
+ZFOX,Comptr Sftwr-Scrity
+ZG,Internet-Content
+ZI,Comptr Sftwr-Entr
+ZIM,Transportation-Ship
+ZIMV,Medical-Products
+ZION,Banks-Wst/Sthwst
+ZIP,Internet-Content
+ZIVO,Med-Resrch Eqp/Svc
+ZKH,Retail-Internet
+ZLAB,Medical-Biomed/Bth
+ZM,Comptr Sftwr-Entr
+ZNTL,Medical-Biomed/Bth
+ZOM,Medical-Biomed/Bth
+ZS,Comptr Sftwr-Scrity
+ZTEK,Medical-Biomed/Bth
+ZTO,Transport-Logistics
+ZTR,Fince-Pub Inv Fd-Bl
+ZTS,Medical-Ethical Drgs
+ZUMZ,Retail-Apprl/Shoes/Acc
+ZUO,Cmp Sftwr-Spc-Entr
+ZURA,Medical-Biomed/Bth
+ZVIA,Bev-Non-Alcoholic
+ZVSA,Medical-Biomed/Bth
+ZWS,Mchnry-Gen Indstrl
+ZYME,Medical-Biomed/Bth
+ZYXI,Medical-Products
