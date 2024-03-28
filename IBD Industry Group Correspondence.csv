@@ -1,0 +1,195 @@
+N°,Industry Grp Investors.com,Industry Grp Data-Table
+1,Aerospace/Defense,Aerospace/Defense
+2,Agricultural Operations,Agricultural Oprtions
+3,Apparel-Clothing Mfg,Apprel-Clthing Mfg
+4,Apparel-Shoes & Rel Mfg,Apparel-Shoes & Rel
+5,Auto Manufacturers,Auto Manufacturers
+6,Auto/Truck-Original Eqp,Auto/Trck-Orgnl Eqp
+7,Auto/Truck-Replace Parts,Auto/Trck-Rplc Prts
+8,Auto/Truck-Tires & Misc,Auto/Trck-Tirs & M
+9,Banks-Foreign,Banks-Foreign
+10,Banks-Midwest,Banks-Midwest
+11,Banks-Money Center,Banks-Money Cntr
+12,Banks-Northeast,Banks-Northeast
+13,Banks-Southeast,Banks-Southeast
+14,Banks-West/Southwest,Banks-Wst/Sthwst
+15,Beverages-Alcoholic,Beverages-Alcoholic
+16,Beverages-Non-Alcoholic,Bev-Non-Alcoholic
+17,Bldg-A/C & Heating Prds,Bldg-A/C & Heating P
+18,Bldg-Cement/Concrt/Ag,Bldg-Cment/Cncrt
+19,Bldg-Constr Prds/Misc,Bldg-Cnstr Prds/Msc
+20,Bldg-Hand Tools,Bldg-Hand Tools
+21,Bldg-Heavy Construction,Bldg-Heavy Constr
+22,Bldg-Maintenance & Svc,Bldg-Mntnance & S
+23,Bldg-Mobile/Mfg & Rv,Bldg-Mbile/Mfg & Rv
+24,Bldg-Resident/Comml,Bldg-Rsidnt/Comml
+25,Bldg-Wood Prds,Bldg-Wood Prds
+26,Chemicals-Agricultural,Chemicals-Ag
+27,Chemicals-Basic,Chemicals-Basic
+28,Chemicals-Paints,Chemicals-Paints
+29,Chemicals-Plastics,Chemicals-Plastics
+30,Chemicals-Specialty,Chemicals-Specialty
+31,Comml Svcs-Advertising,Coml Svcs-Advrtsng
+32,Comml Svcs-Consulting,Cmml Svcs-Cnsltng
+33,Comml Svcs-Document Mgmt,Comml Svc-Doc Mgmt
+34,Comml Svcs-Healthcare,Comml Svcs-Hlthcre
+35,Comml Svcs-Leasing,Comml Svcs-Leasing
+36,Comml Svcs-Market Rsrch,Cmml Svcs-Mrkt Rch
+37,Comml Svcs-Market Rsrch,Media-Periodicals
+38,Comml Svcs-Outsourcing,Comml Svc-Outsourci
+39,Comml Svcs-Staffing,Comml Svcs-Stffng
+40,Comp Sftwr-Spec Enterprs,Cmp Sftwr-Spc-Entr
+41,Computer Sftwr-Database,Cmp Sftwr-Dbase
+42,Computer Sftwr-Design,Compter Sftwr-Dsgn
+43,Computer Sftwr-Desktop,Comptr Sftwr-Dsktp
+44,Computer Sftwr-Edu/Media,Cmptr Sftwr-Edu
+45,Computer Sftwr-Enterprse,Comptr Sftwr-Entr
+46,Computer Sftwr-Financial,Comptr Sftwr-Fincl
+47,Computer Sftwr-Gaming,Cmp Sftwr-Gaming
+48,Computer Sftwr-Medical,Comptr Sftwr-Mdcl
+49,Computer Sftwr-Security,Comptr Sftwr-Scrity
+50,Computer-Data Storage,Comptr-Data Strge
+51,Computer-Hardware/Perip,Cmp-Hrdwre/Perip
+52,Computer-Integrated Syst,Cmptr-Intgrtd Syst
+53,Computer-Networking,Compter-Netwrking
+54,Computer-Tech Services,Cmpter-Tech Srvcs
+55,Consumer Prod-Electronic,Consumer Prod-Elec
+56,Consumer Prod-Specialty,Consumr Prod-Speci
+57,Consumer Svcs-Education,Consumr Svc-Edcation
+58,Containers/Packaging,Containers/Packaging
+59,Cosmetics/Personal Care,Cosmetics/Persnl Cre
+60,Diversified Operations,Dvrsified Oprtions
+61,Elec-Contract Mfg,Elec-Contract Mfg
+62,Elec-Misc Products,Elec-Misc Products
+63,Elec-Scientific/Msrng,Elec-Scntific/Msrng
+64,Elec-Semicondctor Fablss,Elec-Semicon Fblss
+65,Elec-Semiconductor Equip,Elec-Semicndctr Eqp
+66,Elec-Semiconductor Mfg,Elec-Semicon Mfg
+67,Electrical-Power/Equipmt,Electrical Power/Eqpmt
+68,Electronic-Parts,Elec-Parts
+69,Energy-Alternative/Other,Energy-Alt/Other
+70,Energy-Coal,Energy Coal
+71,Energy-Solar,Energy Solar
+72,Finance-Blank Check,Finance-Blank Check
+73,Finance-Commercial Loans,Finance-Cmrcl Loan
+74,Finance-Consumer Loans,Finance-Cons Loan
+75,Finance-CrdtCard/PmtPr,Finance-Card/Pmtpr
+76,Finance-Invest Bnk/Bkrs,Fin-Invest Bnk/Bkrs
+77,Finance-Investment Mgmt,Fnce-Invsmnt Mgt
+78,Finance-Mortgage REIT,Finance-Mrtg-Reit
+79,Finance-Mrtg&Rel Svc,Fin-Mrtg&Rel Svc
+80,Finance-Property REIT,Finance-Property Reit
+81,Finance-Publ Inv Fd-Bal,Fince-Pub Inv Fd-Bl
+82,Finance-Publ Inv Fd-Eqt,Financ-Pbl Inv Fdeqt
+83,Finance-Publ Inv Fd-Glbl,Fin-Publ Inv Fd-Gl
+84,Finance-Savings & Loan,Financ-Svings & Lo
+85,Financial Svcs-Specialty,Financial Svc-Spec
+86,Food-Confectionery,Food-Confectionery
+87,Food-Dairy Products,Food-Dairy Products
+88,Food-Grain & Related,Food-Grain & Related
+89,Food-Meat Products,Food-Meat Products
+90,Food-Misc Preparation,Food-Misc Prep
+91,Food-Packaged,Food-Packaged
+92,Funeral Svcs & Rel,Funeral Svcs & Rel
+93,Hsehold/Office Furniture,Hsholdoffic Furnitr
+94,Hsehold-Appliances/Wares,Houshld-Applncs/Hw
+95,Insurance-Acc & Health,Insrnce-Acc & Heal
+96,Insurance-Brokers,Insurance-Brokers
+97,Insurance-Diversified,Insrnce-Divrsified
+98,Insurance-Life,Insurance-Life
+99,Insurance-Prop/Cas/Titl,Insrnce-Prp/Cas/Titl
+100,Internet-Content,Internet-Content
+101,Internet-Network Sltns,Intrnt-Netwk Sltns
+102,Leisure-Gaming/Equip,Leisre-Gamng/Equip
+103,Leisure-Lodging,Leisure-Lodging
+104,Leisure-Movies & Related,Leisre-Mvies & Rel
+105,Leisure-Products,Leisure-Products
+106,Leisure-Services,Leisure-Services
+107,Leisure-Toys/Games/Hobby,Leisr-Tys/Gms/Hbby
+108,Leisure-Travel Booking,Leisre-Trvl Bking
+109,Machinery-Constr/Mining,Mchinry-Cnstr/Mng
+110,Machinery-Farm,Machinery-Farm
+111,Machinery-Gen Industrial,Mchnry-Gen Indstrl
+112,Machinery-Mtl Hdlg/Autmn,Mchnry-Mtl Hdlg
+113,Machinery-Tools & Rel,Machnry-Tools & Re
+114,Media-Books,Media-Books
+115,Media-Diversified,Media-Diversified
+116,Media-Newspapers,Media-Newspapers
+117,Media-Radio/Tv,Media-Radio/Tv
+118,Medical-Biomed/Biotech,Medical-Biomed/Bth
+119,Medical-Diversified,Medical-Diversified
+120,Medical-Ethical Drugs,Medical-Ethical Drgs
+121,Medical-Generic Drugs,Medical-Generc Drgs
+122,Medical-Hospitals,Medcal-Hospitals
+123,Medical-Long-term Care,Med-Long-Trm Care
+124,Medical-Managed Care,Med-Managed Care
+125,Medical-Outpnt/Hm Care,Mdcal-Outpnt/Hm Cr
+126,Medical-Products,Medical-Products
+127,Medical-Research Eqp/Svc,Med-Resrch Eqp/Svc
+128,Medical-Services,Medical-Services
+129,Medical-Supplies,Medical Supplies
+130,Medical-Systems/Equip,Medical-Systems/Eqp
+131,Medical-Whlsle Drg/Suppl,Mdcal-Whlsle Drg
+132,Metal Prds-Distributor,Metal Prds-Distribtr
+133,Metal Proc & Fabrication,Metal Proc & Fabrica
+134,Mining-Gold/Silver/Gems,Mining-Gld/Silvr/Gms
+135,Mining-Metal Ores,Mining-Metal Ores
+136,Office Supplies Mfg,Office Supplies Mfg
+137,Oil&Gas-Cdn Expl&Prod,Oil&Gascdn Expl Pro
+138,Oil&Gas-Drilling,Oil&Gas-Drilling
+139,Oil&Gas-Field Services,Oil&Gas-Field Servic
+140,Oil&Gas-Integrated,Oil&Gas Integrated
+141,Oil&Gas-Intl Expl&Prod,Oil&Gas-Intl Expl Pr
+142,Oil&Gas-Machinery/Equip,Oil&Gas-Mchnry/Eq
+143,Oil&Gas-Refining/Mktg,Oil&Gas-Rfing/Mkt
+144,Oil&Gas-Royalty Trust,Oil&Gas-Royalty Trust
+145,Oil&Gas-Transprt/Pipelne,Oil&Gas-Trnsprt/Pip
+146,Oil&Gas-U S Expl&Prod,Oil&Gas-U S Expl Pro
+147,Paper & Paper Products,Paper & Paper Produc
+148,Pollution Control,Pollution Control
+149,Real Estate Dvlpmt/Ops,Real State Dvlpmt/Ops
+150,Retail/Whlsle-Auto Parts,Retail/Wsl-Auto Prt
+151,Retail/Whlsle-Automobile,Retail/Whlsle-Auto
+152,Retail/Whlsle-Bldg Prds,Retl Whsle Bldg Prds
+153,Retail/Whlsle-Jewelry,Retail/Whlsle-Jwlry
+154,Retail/Whlsle-Office Sup,Rtail Whlsle Offc Sup
+155,Retail-Apparel/Shoes/Acc,Retail-Apprl/Shoes/Acc
+156,Retail-Consumer Elec,Retail-Cnsmr Elec
+157,Retail-Department Stores,Retail-Dprtmnt Strs
+158,Retail-Discount&Variety,Retail-Discnt&Vari
+159,Retail-Drug Stores,Retail-Drug Stores
+160,Retail-Home Furnishings,Rtail-Hme Frnshngs
+161,Retail-Internet,Retail-Internet
+162,Retail-Leisure Products,Retail-Leisure Prds
+163,Retail-Mail Order&Direct,Retail-Mail Order&Di
+164,Retail-Major Disc Chains,Retail-Mjr Dsc Chns
+165,Retail-Restaurants,Retail-Restaurants
+166,Retail-Specialty,Retail-Specialty
+167,Retail-Super/Mini Mkts,Retail-Spr/Mini Mkts
+168,Security/Sfty,Security/Sfty
+169,Soap & Clng Preparatns,Soap & Clng Preparat
+170,Steel-Producers,Steel-Producers
+171,Steel-Specialty Alloys,Steel-Spclty Alloys
+172,Telecom Svcs- Foreign,Telecom Svcs-Foreign
+173,Telecom Svcs-Cable/Satl,Telcom-Svc-Cbl/Sat
+174,Telecom Svcs-Integrated,Telcom Svc-Integrtd
+175,Telecom Svcs-Wireless,Telcom Svc-Wirles
+176,Telecom-Cable/Satl Eqp,Telcom-Cbl/Sat Eqp
+177,Telecom-Consumer Prods,Telcom-Cons Prod
+178,Telecom-Fiber Optics,Telcom-Fibr Optcs
+179,Telecom-Infrastructure,Telcom-Infrastr
+180,Tobacco,Tobacco
+181,Transport-Air Freight,Trnsprt-Air Freight
+182,Transportation-Airline,Trnsprttin-Airlne
+183,Transportation-Equip Mfg,Trnsprt-Eqp Mfg
+184,Transportation-Logistics,Transport-Logistics
+185,Transportation-Rail,Transportation-Rail
+186,Transportation-Ship,Transportation-Ship
+187,Transportation-Truck,Trnsportation-Trck
+188,Trucks & Parts-Hvy Duty,Trucks & Parts-Hvy D
+189,Utility-Diversified,Utility-Diversified
+190,Utility-Electric Power,Utility-Elctric Pwr
+191,Utility-Gas Distribution,Utility-Gas Dstribtn
+192,Utility-Water Supply,Utility-Water Supply
+193,Wholesale-Electronics,Wholesale-Elect
+194,Wholesale-Food,Wholesale-Food
