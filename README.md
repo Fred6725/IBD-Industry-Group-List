@@ -6,8 +6,6 @@ You can import the list on your sheet using =IMPORTDATA() function.
 
 https://github.com/Fred6725/IBD-Industry-Group-List/blob/main/IBD%20Industry%20Group%20List%205298%20Ticker.csv
 
-Only 5298 tickers are listed, some will be missing.
-
 # Industry Group missing
 
 If your ticker isn't in the list, you can use investors.com.
